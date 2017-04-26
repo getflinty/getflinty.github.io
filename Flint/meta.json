@@ -1,1 +1,53 @@
-{"commit":"2ac3f43dc64a2b7982dc85b584be457e7bbba129","appVersion":"43.2","build":39069,"app":"com.bohemiancoding.sketch3","pagesAndArtboards":{"C437A2EB-9A24-4D0D-B8D0-0C6624F217EC":{"name":"Page 1","artboards":{"E8C8CB91-3338-46E0-B5F0-DE625B5EC40C":{"name":"Profile"},"0E01AF72-63F2-442A-93C0-B4C6B4149DA4":{"name":"Campaign"},"E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A":{"name":"Home"}}},"86AFA275-57F7-42E2-9543-2B0830AD6A19":{"name":"Symbols","artboards":{"67DC84F2-757E-4640-83DB-88B3C4D29DEF":{"name":"Logo"},"B94BE59B-8D15-4EA9-A249-2BDB31458C93":{"name":"Drawer Icon"}}}},"fonts":["Lato-Bold","Raleway-Bold","Lato-Regular","Raleway-Regular"],"created":{"app":"com.bohemiancoding.sketch3","commit":"2ac3f43dc64a2b7982dc85b584be457e7bbba129","build":39069,"appVersion":"43.2","variant":"NONAPPSTORE","version":88},"version":88,"saveHistory":["NONAPPSTORE.39069"],"autosaved":0,"variant":"NONAPPSTORE"}
+{
+  "saveHistory": [
+    "NONAPPSTORE.39069"
+  ], 
+  "created": {
+    "app": "com.bohemiancoding.sketch3", 
+    "variant": "NONAPPSTORE", 
+    "appVersion": "43.2", 
+    "version": 88, 
+    "build": 39069, 
+    "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129"
+  }, 
+  "app": "com.bohemiancoding.sketch3", 
+  "fonts": [
+    "Lato-Bold", 
+    "Raleway-Bold", 
+    "Lato-Regular", 
+    "Raleway-Regular"
+  ], 
+  "variant": "NONAPPSTORE", 
+  "appVersion": "43.2", 
+  "version": 88, 
+  "build": 39069, 
+  "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129", 
+  "pagesAndArtboards": {
+    "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
+      "artboards": {
+        "E8C8CB91-3338-46E0-B5F0-DE625B5EC40C": {
+          "name": "Profile"
+        }, 
+        "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A": {
+          "name": "Home"
+        }, 
+        "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
+          "name": "Campaign"
+        }
+      }, 
+      "name": "Page 1"
+    }, 
+    "86AFA275-57F7-42E2-9543-2B0830AD6A19": {
+      "artboards": {
+        "B94BE59B-8D15-4EA9-A249-2BDB31458C93": {
+          "name": "Drawer Icon"
+        }, 
+        "67DC84F2-757E-4640-83DB-88B3C4D29DEF": {
+          "name": "Logo"
+        }
+      }, 
+      "name": "Symbols"
+    }
+  }, 
+  "autosaved": 0
+}

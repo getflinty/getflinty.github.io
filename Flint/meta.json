@@ -12,8 +12,8 @@
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
-    "Lato-Bold", 
     "Raleway-Bold", 
+    "Lato-Bold", 
     "Raleway-Italic", 
     "Lato-Regular", 
     "Raleway-Regular"
@@ -53,5 +53,5 @@
       "name": "UI Kit"
     }
   }, 
-  "autosaved": 1
+  "autosaved": 0
 }

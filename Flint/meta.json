@@ -14,6 +14,7 @@
   "fonts": [
     "Lato-Bold", 
     "Raleway-Bold", 
+    "Raleway-Italic", 
     "Lato-Regular", 
     "Raleway-Regular"
   ], 
@@ -41,6 +42,9 @@
       "artboards": {
         "B94BE59B-8D15-4EA9-A249-2BDB31458C93": {
           "name": "Drawer Icon"
+        }, 
+        "0DBDA37D-680A-4BBC-B687-47AFDAF9A57B": {
+          "name": "Typography"
         }, 
         "67DC84F2-757E-4640-83DB-88B3C4D29DEF": {
           "name": "Logo"

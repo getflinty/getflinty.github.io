@@ -1,22 +1,1614 @@
 {
   "layers": [
     {
-      "layerListExpandedType": 1, 
+      "layerListExpandedType": 2, 
       "frame": {
         "constrainProportions": false, 
         "height": 1024, 
         "width": 1440, 
-        "y": 1375, 
+        "y": 1377, 
         "x": -265, 
         "_class": "rect"
       }, 
       "resizingType": 0, 
-      "layers": [], 
+      "layers": [
+        {
+          "layers": [
+            {
+              "edited": false, 
+              "isFlippedHorizontal": false, 
+              "name": "Path", 
+              "booleanOperation": -1, 
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 204, 
+                "width": 1440, 
+                "y": 0, 
+                "x": 0, 
+                "_class": "rect"
+              }, 
+              "resizingType": 0, 
+              "do_objectID": "F98F8A3A-37EC-4F7A-8A59-D1FE3A92F39F", 
+              "hasConvertedToNewRoundCorners": true, 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "path": {
+                "isClosed": true, 
+                "_class": "path", 
+                "points": [
+                  {
+                    "curveFrom": "{0, 0}", 
+                    "curveTo": "{0, 0}", 
+                    "point": "{0, 0}", 
+                    "hasCurveTo": false, 
+                    "cornerRadius": 0, 
+                    "hasCurveFrom": false, 
+                    "_class": "curvePoint", 
+                    "curveMode": 1
+                  }, 
+                  {
+                    "curveFrom": "{1, 0}", 
+                    "curveTo": "{1, 0}", 
+                    "point": "{1, 0}", 
+                    "hasCurveTo": false, 
+                    "cornerRadius": 0, 
+                    "hasCurveFrom": false, 
+                    "_class": "curvePoint", 
+                    "curveMode": 1
+                  }, 
+                  {
+                    "curveFrom": "{1, 1}", 
+                    "curveTo": "{1, 1}", 
+                    "point": "{1, 1}", 
+                    "hasCurveTo": false, 
+                    "cornerRadius": 0, 
+                    "hasCurveFrom": false, 
+                    "_class": "curvePoint", 
+                    "curveMode": 1
+                  }, 
+                  {
+                    "curveFrom": "{0, 1}", 
+                    "curveTo": "{0, 1}", 
+                    "point": "{0, 1}", 
+                    "hasCurveTo": false, 
+                    "cornerRadius": 0, 
+                    "hasCurveFrom": false, 
+                    "_class": "curvePoint", 
+                    "curveMode": 1
+                  }
+                ]
+              }, 
+              "rotation": 0, 
+              "_class": "rectangle", 
+              "fixedRadius": 0, 
+              "nameIsFixed": false, 
+              "isFlippedVertical": false
+            }
+          ], 
+          "style": {
+            "fills": [
+              {
+                "fillType": 0, 
+                "patternTileScale": 1, 
+                "color": {
+                  "blue": 0.508343962585034, 
+                  "alpha": 1, 
+                  "_class": "color", 
+                  "green": 0.508343962585034, 
+                  "red": 0.508343962585034
+                }, 
+                "isEnabled": true, 
+                "noiseIndex": 0, 
+                "patternFillType": 1, 
+                "_class": "fill", 
+                "noiseIntensity": 0
+              }
+            ], 
+            "endDecorationType": 0, 
+            "miterLimit": 10, 
+            "borders": [
+              {
+                "fillType": 0, 
+                "color": {
+                  "blue": 0.592, 
+                  "alpha": 1, 
+                  "_class": "color", 
+                  "green": 0.592, 
+                  "red": 0.592
+                }, 
+                "isEnabled": false, 
+                "thickness": 1, 
+                "position": 1, 
+                "_class": "border"
+              }
+            ], 
+            "_class": "style", 
+            "startDecorationType": 0
+          }, 
+          "isFlippedHorizontal": false, 
+          "name": "background photo", 
+          "hasClippingMask": false, 
+          "hasClickThrough": false, 
+          "layerListExpandedType": 1, 
+          "frame": {
+            "constrainProportions": false, 
+            "height": 204, 
+            "width": 1440, 
+            "y": 0, 
+            "x": 0, 
+            "_class": "rect"
+          }, 
+          "clippingMaskMode": 0, 
+          "resizingType": 0, 
+          "do_objectID": "20F133CA-70F4-4255-978D-00BC02EBDBE2", 
+          "isLocked": false, 
+          "shouldBreakMaskChain": false, 
+          "windingRule": 1, 
+          "exportOptions": {
+            "shouldTrim": false, 
+            "includedLayerIds": [], 
+            "_class": "exportOptions", 
+            "layerOptions": 0, 
+            "exportFormats": []
+          }, 
+          "isVisible": true, 
+          "rotation": 0, 
+          "_class": "shapeGroup", 
+          "nameIsFixed": true, 
+          "isFlippedVertical": false
+        }, 
+        {
+          "layers": [
+            {
+              "layers": [
+                {
+                  "edited": false, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 440.0000000000001, 
+                    "width": 780, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "do_objectID": "B87BAE03-C440-4E0A-ADB6-D3A96426E39D", 
+                  "hasConvertedToNewRoundCorners": true, 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0, 0}", 
+                        "curveTo": "{0, 0}", 
+                        "point": "{0, 0}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{1, 0}", 
+                        "curveTo": "{1, 0}", 
+                        "point": "{1, 0}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{1, 1}", 
+                        "curveTo": "{1, 1}", 
+                        "point": "{1, 1}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{0, 1}", 
+                        "curveTo": "{0, 1}", 
+                        "point": "{0, 1}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "rectangle", 
+                  "fixedRadius": 0, 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.847, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.847, 
+                      "red": 0.847
+                    }, 
+                    "isEnabled": true, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.592, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.592, 
+                      "red": 0.592
+                    }, 
+                    "isEnabled": false, 
+                    "thickness": 1, 
+                    "position": 1, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "startDecorationType": 0
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "profile card", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 1, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 440, 
+                "width": 780, 
+                "y": 101, 
+                "x": 0, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "do_objectID": "A17C238B-1B33-4D35-9CDC-C3B7EBA4C9BD", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 32, 
+                "width": 483, 
+                "y": 279, 
+                "x": 148, 
+                "_class": "rect"
+              }, 
+              "glyphBounds": "{{0, 0}, {674, 17}}", 
+              "resizingType": 0, 
+              "heightIsClipped": false, 
+              "style": {
+                "endDecorationType": 0, 
+                "textStyle": {
+                  "_class": "textStyle", 
+                  "encodedAttributes": {
+                    "NSParagraphStyle": {
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGICFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBESWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3OAABACgAIQAYAE0hQNFRZaTlMub2JqZWN0c6CAA9IYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIaHFhOU09iamVjdNIYGR4fXxAQTlNQYXJhZ3JhcGhTdHlsZaIeHF8QD05TS2V5ZWRBcmNoaXZlctEiI1Ryb290gAEACAARABoAIwAtADIANwA9AEMATgBZAGUAcgCUAJsAnQCfAKEAowClAKoAtQC2ALgAvQDIANEA2QDcAOUA6gD9AQABEgEVARoAAAAAAAACAQAAAAAAAAAkAAAAAAAAAAAAAAAAAAABHA=="
+                    }, 
+                    "NSColor": {
+                      "_archive": "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"
+                    }, 
+                    "MSAttributedStringFontAttribute": {
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxSYWxld2F5LUJvbGTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                    }
+                  }
+                }, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "dontSynchroniseWithSymbol": false, 
+              "do_objectID": "39D4CC11-27B7-439E-852B-6CDE0145539F", 
+              "isLocked": false, 
+              "_class": "text", 
+              "lineSpacingBehaviour": 2, 
+              "isFlippedHorizontal": false, 
+              "rotation": 0, 
+              "textBehaviour": 1, 
+              "isFlippedVertical": false, 
+              "name": "Lorem ipsum dolor si", 
+              "nameIsFixed": false, 
+              "automaticallyDrawOnUnderlyingPath": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "shouldBreakMaskChain": false, 
+              "attributedString": {
+                "archivedAttributedString": {
+                  "_archive": "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"
+                }, 
+                "_class": "MSAttributedString"
+              }
+            }, 
+            {
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 42, 
+                "width": 317.4178380631494, 
+                "y": 216, 
+                "x": 231, 
+                "_class": "rect"
+              }, 
+              "glyphBounds": "{{0, 0}, {160, 35}}", 
+              "resizingType": 0, 
+              "heightIsClipped": false, 
+              "style": {
+                "endDecorationType": 0, 
+                "textStyle": {
+                  "_class": "textStyle", 
+                  "encodedAttributes": {
+                    "NSParagraphStyle": {
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQAhABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjFBYXXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEaG1Ryb290gAEACAARABoAIwAtADIANwA7AEEASgBVAGEAgwCKAIwAjgCQAJIAlwCiAKsAxQDJANwA5QD3APoA/wAAAAAAAAIBAAAAAAAAABwAAAAAAAAAAAAAAAAAAAEB"
+                    }, 
+                    "NSColor": {
+                      "_archive": "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"
+                    }, 
+                    "MSAttributedStringFontAttribute": {
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQgAAAAAAAFxSYWxld2F5LUJvbGTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                    }
+                  }
+                }, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "dontSynchroniseWithSymbol": false, 
+              "do_objectID": "C896AEAC-16F9-47D2-85B9-8F38176F3013", 
+              "isLocked": false, 
+              "_class": "text", 
+              "lineSpacingBehaviour": 2, 
+              "isFlippedHorizontal": false, 
+              "rotation": 0, 
+              "textBehaviour": 1, 
+              "isFlippedVertical": false, 
+              "name": "user name", 
+              "nameIsFixed": true, 
+              "automaticallyDrawOnUnderlyingPath": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "shouldBreakMaskChain": false, 
+              "attributedString": {
+                "archivedAttributedString": {
+                  "_archive": "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"
+                }, 
+                "_class": "MSAttributedString"
+              }
+            }, 
+            {
+              "layers": [
+                {
+                  "edited": false, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 27.00000000000002, 
+                    "width": 27.00000000000002, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "do_objectID": "05160793-B160-4FFF-BFAC-E2DF171A9938", 
+                  "hasConvertedToNewRoundCorners": true, 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0, 0}", 
+                        "curveTo": "{0, 0}", 
+                        "point": "{0, 0}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{1, 0}", 
+                        "curveTo": "{1, 0}", 
+                        "point": "{1, 0}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{1, 1}", 
+                        "curveTo": "{1, 1}", 
+                        "point": "{1, 1}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{0, 1}", 
+                        "curveTo": "{0, 1}", 
+                        "point": "{0, 1}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "rectangle", 
+                  "fixedRadius": 0, 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.1094621494412422, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.9072384238243103, 
+                      "red": 0.9707751870155334
+                    }, 
+                    "isEnabled": true, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.592, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.592, 
+                      "red": 0.592
+                    }, 
+                    "isEnabled": false, 
+                    "thickness": 1, 
+                    "position": 1, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "startDecorationType": 0
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Gender", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 1, 
+              "frame": {
+                "constrainProportions": true, 
+                "height": 27, 
+                "width": 27, 
+                "y": 225, 
+                "x": 485, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "do_objectID": "62CBBBB8-E065-49F6-BC02-1D34796781BB", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "layers": [
+                    {
+                      "edited": false, 
+                      "isFlippedHorizontal": false, 
+                      "name": "Path", 
+                      "booleanOperation": -1, 
+                      "layerListExpandedType": 0, 
+                      "frame": {
+                        "constrainProportions": false, 
+                        "height": 49.99999999999998, 
+                        "width": 49.99999999999998, 
+                        "y": 0, 
+                        "x": 0, 
+                        "_class": "rect"
+                      }, 
+                      "resizingType": 0, 
+                      "do_objectID": "930375E5-618E-4ECD-A547-E75E1773A7BF", 
+                      "isLocked": false, 
+                      "shouldBreakMaskChain": false, 
+                      "exportOptions": {
+                        "shouldTrim": false, 
+                        "includedLayerIds": [], 
+                        "_class": "exportOptions", 
+                        "layerOptions": 0, 
+                        "exportFormats": []
+                      }, 
+                      "isVisible": true, 
+                      "path": {
+                        "isClosed": true, 
+                        "_class": "path", 
+                        "points": [
+                          {
+                            "curveFrom": "{0.77614237490000004, 1}", 
+                            "curveTo": "{0.22385762510000001, 1}", 
+                            "point": "{0.5, 1}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{1, 0.22385762510000001}", 
+                            "curveTo": "{1, 0.77614237490000004}", 
+                            "point": "{1, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0.22385762510000001, 0}", 
+                            "curveTo": "{0.77614237490000004, 0}", 
+                            "point": "{0.5, 0}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0, 0.77614237490000004}", 
+                            "curveTo": "{0, 0.22385762510000001}", 
+                            "point": "{0, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }
+                        ]
+                      }, 
+                      "rotation": 0, 
+                      "_class": "oval", 
+                      "nameIsFixed": false, 
+                      "isFlippedVertical": false
+                    }
+                  ], 
+                  "style": {
+                    "fills": [
+                      {
+                        "fillType": 0, 
+                        "patternTileScale": 1, 
+                        "color": {
+                          "blue": 0.3091356682054924, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.3091356682054924, 
+                          "red": 0.3153698979591837
+                        }, 
+                        "isEnabled": true, 
+                        "noiseIndex": 0, 
+                        "patternFillType": 1, 
+                        "_class": "fill", 
+                        "noiseIntensity": 0
+                      }
+                    ], 
+                    "endDecorationType": 0, 
+                    "miterLimit": 10, 
+                    "borders": [
+                      {
+                        "fillType": 0, 
+                        "color": {
+                          "blue": 0.592, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.592, 
+                          "red": 0.592
+                        }, 
+                        "isEnabled": false, 
+                        "thickness": 1, 
+                        "position": 0, 
+                        "_class": "border"
+                      }
+                    ], 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "isFlippedHorizontal": false, 
+                  "name": "platform badge 1", 
+                  "hasClippingMask": false, 
+                  "hasClickThrough": false, 
+                  "layerListExpandedType": 1, 
+                  "frame": {
+                    "constrainProportions": true, 
+                    "height": 50, 
+                    "width": 50, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "clippingMaskMode": 0, 
+                  "resizingType": 0, 
+                  "do_objectID": "42CEBE6E-7C5D-45B5-94E1-0C1C3F3DC00F", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "windingRule": 1, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "_class": "shapeGroup", 
+                  "nameIsFixed": true, 
+                  "isFlippedVertical": false
+                }, 
+                {
+                  "layers": [
+                    {
+                      "edited": false, 
+                      "isFlippedHorizontal": false, 
+                      "name": "Path", 
+                      "booleanOperation": -1, 
+                      "layerListExpandedType": 0, 
+                      "frame": {
+                        "constrainProportions": false, 
+                        "height": 49.99999999999998, 
+                        "width": 49.99999999999998, 
+                        "y": 0, 
+                        "x": 0, 
+                        "_class": "rect"
+                      }, 
+                      "resizingType": 0, 
+                      "do_objectID": "700AA8B1-271B-4371-AC2A-39EB2FB991B9", 
+                      "isLocked": false, 
+                      "shouldBreakMaskChain": false, 
+                      "exportOptions": {
+                        "shouldTrim": false, 
+                        "includedLayerIds": [], 
+                        "_class": "exportOptions", 
+                        "layerOptions": 0, 
+                        "exportFormats": []
+                      }, 
+                      "isVisible": true, 
+                      "path": {
+                        "isClosed": true, 
+                        "_class": "path", 
+                        "points": [
+                          {
+                            "curveFrom": "{0.77614237490000004, 1}", 
+                            "curveTo": "{0.22385762510000001, 1}", 
+                            "point": "{0.5, 1}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{1, 0.22385762510000001}", 
+                            "curveTo": "{1, 0.77614237490000004}", 
+                            "point": "{1, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0.22385762510000001, 0}", 
+                            "curveTo": "{0.77614237490000004, 0}", 
+                            "point": "{0.5, 0}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0, 0.77614237490000004}", 
+                            "curveTo": "{0, 0.22385762510000001}", 
+                            "point": "{0, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }
+                        ]
+                      }, 
+                      "rotation": 0, 
+                      "_class": "oval", 
+                      "nameIsFixed": false, 
+                      "isFlippedVertical": false
+                    }
+                  ], 
+                  "style": {
+                    "fills": [
+                      {
+                        "fillType": 0, 
+                        "patternTileScale": 1, 
+                        "color": {
+                          "blue": 0.3091356682054924, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.3091356682054924, 
+                          "red": 0.3153698979591837
+                        }, 
+                        "isEnabled": true, 
+                        "noiseIndex": 0, 
+                        "patternFillType": 1, 
+                        "_class": "fill", 
+                        "noiseIntensity": 0
+                      }
+                    ], 
+                    "endDecorationType": 0, 
+                    "miterLimit": 10, 
+                    "borders": [
+                      {
+                        "fillType": 0, 
+                        "color": {
+                          "blue": 0.592, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.592, 
+                          "red": 0.592
+                        }, 
+                        "isEnabled": false, 
+                        "thickness": 1, 
+                        "position": 0, 
+                        "_class": "border"
+                      }
+                    ], 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "isFlippedHorizontal": false, 
+                  "name": "platform badge 2", 
+                  "hasClippingMask": false, 
+                  "hasClickThrough": false, 
+                  "layerListExpandedType": 1, 
+                  "frame": {
+                    "constrainProportions": true, 
+                    "height": 50, 
+                    "width": 50, 
+                    "y": 0, 
+                    "x": 75, 
+                    "_class": "rect"
+                  }, 
+                  "clippingMaskMode": 0, 
+                  "resizingType": 0, 
+                  "do_objectID": "77493689-6C0B-468E-9EF4-8802A4DCFD5F", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "windingRule": 1, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "_class": "shapeGroup", 
+                  "nameIsFixed": true, 
+                  "isFlippedVertical": false
+                }, 
+                {
+                  "layers": [
+                    {
+                      "edited": false, 
+                      "isFlippedHorizontal": false, 
+                      "name": "Path", 
+                      "booleanOperation": -1, 
+                      "layerListExpandedType": 0, 
+                      "frame": {
+                        "constrainProportions": false, 
+                        "height": 49.99999999999998, 
+                        "width": 49.99999999999998, 
+                        "y": 0, 
+                        "x": 0, 
+                        "_class": "rect"
+                      }, 
+                      "resizingType": 0, 
+                      "do_objectID": "6DBE3177-E10F-47B1-B6B6-F9E2E3FAF531", 
+                      "isLocked": false, 
+                      "shouldBreakMaskChain": false, 
+                      "exportOptions": {
+                        "shouldTrim": false, 
+                        "includedLayerIds": [], 
+                        "_class": "exportOptions", 
+                        "layerOptions": 0, 
+                        "exportFormats": []
+                      }, 
+                      "isVisible": true, 
+                      "path": {
+                        "isClosed": true, 
+                        "_class": "path", 
+                        "points": [
+                          {
+                            "curveFrom": "{0.77614237490000004, 1}", 
+                            "curveTo": "{0.22385762510000001, 1}", 
+                            "point": "{0.5, 1}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{1, 0.22385762510000001}", 
+                            "curveTo": "{1, 0.77614237490000004}", 
+                            "point": "{1, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0.22385762510000001, 0}", 
+                            "curveTo": "{0.77614237490000004, 0}", 
+                            "point": "{0.5, 0}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0, 0.77614237490000004}", 
+                            "curveTo": "{0, 0.22385762510000001}", 
+                            "point": "{0, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }
+                        ]
+                      }, 
+                      "rotation": 0, 
+                      "_class": "oval", 
+                      "nameIsFixed": false, 
+                      "isFlippedVertical": false
+                    }
+                  ], 
+                  "style": {
+                    "fills": [
+                      {
+                        "fillType": 0, 
+                        "patternTileScale": 1, 
+                        "color": {
+                          "blue": 0.3091356682054924, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.3091356682054924, 
+                          "red": 0.3153698979591837
+                        }, 
+                        "isEnabled": true, 
+                        "noiseIndex": 0, 
+                        "patternFillType": 1, 
+                        "_class": "fill", 
+                        "noiseIntensity": 0
+                      }
+                    ], 
+                    "endDecorationType": 0, 
+                    "miterLimit": 10, 
+                    "borders": [
+                      {
+                        "fillType": 0, 
+                        "color": {
+                          "blue": 0.592, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.592, 
+                          "red": 0.592
+                        }, 
+                        "isEnabled": false, 
+                        "thickness": 1, 
+                        "position": 0, 
+                        "_class": "border"
+                      }
+                    ], 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "isFlippedHorizontal": false, 
+                  "name": "platform badge 3", 
+                  "hasClippingMask": false, 
+                  "hasClickThrough": false, 
+                  "layerListExpandedType": 1, 
+                  "frame": {
+                    "constrainProportions": true, 
+                    "height": 50, 
+                    "width": 50, 
+                    "y": 0, 
+                    "x": 150, 
+                    "_class": "rect"
+                  }, 
+                  "clippingMaskMode": 0, 
+                  "resizingType": 0, 
+                  "do_objectID": "CD38EA4A-2474-4942-B3C6-1C8B8FA722A7", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "windingRule": 1, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "_class": "shapeGroup", 
+                  "nameIsFixed": true, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "endDecorationType": 0, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "platform badges", 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 50, 
+                "width": 200, 
+                "y": 352, 
+                "x": 290, 
+                "_class": "rect"
+              }, 
+              "resizingType": 0, 
+              "do_objectID": "DDC9A108-9D9E-4ED4-89D6-45EE33AEA733", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "group", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "edited": false, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 42.00000000000001, 
+                    "width": 130.0000000000001, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "do_objectID": "18778EA9-4C23-49F4-8D6E-BFBE22C41380", 
+                  "hasConvertedToNewRoundCorners": true, 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0, 0}", 
+                        "curveTo": "{0, 0}", 
+                        "point": "{0, 0}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{1, 0}", 
+                        "curveTo": "{1, 0}", 
+                        "point": "{1, 0}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{1, 1}", 
+                        "curveTo": "{1, 1}", 
+                        "point": "{1, 1}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{0, 1}", 
+                        "curveTo": "{0, 1}", 
+                        "point": "{0, 1}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "rectangle", 
+                  "fixedRadius": 0, 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.5378118533494423, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.5378118533494423, 
+                      "red": 0.8452115221088435
+                    }, 
+                    "isEnabled": true, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.5173462051415717, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.5173462051415717, 
+                      "red": 0.6632918792517006
+                    }, 
+                    "isEnabled": false, 
+                    "thickness": 1, 
+                    "position": 1, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "startDecorationType": 0
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "button 1", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 1, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 42, 
+                "width": 130, 
+                "y": 442, 
+                "x": 246, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "do_objectID": "24EBC45D-DA3D-4554-8A7A-CB3C360B3B40", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "edited": false, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 42.00000000000001, 
+                    "width": 130.0000000000001, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "do_objectID": "2C95A0E9-4319-422B-A198-3C6C8C293D9E", 
+                  "hasConvertedToNewRoundCorners": true, 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0, 0}", 
+                        "curveTo": "{0, 0}", 
+                        "point": "{0, 0}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{1, 0}", 
+                        "curveTo": "{1, 0}", 
+                        "point": "{1, 0}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{1, 1}", 
+                        "curveTo": "{1, 1}", 
+                        "point": "{1, 1}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{0, 1}", 
+                        "curveTo": "{0, 1}", 
+                        "point": "{0, 1}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "rectangle", 
+                  "fixedRadius": 0, 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.8238732993197279, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.5715861196197944, 
+                      "red": 0.3552108405013679
+                    }, 
+                    "isEnabled": true, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.5173462051415717, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.5173462051415717, 
+                      "red": 0.6632918792517006
+                    }, 
+                    "isEnabled": false, 
+                    "thickness": 1, 
+                    "position": 1, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "startDecorationType": 0
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "button 2", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 1, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 42, 
+                "width": 130, 
+                "y": 443, 
+                "x": 404, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "do_objectID": "610E3608-9D6C-444A-80E9-99BC05E0FF94", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "edited": false, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 200, 
+                    "width": 200, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "do_objectID": "D094B18F-7209-4FAA-82A6-CB653FDB2199", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0.77614237490000004, 1}", 
+                        "curveTo": "{0.22385762510000001, 1}", 
+                        "point": "{0.5, 1}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{1, 0.22385762510000001}", 
+                        "curveTo": "{1, 0.77614237490000004}", 
+                        "point": "{1, 0.5}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{0.22385762510000001, 0}", 
+                        "curveTo": "{0.77614237490000004, 0}", 
+                        "point": "{0.5, 0}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{0, 0.77614237490000004}", 
+                        "curveTo": "{0, 0.22385762510000001}", 
+                        "point": "{0, 0.5}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "oval", 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.3091356682054924, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.3091356682054924, 
+                      "red": 0.3153698979591837
+                    }, 
+                    "isEnabled": true, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.592, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.592, 
+                      "red": 0.592
+                    }, 
+                    "isEnabled": false, 
+                    "thickness": 1, 
+                    "position": 0, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "startDecorationType": 0
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "profile pic", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 1, 
+              "frame": {
+                "constrainProportions": true, 
+                "height": 200, 
+                "width": 200, 
+                "y": 0, 
+                "x": 289, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "do_objectID": "67594D9D-E1B3-4DF3-9C3A-5447E85C7F18", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }
+          ], 
+          "style": {
+            "endDecorationType": 0, 
+            "_class": "style", 
+            "startDecorationType": 0, 
+            "miterLimit": 10
+          }, 
+          "isFlippedHorizontal": false, 
+          "name": "profile", 
+          "hasClickThrough": false, 
+          "layerListExpandedType": 2, 
+          "frame": {
+            "constrainProportions": false, 
+            "height": 541, 
+            "width": 780, 
+            "y": 38, 
+            "x": 330, 
+            "_class": "rect"
+          }, 
+          "resizingType": 0, 
+          "do_objectID": "5601B525-D105-49B3-BE12-A8E21F99D176", 
+          "isLocked": false, 
+          "shouldBreakMaskChain": false, 
+          "exportOptions": {
+            "shouldTrim": false, 
+            "includedLayerIds": [], 
+            "_class": "exportOptions", 
+            "layerOptions": 0, 
+            "exportFormats": []
+          }, 
+          "isVisible": true, 
+          "rotation": 0, 
+          "_class": "group", 
+          "nameIsFixed": true, 
+          "isFlippedVertical": false
+        }
+      ], 
       "style": {
         "endDecorationType": 0, 
         "_class": "style", 
         "startDecorationType": 0, 
         "miterLimit": 10
+      }, 
+      "layout": {
+        "gutterWidth": 20, 
+        "drawVertical": true, 
+        "rowHeightMultiplication": 5, 
+        "columnWidth": 60, 
+        "isEnabled": false, 
+        "guttersOutside": true, 
+        "horizontalOffset": 240, 
+        "drawHorizontal": false, 
+        "totalWidth": 960, 
+        "drawHorizontalLines": false, 
+        "_class": "layoutGrid", 
+        "gutterHeight": 12, 
+        "numberOfColumns": 12
       }, 
       "do_objectID": "E8C8CB91-3338-46E0-B5F0-DE625B5EC40C", 
       "includeBackgroundColorInExport": true, 
@@ -36,7 +1628,13 @@
         "guides": [], 
         "base": 0
       }, 
-      "hasClickThrough": false, 
+      "hasClickThrough": true, 
+      "grid": {
+        "isEnabled": false, 
+        "_class": "simpleGrid", 
+        "thickGridTimes": 10, 
+        "gridSize": 20
+      }, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Profile", 
@@ -58,7 +1656,7 @@
       "includeInCloudUpload": true
     }, 
     {
-      "layerListExpandedType": 1, 
+      "layerListExpandedType": 0, 
       "frame": {
         "constrainProportions": false, 
         "height": 1024, 
@@ -7256,11 +8854,7 @@
   }, 
   "isFlippedHorizontal": false, 
   "name": "Page 1", 
-  "verticalRulerData": {
-    "_class": "rulerData", 
-    "guides": [], 
-    "base": 0
-  }, 
+  "includeInCloudUpload": true, 
   "horizontalRulerData": {
     "_class": "rulerData", 
     "guides": [], 
@@ -7280,7 +8874,12 @@
   "do_objectID": "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC", 
   "isLocked": false, 
   "shouldBreakMaskChain": false, 
-  "includeInCloudUpload": true, 
+  "grid": {
+    "isEnabled": false, 
+    "_class": "simpleGrid", 
+    "thickGridTimes": 10, 
+    "gridSize": 20
+  }, 
   "exportOptions": {
     "shouldTrim": false, 
     "includedLayerIds": [], 
@@ -7289,6 +8888,11 @@
     "exportFormats": []
   }, 
   "isVisible": true, 
+  "verticalRulerData": {
+    "_class": "rulerData", 
+    "guides": [], 
+    "base": 0
+  }, 
   "rotation": 0, 
   "_class": "page", 
   "nameIsFixed": false, 

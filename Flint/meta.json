@@ -12,8 +12,8 @@
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
-    "Raleway-Bold", 
     "Lato-Bold", 
+    "Raleway-Bold", 
     "Raleway-Italic", 
     "Lato-Regular", 
     "Raleway-Regular"

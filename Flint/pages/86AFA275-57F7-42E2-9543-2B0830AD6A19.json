@@ -606,7 +606,7 @@
     "miterLimit": 10
   }, 
   "isFlippedHorizontal": false, 
-  "name": "Symbols", 
+  "name": "UI Kit", 
   "verticalRulerData": {
     "_class": "rulerData", 
     "guides": [], 
@@ -642,6 +642,6 @@
   "isVisible": true, 
   "rotation": 0, 
   "_class": "page", 
-  "nameIsFixed": false, 
+  "nameIsFixed": true, 
   "isFlippedVertical": false
 }

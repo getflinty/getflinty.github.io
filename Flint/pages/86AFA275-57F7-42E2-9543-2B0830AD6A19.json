@@ -100,7 +100,7 @@
         "guides": [], 
         "base": 0
       }, 
-      "hasClickThrough": true, 
+      "hasClickThrough": false, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Logo", 

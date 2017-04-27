@@ -6,8 +6,8 @@
         "constrainProportions": false, 
         "height": 1024, 
         "width": 1440, 
-        "y": -153, 
-        "x": 2815, 
+        "y": 1375, 
+        "x": -265, 
         "_class": "rect"
       }, 
       "resizingType": 0, 
@@ -58,7 +58,7 @@
       "includeInCloudUpload": true
     }, 
     {
-      "layerListExpandedType": 0, 
+      "layerListExpandedType": 1, 
       "frame": {
         "constrainProportions": false, 
         "height": 1024, 
@@ -270,7 +270,7 @@
       "includeInCloudUpload": true
     }, 
     {
-      "layerListExpandedType": 1, 
+      "layerListExpandedType": 0, 
       "frame": {
         "constrainProportions": false, 
         "height": 1024, 
@@ -5778,7 +5778,7 @@
               "isFlippedHorizontal": false, 
               "name": "Campaigns", 
               "hasClickThrough": false, 
-              "layerListExpandedType": 0, 
+              "layerListExpandedType": 2, 
               "frame": {
                 "constrainProportions": false, 
                 "height": 184, 
@@ -7165,7 +7165,7 @@
           "isFlippedHorizontal": false, 
           "name": "Toolbar", 
           "hasClickThrough": false, 
-          "layerListExpandedType": 1, 
+          "layerListExpandedType": 0, 
           "frame": {
             "constrainProportions": false, 
             "height": 62, 
@@ -7242,63 +7242,6 @@
             "fileFormat": "png"
           }
         ]
-      }, 
-      "isVisible": true, 
-      "shouldBreakMaskChain": false, 
-      "includeInCloudUpload": true
-    }, 
-    {
-      "layerListExpandedType": 0, 
-      "frame": {
-        "constrainProportions": false, 
-        "height": 1024, 
-        "width": 1440, 
-        "y": -153, 
-        "x": 4355, 
-        "_class": "rect"
-      }, 
-      "resizingType": 0, 
-      "layers": [], 
-      "style": {
-        "endDecorationType": 0, 
-        "_class": "style", 
-        "startDecorationType": 0, 
-        "miterLimit": 10
-      }, 
-      "do_objectID": "90F40ABC-C585-4617-BB4D-D34578DD98D4", 
-      "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
-      "hasBackgroundColor": false, 
-      "backgroundColor": {
-        "blue": 1, 
-        "alpha": 1, 
-        "_class": "color", 
-        "green": 1, 
-        "red": 1
-      }, 
-      "_class": "artboard", 
-      "isFlippedHorizontal": false, 
-      "horizontalRulerData": {
-        "_class": "rulerData", 
-        "guides": [], 
-        "base": 0
-      }, 
-      "hasClickThrough": false, 
-      "rotation": 0, 
-      "isFlippedVertical": false, 
-      "name": "Profile", 
-      "nameIsFixed": true, 
-      "verticalRulerData": {
-        "_class": "rulerData", 
-        "guides": [], 
-        "base": 0
-      }, 
-      "exportOptions": {
-        "shouldTrim": false, 
-        "includedLayerIds": [], 
-        "_class": "exportOptions", 
-        "layerOptions": 0, 
-        "exportFormats": []
       }, 
       "isVisible": true, 
       "shouldBreakMaskChain": false, 

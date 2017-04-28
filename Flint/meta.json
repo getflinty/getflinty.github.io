@@ -12,8 +12,8 @@
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
-    "Raleway-Bold", 
     "Lato-Bold", 
+    "Raleway-Bold", 
     "Raleway-Italic", 
     "Lato-Regular", 
     "Lato-Light", 
@@ -47,14 +47,14 @@
     }, 
     "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
       "artboards": {
-        "E8C8CB91-3338-46E0-B5F0-DE625B5EC40C": {
-          "name": "Profile"
-        }, 
         "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A": {
           "name": "Home"
         }, 
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign"
+        }, 
+        "99FE2D91-30C0-478D-BC9E-7BD71E5AC83D": {
+          "name": "Profile"
         }
       }, 
       "name": "Page 1"

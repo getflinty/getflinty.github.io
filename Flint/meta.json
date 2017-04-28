@@ -12,10 +12,11 @@
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
-    "Lato-Bold", 
     "Raleway-Bold", 
+    "Lato-Bold", 
     "Raleway-Italic", 
     "Lato-Regular", 
+    "Lato-Light", 
     "Raleway-Regular"
   ], 
   "variant": "NONAPPSTORE", 
@@ -34,6 +35,9 @@
         }, 
         "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA": {
           "name": "Logo"
+        }, 
+        "2DF50426-6675-47F9-A89E-94D7B8E3B6F7": {
+          "name": "Cancel Icon"
         }, 
         "2A360726-69B1-4E47-B310-755CA224129E": {
           "name": "tag chip"

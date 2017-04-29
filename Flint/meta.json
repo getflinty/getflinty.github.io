@@ -27,20 +27,23 @@
   "pagesAndArtboards": {
     "878A61C6-D485-41ED-A3D8-DBE6A1B467B1": {
       "artboards": {
+        "45178107-A7F7-41FE-8D2F-6D6FD5830E9C": {
+          "name": "Drawer Icon"
+        }, 
         "B9139CE3-85E1-458D-9321-821CB0D472A6": {
           "name": "Typography"
         }, 
-        "45178107-A7F7-41FE-8D2F-6D6FD5830E9C": {
-          "name": "Drawer Icon"
+        "2525B9AA-CDCC-442E-9940-DDB9700A1C05": {
+          "name": "Range Slider"
         }, 
         "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA": {
           "name": "Logo"
         }, 
-        "2DF50426-6675-47F9-A89E-94D7B8E3B6F7": {
-          "name": "Cancel Icon"
-        }, 
         "2A360726-69B1-4E47-B310-755CA224129E": {
           "name": "tag chip"
+        }, 
+        "2DF50426-6675-47F9-A89E-94D7B8E3B6F7": {
+          "name": "Cancel Icon"
         }
       }, 
       "name": "Symbols"
@@ -50,14 +53,17 @@
         "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A": {
           "name": "Home"
         }, 
-        "99FE2D91-30C0-478D-BC9E-7BD71E5AC83D": {
-          "name": "Profile"
+        "2440017C-5ADF-4099-A61C-B52278352890": {
+          "name": "New Campaign Step 1"
         }, 
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign"
         }, 
-        "2440017C-5ADF-4099-A61C-B52278352890": {
-          "name": "New Campaign"
+        "99FE2D91-30C0-478D-BC9E-7BD71E5AC83D": {
+          "name": "Profile"
+        }, 
+        "E240F603-412F-436A-9282-14F8A233E121": {
+          "name": "New Campaign Step 2"
         }
       }, 
       "name": "Page 1"

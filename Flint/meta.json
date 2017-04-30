@@ -12,8 +12,8 @@
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
-    "Lato-Bold", 
     "Raleway-Bold", 
+    "Lato-Bold", 
     "Raleway-Italic", 
     "Lato-Regular", 
     "Lato-Light", 
@@ -53,11 +53,14 @@
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign"
         }, 
+        "7F5608F3-8D5E-4B64-94CE-3C14A2778C7B": {
+          "name": "Influencer Search Results"
+        }, 
         "99FE2D91-30C0-478D-BC9E-7BD71E5AC83D": {
-          "name": "Profile"
+          "name": "Influencer Profile"
         }, 
         "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A": {
-          "name": "Home"
+          "name": "Marketer Home"
         }, 
         "CA086CBC-6223-46F6-9657-FC9AE69D6232": {
           "name": "Influencer Search Fields"

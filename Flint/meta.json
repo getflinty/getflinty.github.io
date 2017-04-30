@@ -50,20 +50,23 @@
     }, 
     "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
       "artboards": {
-        "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A": {
-          "name": "Home"
-        }, 
-        "2440017C-5ADF-4099-A61C-B52278352890": {
-          "name": "New Campaign Step 1"
-        }, 
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign"
         }, 
         "99FE2D91-30C0-478D-BC9E-7BD71E5AC83D": {
           "name": "Profile"
         }, 
+        "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A": {
+          "name": "Home"
+        }, 
+        "CA086CBC-6223-46F6-9657-FC9AE69D6232": {
+          "name": "Influencer Search Fields"
+        }, 
         "E240F603-412F-436A-9282-14F8A233E121": {
           "name": "New Campaign Step 2"
+        }, 
+        "2440017C-5ADF-4099-A61C-B52278352890": {
+          "name": "New Campaign Step 1"
         }
       }, 
       "name": "Page 1"

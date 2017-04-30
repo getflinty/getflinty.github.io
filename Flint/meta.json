@@ -50,6 +50,9 @@
     }, 
     "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
       "artboards": {
+        "82694146-DF7E-4803-81DD-0D19EB955CBE": {
+          "name": "Influencer Profile Page"
+        }, 
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign"
         }, 
@@ -75,5 +78,5 @@
       "name": "Marketer Flow"
     }
   }, 
-  "autosaved": 0
+  "autosaved": 1
 }

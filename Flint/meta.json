@@ -12,11 +12,11 @@
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
-    "Raleway-Bold", 
     "Lato-Bold", 
-    "Raleway-Italic", 
+    "Raleway-Bold", 
     "Lato-Regular", 
     "Lato-Light", 
+    "Lato-Italic", 
     "Raleway-Regular"
   ], 
   "variant": "NONAPPSTORE", 
@@ -39,11 +39,17 @@
         "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA": {
           "name": "Logo"
         }, 
+        "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74": {
+          "name": "Dropdown pill menu"
+        }, 
         "2A360726-69B1-4E47-B310-755CA224129E": {
           "name": "tag chip"
         }, 
         "2DF50426-6675-47F9-A89E-94D7B8E3B6F7": {
           "name": "Cancel Icon"
+        }, 
+        "FF3082AE-80F0-49B3-BB0D-CE3935BCE9F7": {
+          "name": "Button"
         }
       }, 
       "name": "Symbols"
@@ -78,5 +84,5 @@
       "name": "Marketer Flow"
     }
   }, 
-  "autosaved": 1
+  "autosaved": 0
 }

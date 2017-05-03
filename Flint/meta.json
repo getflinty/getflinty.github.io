@@ -27,6 +27,9 @@
   "pagesAndArtboards": {
     "878A61C6-D485-41ED-A3D8-DBE6A1B467B1": {
       "artboards": {
+        "B3141128-4B81-4BC6-93B2-00867FF3C2BE": {
+          "name": "tag chip/active"
+        }, 
         "45178107-A7F7-41FE-8D2F-6D6FD5830E9C": {
           "name": "Drawer Icon"
         }, 
@@ -43,7 +46,7 @@
           "name": "Dropdown pill menu"
         }, 
         "2A360726-69B1-4E47-B310-755CA224129E": {
-          "name": "tag chip"
+          "name": "tag chip/inactive"
         }, 
         "2DF50426-6675-47F9-A89E-94D7B8E3B6F7": {
           "name": "Cancel Icon"
@@ -82,6 +85,14 @@
         }
       }, 
       "name": "Marketer Flow"
+    }, 
+    "2532DD57-81F0-40D5-B5C5-35BFCF4CE46E": {
+      "artboards": {
+        "ADD00D24-4B11-47ED-927E-4C5343C9A686": {
+          "name": "Desktop HD"
+        }
+      }, 
+      "name": "Color palette"
     }
   }, 
   "autosaved": 0

@@ -1,7 +1,7 @@
 {
   "878A61C6-D485-41ED-A3D8-DBE6A1B467B1": {
-    "zoomValue": 1.372701955928047, 
-    "scrollOrigin": "{479, 445}"
+    "zoomValue": 0.9212545830271602, 
+    "scrollOrigin": "{-2032.6813372427798, 668.84348909797927}"
   }, 
   "86AFA275-57F7-42E2-9543-2B0830AD6A19": {
     "zoomValue": 0.2490420825415887, 
@@ -12,14 +12,23 @@
     "scrollOrigin": "{325, 250}"
   }, 
   "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
-    "zoomValue": 0.08301137557168395, 
-    "scrollOrigin": "{48, 481}"
+    "zoomValue": 0.4617766021107775, 
+    "scrollOrigin": "{296, -1397}"
   }, 
   "2532DD57-81F0-40D5-B5C5-35BFCF4CE46E": {
     "zoomValue": 0.528973462076872, 
     "scrollOrigin": "{139, 250}"
   }, 
   "2BE765FA-FD78-4F25-8CF5-98D29A19A527": {
+    "exportableLayerSelection": [
+      "99FE2D91-30C0-478D-BC9E-7BD71E5AC83D", 
+      "CA086CBC-6223-46F6-9657-FC9AE69D6232", 
+      "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A", 
+      "2440017C-5ADF-4099-A61C-B52278352890", 
+      "7F5608F3-8D5E-4B64-94CE-3C14A2778C7B", 
+      "E240F603-412F-436A-9282-14F8A233E121", 
+      "0E01AF72-63F2-442A-93C0-B4C6B4149DA4"
+    ], 
     "pageListHeight": 109
   }
 }

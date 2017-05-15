@@ -63,7 +63,7 @@
     "objects": []
   }, 
   "do_objectID": "2BE765FA-FD78-4F25-8CF5-98D29A19A527", 
-  "currentPageIndex": 0, 
+  "currentPageIndex": 1, 
   "layerStyles": {
     "_class": "sharedStyleContainer", 
     "objects": [
@@ -296,6 +296,11 @@
     {
       "_ref_class": "MSImmutablePage", 
       "_ref": "pages/C437A2EB-9A24-4D0D-B8D0-0C6624F217EC", 
+      "_class": "MSJSONFileReference"
+    }, 
+    {
+      "_ref_class": "MSImmutablePage", 
+      "_ref": "pages/A11FD983-F355-42F2-967E-4823753B5323", 
       "_class": "MSJSONFileReference"
     }, 
     {

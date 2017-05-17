@@ -59,11 +59,17 @@
     }, 
     "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
       "artboards": {
+        "803C797D-45DB-4A39-81D4-A499C904FB7C": {
+          "name": "Campaign Detail"
+        }, 
         "0C1A4E16-93AA-4DF0-AA3F-835856192775": {
           "name": "New Campaign Step 1"
         }, 
         "64BE1C20-1C03-4BFD-8C3F-9AA73679E8B3": {
           "name": "Influencer Profile"
+        }, 
+        "AC5DEAAB-415F-455D-A6C4-6FC68AFDB0A9": {
+          "name": "Chat screen"
         }, 
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign Analytics"

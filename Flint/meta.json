@@ -1,14 +1,14 @@
 {
   "saveHistory": [
-    "NONAPPSTORE.39069"
+    "NONAPPSTORE.41411"
   ], 
   "created": {
     "app": "com.bohemiancoding.sketch3", 
     "variant": "NONAPPSTORE", 
-    "appVersion": "43.2", 
-    "version": 88, 
-    "build": 39069, 
-    "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129"
+    "appVersion": "44", 
+    "version": 91, 
+    "build": 41411, 
+    "commit": "149712aeb51bf07cefb5bb6d603b26c4dccfff9d"
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
@@ -20,10 +20,10 @@
     "Raleway-Regular"
   ], 
   "variant": "NONAPPSTORE", 
-  "appVersion": "43.2", 
-  "version": 88, 
-  "build": 39069, 
-  "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129", 
+  "appVersion": "44", 
+  "version": 91, 
+  "build": 41411, 
+  "commit": "149712aeb51bf07cefb5bb6d603b26c4dccfff9d", 
   "pagesAndArtboards": {
     "878A61C6-D485-41ED-A3D8-DBE6A1B467B1": {
       "artboards": {
@@ -59,14 +59,20 @@
     }, 
     "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
       "artboards": {
+        "0C1A4E16-93AA-4DF0-AA3F-835856192775": {
+          "name": "New Campaign Step 1"
+        }, 
+        "64BE1C20-1C03-4BFD-8C3F-9AA73679E8B3": {
+          "name": "Influencer Profile"
+        }, 
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign"
         }, 
         "7F5608F3-8D5E-4B64-94CE-3C14A2778C7B": {
           "name": "Influencer Search Results"
         }, 
-        "99FE2D91-30C0-478D-BC9E-7BD71E5AC83D": {
-          "name": "Influencer Profile"
+        "E240F603-412F-436A-9282-14F8A233E121": {
+          "name": "New Campaign Step 2"
         }, 
         "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A": {
           "name": "Marketer Home"
@@ -76,12 +82,6 @@
         }, 
         "CA086CBC-6223-46F6-9657-FC9AE69D6232": {
           "name": "Influencer Search Fields"
-        }, 
-        "E240F603-412F-436A-9282-14F8A233E121": {
-          "name": "New Campaign Step 2"
-        }, 
-        "2440017C-5ADF-4099-A61C-B52278352890": {
-          "name": "New Campaign Step 1"
         }
       }, 
       "name": "Marketer Flow"

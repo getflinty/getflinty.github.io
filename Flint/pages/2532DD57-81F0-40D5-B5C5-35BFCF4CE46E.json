@@ -10,6 +10,7 @@
         "x": -470, 
         "_class": "rect"
       }, 
+      "resizesContent": false, 
       "resizingType": 0, 
       "layers": [
         {
@@ -29,6 +30,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "66AA5241-C694-4AC5-AA54-40E71192812B", 
               "hasConvertedToNewRoundCorners": true, 
               "isLocked": false, 
@@ -43,6 +45,7 @@
               "isVisible": true, 
               "path": {
                 "isClosed": true, 
+                "pointRadiusBehaviour": 0, 
                 "_class": "path", 
                 "points": [
                   {
@@ -149,6 +152,7 @@
           }, 
           "clippingMaskMode": 0, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "823D8075-65F5-4800-8C15-A79904F2E77B", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -183,6 +187,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "C0E64BCA-BFB6-43F2-B9B6-16D79FFDD2EF", 
               "hasConvertedToNewRoundCorners": true, 
               "isLocked": false, 
@@ -197,6 +202,7 @@
               "isVisible": true, 
               "path": {
                 "isClosed": true, 
+                "pointRadiusBehaviour": 0, 
                 "_class": "path", 
                 "points": [
                   {
@@ -303,6 +309,7 @@
           }, 
           "clippingMaskMode": 0, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "E539515A-76F8-4AB0-8429-F9255DADFDA6", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -337,6 +344,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "06FCEAFC-42A3-42F1-B5AF-CB07BAD0F1A3", 
               "hasConvertedToNewRoundCorners": true, 
               "isLocked": false, 
@@ -351,6 +359,7 @@
               "isVisible": true, 
               "path": {
                 "isClosed": true, 
+                "pointRadiusBehaviour": 0, 
                 "_class": "path", 
                 "points": [
                   {
@@ -457,6 +466,7 @@
           }, 
           "clippingMaskMode": 0, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "EB1EDDA5-BD4F-4D3C-948A-E82B367A0E27", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -491,6 +501,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "F49889DF-DC50-44C2-8FB0-B2FEA2B24743", 
               "hasConvertedToNewRoundCorners": true, 
               "isLocked": false, 
@@ -505,6 +516,7 @@
               "isVisible": true, 
               "path": {
                 "isClosed": true, 
+                "pointRadiusBehaviour": 0, 
                 "_class": "path", 
                 "points": [
                   {
@@ -611,6 +623,7 @@
           }, 
           "clippingMaskMode": 0, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "FDED4F89-0709-48E8-AF73-25CAE8DCD356", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -653,9 +666,10 @@
           }
         ]
       }, 
+      "isLocked": false, 
       "do_objectID": "ADD00D24-4B11-47ED-927E-4C5343C9A686", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": true, 
       "backgroundColor": {
         "blue": 1, 
@@ -722,6 +736,7 @@
     "_class": "rect"
   }, 
   "resizingType": 0, 
+  "resizingConstraint": 0, 
   "do_objectID": "2532DD57-81F0-40D5-B5C5-35BFCF4CE46E", 
   "isLocked": false, 
   "shouldBreakMaskChain": false, 

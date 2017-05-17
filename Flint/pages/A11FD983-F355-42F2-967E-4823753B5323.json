@@ -1,4 +1,14 @@
 {
+  "layerListExpandedType": 0, 
+  "frame": {
+    "constrainProportions": false, 
+    "height": 300, 
+    "width": 300, 
+    "y": 0, 
+    "x": 0, 
+    "_class": "rect"
+  }, 
+  "resizingType": 0, 
   "layers": [
     {
       "layerListExpandedType": 2, 
@@ -10,6 +20,7 @@
         "x": -265, 
         "_class": "rect"
       }, 
+      "resizesContent": false, 
       "resizingType": 0, 
       "layers": [
         {
@@ -35,6 +46,7 @@
                             "_class": "rect"
                           }, 
                           "resizingType": 0, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "1A638580-91CA-4B2B-9AF2-C340B4D941C6", 
                           "hasConvertedToNewRoundCorners": true, 
                           "isLocked": false, 
@@ -49,6 +61,7 @@
                           "isVisible": true, 
                           "path": {
                             "isClosed": true, 
+                            "pointRadiusBehaviour": 0, 
                             "_class": "path", 
                             "points": [
                               {
@@ -138,6 +151,7 @@
                       }, 
                       "clippingMaskMode": 0, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "A47A9EE0-3F4F-4313-A808-92DF69187F41", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -189,8 +203,9 @@
                         "miterLimit": 10
                       }, 
                       "dontSynchroniseWithSymbol": false, 
-                      "do_objectID": "98579186-29E7-4AFD-A0CB-E7604351EEB8", 
                       "isLocked": false, 
+                      "do_objectID": "98579186-29E7-4AFD-A0CB-E7604351EEB8", 
+                      "resizingConstraint": 63, 
                       "_class": "text", 
                       "lineSpacingBehaviour": 2, 
                       "isFlippedHorizontal": false, 
@@ -250,8 +265,9 @@
                         "miterLimit": 10
                       }, 
                       "dontSynchroniseWithSymbol": false, 
-                      "do_objectID": "5B9C8EBB-198C-4E2D-9802-A4EB3326249E", 
                       "isLocked": false, 
+                      "do_objectID": "5B9C8EBB-198C-4E2D-9802-A4EB3326249E", 
+                      "resizingConstraint": 63, 
                       "_class": "text", 
                       "lineSpacingBehaviour": 2, 
                       "isFlippedHorizontal": false, 
@@ -296,6 +312,7 @@
                                 "_class": "rect"
                               }, 
                               "resizingType": 0, 
+                              "resizingConstraint": 63, 
                               "do_objectID": "92BD0367-EFEE-468B-AC7E-51659177F282", 
                               "isLocked": false, 
                               "shouldBreakMaskChain": false, 
@@ -309,6 +326,7 @@
                               "isVisible": true, 
                               "path": {
                                 "isClosed": true, 
+                                "pointRadiusBehaviour": 0, 
                                 "_class": "path", 
                                 "points": [
                                   {
@@ -414,6 +432,7 @@
                           }, 
                           "clippingMaskMode": 0, 
                           "resizingType": 0, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "4E94F2CD-D707-40F8-B2CD-E56542F2D157", 
                           "isLocked": false, 
                           "shouldBreakMaskChain": false, 
@@ -432,6 +451,7 @@
                           "isFlippedVertical": false
                         }, 
                         {
+                          "fillReplacesImage": false, 
                           "style": {
                             "endDecorationType": 0, 
                             "_class": "style", 
@@ -451,7 +471,7 @@
                             "_class": "rect"
                           }, 
                           "resizingType": 0, 
-                          "fillReplacesImage": false, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "209C7423-0C4E-4F92-8B32-F0F03155E6FC", 
                           "nineSliceCenterRect": "{{0, 0}, {0, 0}}", 
                           "isLocked": false, 
@@ -495,6 +515,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "21F91AA7-340D-4A67-A33E-CF59F06872A8", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -531,6 +552,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "D19E8C43-C7BF-43AD-8724-EC48DECE8015", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -566,6 +588,7 @@
                             "_class": "rect"
                           }, 
                           "resizingType": 0, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "E2027F3D-AB76-42DF-8F3F-D0FAF528DBE5", 
                           "hasConvertedToNewRoundCorners": true, 
                           "isLocked": false, 
@@ -580,6 +603,7 @@
                           "isVisible": true, 
                           "path": {
                             "isClosed": true, 
+                            "pointRadiusBehaviour": 0, 
                             "_class": "path", 
                             "points": [
                               {
@@ -671,6 +695,7 @@
                       }, 
                       "clippingMaskMode": 0, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "E89E745B-9494-4284-8CD5-B1FC2D55E79F", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -693,7 +718,7 @@
                       "frame": {
                         "constrainProportions": false, 
                         "height": 48, 
-                        "width": 386, 
+                        "width": 389, 
                         "y": 23, 
                         "x": 92, 
                         "_class": "rect"
@@ -722,8 +747,9 @@
                         "miterLimit": 10
                       }, 
                       "dontSynchroniseWithSymbol": false, 
-                      "do_objectID": "B0439F20-13D0-40E0-9790-8ADB314BB845", 
                       "isLocked": false, 
+                      "do_objectID": "B0439F20-13D0-40E0-9790-8ADB314BB845", 
+                      "resizingConstraint": 63, 
                       "_class": "text", 
                       "lineSpacingBehaviour": 2, 
                       "isFlippedHorizontal": false, 
@@ -754,7 +780,7 @@
                       "frame": {
                         "constrainProportions": false, 
                         "height": 22, 
-                        "width": 91, 
+                        "width": 93, 
                         "y": 71, 
                         "x": 92, 
                         "_class": "rect"
@@ -783,8 +809,9 @@
                         "miterLimit": 10
                       }, 
                       "dontSynchroniseWithSymbol": false, 
-                      "do_objectID": "9AF99989-B555-476B-BD13-26B8226DB791", 
                       "isLocked": false, 
+                      "do_objectID": "9AF99989-B555-476B-BD13-26B8226DB791", 
+                      "resizingConstraint": 63, 
                       "_class": "text", 
                       "lineSpacingBehaviour": 2, 
                       "isFlippedHorizontal": false, 
@@ -829,6 +856,7 @@
                                 "_class": "rect"
                               }, 
                               "resizingType": 0, 
+                              "resizingConstraint": 63, 
                               "do_objectID": "6960F764-A777-4CEF-A586-DC62590CB3BF", 
                               "isLocked": false, 
                               "shouldBreakMaskChain": false, 
@@ -842,6 +870,7 @@
                               "isVisible": true, 
                               "path": {
                                 "isClosed": true, 
+                                "pointRadiusBehaviour": 0, 
                                 "_class": "path", 
                                 "points": [
                                   {
@@ -947,6 +976,7 @@
                           }, 
                           "clippingMaskMode": 0, 
                           "resizingType": 0, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "23E1545A-B37C-4573-896F-30896282F3BC", 
                           "isLocked": false, 
                           "shouldBreakMaskChain": false, 
@@ -965,6 +995,7 @@
                           "isFlippedVertical": false
                         }, 
                         {
+                          "fillReplacesImage": false, 
                           "style": {
                             "endDecorationType": 0, 
                             "_class": "style", 
@@ -984,7 +1015,7 @@
                             "_class": "rect"
                           }, 
                           "resizingType": 0, 
-                          "fillReplacesImage": false, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "AD6DD330-6927-4CEC-B15A-DCFF14B2D7ED", 
                           "nineSliceCenterRect": "{{0, 0}, {0, 0}}", 
                           "isLocked": false, 
@@ -1028,6 +1059,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "357EFF14-FCF4-4547-9807-E4EA1F386A00", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -1064,6 +1096,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "D400266E-89DA-496B-A709-90FEC9F5C66A", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -1099,6 +1132,7 @@
                             "_class": "rect"
                           }, 
                           "resizingType": 0, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "428D5620-F929-47FD-879A-6928474F9B71", 
                           "hasConvertedToNewRoundCorners": true, 
                           "isLocked": false, 
@@ -1113,6 +1147,7 @@
                           "isVisible": true, 
                           "path": {
                             "isClosed": true, 
+                            "pointRadiusBehaviour": 0, 
                             "_class": "path", 
                             "points": [
                               {
@@ -1204,6 +1239,7 @@
                       }, 
                       "clippingMaskMode": 0, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "DCCCE36C-4A47-47AF-A79D-BBF64BD630C5", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -1226,7 +1262,7 @@
                       "frame": {
                         "constrainProportions": false, 
                         "height": 48, 
-                        "width": 417, 
+                        "width": 421, 
                         "y": 23, 
                         "x": 92, 
                         "_class": "rect"
@@ -1255,8 +1291,9 @@
                         "miterLimit": 10
                       }, 
                       "dontSynchroniseWithSymbol": false, 
-                      "do_objectID": "0A20C0A8-14D1-4C29-B614-BC1C586E0355", 
                       "isLocked": false, 
+                      "do_objectID": "0A20C0A8-14D1-4C29-B614-BC1C586E0355", 
+                      "resizingConstraint": 63, 
                       "_class": "text", 
                       "lineSpacingBehaviour": 2, 
                       "isFlippedHorizontal": false, 
@@ -1287,7 +1324,7 @@
                       "frame": {
                         "constrainProportions": false, 
                         "height": 22, 
-                        "width": 91, 
+                        "width": 93, 
                         "y": 71, 
                         "x": 92, 
                         "_class": "rect"
@@ -1316,8 +1353,9 @@
                         "miterLimit": 10
                       }, 
                       "dontSynchroniseWithSymbol": false, 
-                      "do_objectID": "14F6FB18-5017-4997-BBF3-657F23C2DFDA", 
                       "isLocked": false, 
+                      "do_objectID": "14F6FB18-5017-4997-BBF3-657F23C2DFDA", 
+                      "resizingConstraint": 63, 
                       "_class": "text", 
                       "lineSpacingBehaviour": 2, 
                       "isFlippedHorizontal": false, 
@@ -1362,6 +1400,7 @@
                                 "_class": "rect"
                               }, 
                               "resizingType": 0, 
+                              "resizingConstraint": 63, 
                               "do_objectID": "AAB00F4E-EAA0-4A9C-950A-681BE7B5D0BA", 
                               "isLocked": false, 
                               "shouldBreakMaskChain": false, 
@@ -1375,6 +1414,7 @@
                               "isVisible": true, 
                               "path": {
                                 "isClosed": true, 
+                                "pointRadiusBehaviour": 0, 
                                 "_class": "path", 
                                 "points": [
                                   {
@@ -1480,6 +1520,7 @@
                           }, 
                           "clippingMaskMode": 0, 
                           "resizingType": 0, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "1EB79A92-74F4-474C-97B2-A41FF582D758", 
                           "isLocked": false, 
                           "shouldBreakMaskChain": false, 
@@ -1498,6 +1539,7 @@
                           "isFlippedVertical": false
                         }, 
                         {
+                          "fillReplacesImage": false, 
                           "style": {
                             "endDecorationType": 0, 
                             "_class": "style", 
@@ -1517,7 +1559,7 @@
                             "_class": "rect"
                           }, 
                           "resizingType": 0, 
-                          "fillReplacesImage": false, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "B4D05FAE-3470-482B-BF0C-F3AD6674EAFC", 
                           "nineSliceCenterRect": "{{0, 0}, {0, 0}}", 
                           "isLocked": false, 
@@ -1561,6 +1603,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "3BE4E27B-F12C-44D5-A854-08A124F02392", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -1597,6 +1640,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "62312298-8613-4988-8022-CE1D30CCEC93", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -1648,8 +1692,9 @@
                     "startDecorationType": 0
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "6C9CD289-A75F-46AB-8293-456C6C30714A", 
                   "isLocked": false, 
+                  "do_objectID": "6C9CD289-A75F-46AB-8293-456C6C30714A", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -1695,6 +1740,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "7350E5B7-0F1F-4BF1-B422-91EEC26F565C", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -1731,6 +1777,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "F4038A3A-6DC5-4CE3-8998-67A58D654430", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -1776,6 +1823,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "4A801609-7A64-4FFE-A344-634D7FF0FBE2", 
                   "hasConvertedToNewRoundCorners": true, 
                   "isLocked": false, 
@@ -1790,6 +1838,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -1897,6 +1946,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "F7976316-2172-4D05-A48C-6F417003DDE1", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -1931,6 +1981,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "CE5564B6-34B7-4A6A-929F-74CDD8255875", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -1944,6 +1995,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": false, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -2037,6 +2089,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "8545865D-B741-4333-A509-F5DBF360197F", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -2091,8 +2144,9 @@
                     "startDecorationType": 0
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "0003661C-A7AD-4737-9D0A-15BE688D71BC", 
                   "isLocked": false, 
+                  "do_objectID": "0003661C-A7AD-4737-9D0A-15BE688D71BC", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -2153,8 +2207,9 @@
                     "startDecorationType": 0
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "76E0E354-BFC3-4D5E-8BE9-84F66AB7DF95", 
                   "isLocked": false, 
+                  "do_objectID": "76E0E354-BFC3-4D5E-8BE9-84F66AB7DF95", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -2215,8 +2270,9 @@
                     "startDecorationType": 0
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "55AE1719-FCD3-4245-BFC1-49A93DD9D488", 
                   "isLocked": false, 
+                  "do_objectID": "55AE1719-FCD3-4245-BFC1-49A93DD9D488", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -2277,8 +2333,9 @@
                     "startDecorationType": 0
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "B4520BC0-F7DD-47AD-9916-5A7E3FE78A69", 
                   "isLocked": false, 
+                  "do_objectID": "B4520BC0-F7DD-47AD-9916-5A7E3FE78A69", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -2339,8 +2396,9 @@
                     "startDecorationType": 0
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "D6117EA4-9BD8-46F7-9D63-065F80D8BE79", 
                   "isLocked": false, 
+                  "do_objectID": "D6117EA4-9BD8-46F7-9D63-065F80D8BE79", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -2386,6 +2444,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "783D2BFD-0618-4034-80BA-76F9948457F7", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -2421,6 +2480,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "2E8506E0-1E26-42F7-8A18-7AAFCF91EBD9", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -2434,6 +2494,7 @@
                       "isVisible": true, 
                       "path": {
                         "isClosed": false, 
+                        "pointRadiusBehaviour": 0, 
                         "_class": "path", 
                         "points": [
                           {
@@ -2527,6 +2588,7 @@
                   }, 
                   "clippingMaskMode": 0, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "EEB605CE-5154-41D6-B198-64ADBDF89D2B", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -2578,8 +2640,9 @@
                     "miterLimit": 10
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "E191D63E-6DF9-498B-A8BC-FF051D91BA2C", 
                   "isLocked": false, 
+                  "do_objectID": "E191D63E-6DF9-498B-A8BC-FF051D91BA2C", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -2624,6 +2687,7 @@
                             "_class": "rect"
                           }, 
                           "resizingType": 0, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "597BDAFB-347D-43DA-98AD-902054F0342C", 
                           "isLocked": false, 
                           "shouldBreakMaskChain": false, 
@@ -2637,6 +2701,7 @@
                           "isVisible": true, 
                           "path": {
                             "isClosed": true, 
+                            "pointRadiusBehaviour": 0, 
                             "_class": "path", 
                             "points": [
                               {
@@ -2742,6 +2807,7 @@
                       }, 
                       "clippingMaskMode": 0, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "BB288217-D110-466A-92C4-9AA14F7CF236", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -2760,6 +2826,7 @@
                       "isFlippedVertical": false
                     }, 
                     {
+                      "fillReplacesImage": false, 
                       "style": {
                         "endDecorationType": 0, 
                         "_class": "style", 
@@ -2779,7 +2846,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
-                      "fillReplacesImage": false, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "7EA7567E-DB82-489D-9FB3-E493F48D43DF", 
                       "nineSliceCenterRect": "{{0, 0}, {0, 0}}", 
                       "isLocked": false, 
@@ -2823,6 +2890,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "2646558C-4782-4DFD-B83A-A1D114BE14AC", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -2859,6 +2927,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "BD34EFF0-AA26-4F61-92ED-BD65C65DEFFA", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -2895,6 +2964,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "31D0DDA1-9D0A-4D6D-A7A8-04C85EB7570B", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -2940,6 +3010,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "7DFCCBD8-A8C6-44E0-BE1C-9089C1DC4980", 
                   "hasConvertedToNewRoundCorners": true, 
                   "isLocked": false, 
@@ -2954,6 +3025,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -3060,6 +3132,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "19085604-AF9C-419A-A963-1A46DCA1965B", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -3094,6 +3167,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "0A6F68AC-2DF8-439A-AC88-08D3C6592D40", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -3107,6 +3181,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": false, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -3200,6 +3275,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "E9386757-2734-4156-B2B3-9CE41697256B", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -3253,8 +3329,9 @@
                     "miterLimit": 10
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "DFB634C8-CA00-439F-B4B7-B8B44BAF8F19", 
                   "isLocked": false, 
+                  "do_objectID": "DFB634C8-CA00-439F-B4B7-B8B44BAF8F19", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -3310,6 +3387,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "65C25079-E501-4E13-AD71-344A3F632D5B", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -3355,6 +3433,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "B720E5C3-BF76-4EB1-A6D8-4AB6942C3BAD", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -3368,6 +3447,7 @@
                       "isVisible": true, 
                       "path": {
                         "isClosed": false, 
+                        "pointRadiusBehaviour": 0, 
                         "_class": "path", 
                         "points": [
                           {
@@ -3460,6 +3540,7 @@
                   }, 
                   "clippingMaskMode": 0, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "836B3E1C-E144-4492-A88B-AD827AB10482", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -3494,6 +3575,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "6A424DE2-102F-4EBE-A574-F4F9DEA1D077", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -3507,6 +3589,7 @@
                       "isVisible": true, 
                       "path": {
                         "isClosed": false, 
+                        "pointRadiusBehaviour": 0, 
                         "_class": "path", 
                         "points": [
                           {
@@ -3599,6 +3682,7 @@
                   }, 
                   "clippingMaskMode": 0, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "46E657AF-1D54-4562-B06F-3BCDDC4EE37B", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -3633,6 +3717,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "E2731F45-EF49-4FC5-A662-89FFC115229A", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -3646,6 +3731,7 @@
                       "isVisible": true, 
                       "path": {
                         "isClosed": false, 
+                        "pointRadiusBehaviour": 0, 
                         "_class": "path", 
                         "points": [
                           {
@@ -3738,6 +3824,7 @@
                   }, 
                   "clippingMaskMode": 0, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "5A75449C-F339-4138-AD28-CE0866D5207C", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -3775,6 +3862,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "F770F37F-3CF8-4AB6-9375-CB4769C800F7", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -3812,6 +3900,7 @@
                             "_class": "rect"
                           }, 
                           "resizingType": 0, 
+                          "resizingConstraint": 63, 
                           "do_objectID": "4FE87182-3F21-495C-AA81-8C079024CDF3", 
                           "isLocked": false, 
                           "shouldBreakMaskChain": false, 
@@ -3825,6 +3914,7 @@
                           "isVisible": true, 
                           "path": {
                             "isClosed": true, 
+                            "pointRadiusBehaviour": 0, 
                             "_class": "path", 
                             "points": [
                               {
@@ -3930,6 +4020,7 @@
                       }, 
                       "clippingMaskMode": 0, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "2BB6420D-CD2F-4897-B82D-0B1AA2D43F08", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -3948,6 +4039,7 @@
                       "isFlippedVertical": false
                     }, 
                     {
+                      "fillReplacesImage": false, 
                       "style": {
                         "endDecorationType": 0, 
                         "_class": "style", 
@@ -3967,7 +4059,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
-                      "fillReplacesImage": false, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "20B7A5CF-EBD3-474E-BE06-E991BDEFAC52", 
                       "nineSliceCenterRect": "{{0, 0}, {0, 0}}", 
                       "isLocked": false, 
@@ -4011,6 +4103,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "9A31F8F7-749A-4B40-834E-B8733F5A6026", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -4061,8 +4154,9 @@
                     "miterLimit": 10
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "3724918E-5D07-401E-9CD7-3939903C6D88", 
                   "isLocked": false, 
+                  "do_objectID": "3724918E-5D07-401E-9CD7-3939903C6D88", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -4105,6 +4199,7 @@
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
+                      "resizingConstraint": 63, 
                       "do_objectID": "F7F017FA-A899-49C6-BC52-F2E49E3876E8", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
@@ -4118,6 +4213,7 @@
                       "isVisible": true, 
                       "path": {
                         "isClosed": true, 
+                        "pointRadiusBehaviour": 0, 
                         "_class": "path", 
                         "points": [
                           {
@@ -4214,6 +4310,7 @@
                   }, 
                   "clippingMaskMode": 0, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "0E138F31-AE0A-4D85-8F8F-5E17F321DA50", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -4251,6 +4348,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "8DBA6F39-B907-44E0-9703-1DB7B2D38020", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -4287,6 +4385,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "ACE284ED-5EB9-43FE-8064-BE365C989F95", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -4320,9 +4419,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "68E5BCEE-C210-4FC0-80F9-786B9EA763ED", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": true, 
       "backgroundColor": {
         "blue": 1, 
@@ -4376,33 +4476,31 @@
     "startDecorationType": 0, 
     "miterLimit": 10
   }, 
+  "isLocked": false, 
+  "do_objectID": "A11FD983-F355-42F2-967E-4823753B5323", 
+  "resizingConstraint": 0, 
+  "_class": "page", 
   "isFlippedHorizontal": false, 
-  "name": "Influencer Flow", 
-  "includeInCloudUpload": true, 
   "horizontalRulerData": {
     "_class": "rulerData", 
     "guides": [], 
     "base": -265
   }, 
   "hasClickThrough": true, 
-  "layerListExpandedType": 0, 
-  "frame": {
-    "constrainProportions": false, 
-    "height": 300, 
-    "width": 300, 
-    "y": 0, 
-    "x": 0, 
-    "_class": "rect"
-  }, 
-  "resizingType": 0, 
-  "do_objectID": "A11FD983-F355-42F2-967E-4823753B5323", 
-  "isLocked": false, 
-  "shouldBreakMaskChain": false, 
   "grid": {
     "isEnabled": false, 
     "_class": "simpleGrid", 
     "thickGridTimes": 10, 
     "gridSize": 20
+  }, 
+  "rotation": 0, 
+  "isFlippedVertical": false, 
+  "name": "Influencer Flow", 
+  "nameIsFixed": true, 
+  "verticalRulerData": {
+    "_class": "rulerData", 
+    "guides": [], 
+    "base": -203
   }, 
   "exportOptions": {
     "shouldTrim": false, 
@@ -4412,13 +4510,6 @@
     "exportFormats": []
   }, 
   "isVisible": true, 
-  "verticalRulerData": {
-    "_class": "rulerData", 
-    "guides": [], 
-    "base": -203
-  }, 
-  "rotation": 0, 
-  "_class": "page", 
-  "nameIsFixed": true, 
-  "isFlippedVertical": false
+  "shouldBreakMaskChain": false, 
+  "includeInCloudUpload": true
 }

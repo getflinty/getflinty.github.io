@@ -11,6 +11,7 @@
         "_class": "rect"
       }, 
       "symbolID": "FD94B0E0-AAD0-4C23-BF9D-8FA17F1C1BD2", 
+      "resizesContent": false, 
       "includeBackgroundColorInInstance": false, 
       "resizingType": 0, 
       "layers": [
@@ -33,6 +34,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "AD5541B8-01D9-49CF-BA4F-9D1D803F709A", 
                   "hasConvertedToNewRoundCorners": true, 
                   "isLocked": false, 
@@ -47,6 +49,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -154,6 +157,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "D4C86505-45B1-4358-BD03-408BFE671190", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -208,8 +212,9 @@
                 "startDecorationType": 0
               }, 
               "dontSynchroniseWithSymbol": false, 
-              "do_objectID": "C8DC5A2A-93DC-4B9A-A6A8-5C8F487A9ECE", 
               "isLocked": false, 
+              "do_objectID": "C8DC5A2A-93DC-4B9A-A6A8-5C8F487A9ECE", 
+              "resizingConstraint": 63, 
               "_class": "text", 
               "lineSpacingBehaviour": 2, 
               "isFlippedHorizontal": false, 
@@ -255,6 +260,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "366CFADD-5478-48D7-924B-D7C9AFB56DE4", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -278,9 +284,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "2A360726-69B1-4E47-B310-755CA224129E", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -297,6 +304,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
+      "changeIdentifier": 0, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "tag chip/inactive", 
@@ -328,6 +336,7 @@
         "_class": "rect"
       }, 
       "symbolID": "12D1599D-8DE2-4C16-8A44-D67CA5D10C5D", 
+      "resizesContent": false, 
       "includeBackgroundColorInInstance": false, 
       "resizingType": 0, 
       "layers": [
@@ -350,6 +359,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "20785324-10A2-4161-96B4-90912F757B1B", 
                   "hasConvertedToNewRoundCorners": true, 
                   "isLocked": false, 
@@ -364,6 +374,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -471,6 +482,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "0A6E1D78-2088-4C75-A1AB-15BF7A502E94", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -525,8 +537,9 @@
                     "startDecorationType": 0
                   }, 
                   "dontSynchroniseWithSymbol": false, 
-                  "do_objectID": "7F560500-B953-4B25-84D8-26116F1B0C81", 
                   "isLocked": false, 
+                  "do_objectID": "7F560500-B953-4B25-84D8-26116F1B0C81", 
+                  "resizingConstraint": 63, 
                   "_class": "text", 
                   "lineSpacingBehaviour": 2, 
                   "isFlippedHorizontal": false, 
@@ -572,6 +585,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "611A21C4-3F6C-4D2B-9C83-8491370B32A7", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -608,6 +622,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "D4D60BA8-88FB-42E0-81CC-8D747D1A57F7", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -631,9 +646,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "B3141128-4B81-4BC6-93B2-00867FF3C2BE", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -650,6 +666,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
+      "changeIdentifier": 0, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "tag chip/active", 
@@ -680,6 +697,7 @@
         "x": 100, 
         "_class": "rect"
       }, 
+      "resizesContent": false, 
       "resizingType": 0, 
       "layers": [
         {
@@ -717,8 +735,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "F77D00B9-B6A5-4C9D-BCF6-CE049A8C08A5", 
           "isLocked": false, 
+          "do_objectID": "F77D00B9-B6A5-4C9D-BCF6-CE049A8C08A5", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -779,8 +798,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "3C04266D-1099-4D12-BE76-11507371DFB6", 
           "isLocked": false, 
+          "do_objectID": "3C04266D-1099-4D12-BE76-11507371DFB6", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -841,8 +861,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "147742B6-16CB-425E-B2B1-25ECCD4190AC", 
           "isLocked": false, 
+          "do_objectID": "147742B6-16CB-425E-B2B1-25ECCD4190AC", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -903,8 +924,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "61BC6500-0B1B-450C-A352-EA622D247195", 
           "isLocked": false, 
+          "do_objectID": "61BC6500-0B1B-450C-A352-EA622D247195", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -966,8 +988,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "08406D76-20D4-46ED-B18F-8AC427B3DBF9", 
           "isLocked": false, 
+          "do_objectID": "08406D76-20D4-46ED-B18F-8AC427B3DBF9", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -1029,8 +1052,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "7AD13FB7-34D6-443C-9C6A-47900F10A554", 
           "isLocked": false, 
+          "do_objectID": "7AD13FB7-34D6-443C-9C6A-47900F10A554", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -1091,8 +1115,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "19B694AB-B140-4240-B412-938ADD24649A", 
           "isLocked": false, 
+          "do_objectID": "19B694AB-B140-4240-B412-938ADD24649A", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -1153,8 +1178,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "CECE512B-622B-4101-B439-19BAA42E64D1", 
           "isLocked": false, 
+          "do_objectID": "CECE512B-622B-4101-B439-19BAA42E64D1", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -1215,8 +1241,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "7DAEFC72-486D-469D-9594-108DE962E6CB", 
           "isLocked": false, 
+          "do_objectID": "7DAEFC72-486D-469D-9594-108DE962E6CB", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -1277,8 +1304,9 @@
             "startDecorationType": 0
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "EB85681F-35FD-4042-BC91-0A52BA6BDD14", 
           "isLocked": false, 
+          "do_objectID": "EB85681F-35FD-4042-BC91-0A52BA6BDD14", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 0, 
           "isFlippedHorizontal": false, 
@@ -1311,9 +1339,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "B9139CE3-85E1-458D-9321-821CB0D472A6", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -1367,6 +1396,7 @@
         "_class": "rect"
       }, 
       "symbolID": "83E11DD1-6E09-4248-B14F-E547D836D658", 
+      "resizesContent": false, 
       "includeBackgroundColorInInstance": false, 
       "resizingType": 0, 
       "layers": [
@@ -1404,8 +1434,9 @@
             "miterLimit": 10
           }, 
           "dontSynchroniseWithSymbol": false, 
-          "do_objectID": "4CC4101C-F411-4DB2-AD5D-99554E6D085F", 
           "isLocked": false, 
+          "do_objectID": "4CC4101C-F411-4DB2-AD5D-99554E6D085F", 
+          "resizingConstraint": 63, 
           "_class": "text", 
           "lineSpacingBehaviour": 2, 
           "isFlippedHorizontal": false, 
@@ -1438,9 +1469,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -1457,6 +1489,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
+      "changeIdentifier": 0, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Logo", 
@@ -1488,6 +1521,7 @@
         "_class": "rect"
       }, 
       "symbolID": "24B98D2E-7387-4C53-94B4-A0B198D81021", 
+      "resizesContent": false, 
       "includeBackgroundColorInInstance": false, 
       "resizingType": 0, 
       "layers": [
@@ -1508,6 +1542,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "34CCA21C-9EFA-4B56-8E69-08FE195452FB", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -1521,6 +1556,7 @@
               "isVisible": true, 
               "path": {
                 "isClosed": false, 
+                "pointRadiusBehaviour": 0, 
                 "_class": "path", 
                 "points": [
                   {
@@ -1613,6 +1649,7 @@
           }, 
           "clippingMaskMode": 0, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "807B89BC-F8A9-43C8-8E9C-7C98BAC3BFE2", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -1647,6 +1684,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "21582EDE-B801-4B3F-BD26-F2E1B0A35B04", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -1660,6 +1698,7 @@
               "isVisible": true, 
               "path": {
                 "isClosed": false, 
+                "pointRadiusBehaviour": 0, 
                 "_class": "path", 
                 "points": [
                   {
@@ -1752,6 +1791,7 @@
           }, 
           "clippingMaskMode": 0, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "21511107-916B-4479-9376-21C35AC042FE", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -1786,6 +1826,7 @@
                 "_class": "rect"
               }, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "8C5D9FCE-1AE3-461F-B75D-936EAFDDD5DD", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -1799,6 +1840,7 @@
               "isVisible": true, 
               "path": {
                 "isClosed": false, 
+                "pointRadiusBehaviour": 0, 
                 "_class": "path", 
                 "points": [
                   {
@@ -1891,6 +1933,7 @@
           }, 
           "clippingMaskMode": 0, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "5ECDB8E2-197B-40D0-A54E-92211458931D", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -1915,9 +1958,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "45178107-A7F7-41FE-8D2F-6D6FD5830E9C", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -1934,6 +1978,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
+      "changeIdentifier": 0, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Drawer Icon", 
@@ -1965,6 +2010,7 @@
         "_class": "rect"
       }, 
       "symbolID": "2629BB13-7459-46D0-BAE7-D7E856DA1FD7", 
+      "resizesContent": false, 
       "includeBackgroundColorInInstance": false, 
       "resizingType": 0, 
       "layers": [
@@ -1987,6 +2033,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "81D25D05-3A96-4263-AC6C-6D9C0D83E214", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -2000,6 +2047,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": false, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -2092,6 +2140,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "8E717D2B-531C-491B-A041-06B16CEB8AB8", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -2126,6 +2175,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "823803C0-A049-4A16-AA06-8F28823A6466", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -2139,6 +2189,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": false, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -2231,6 +2282,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "31DD0729-AF36-4F76-BC1D-04F82DEEC4A3", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -2268,6 +2320,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "996229DD-3BE1-407B-8761-2A4D77BA1E41", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -2291,9 +2344,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "2DF50426-6675-47F9-A89E-94D7B8E3B6F7", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -2310,6 +2364,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
+      "changeIdentifier": 0, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Cancel Icon", 
@@ -2341,6 +2396,7 @@
         "_class": "rect"
       }, 
       "symbolID": "4603B406-6ADE-4FFC-9171-DF2137024F76", 
+      "resizesContent": false, 
       "includeBackgroundColorInInstance": false, 
       "resizingType": 0, 
       "layers": [
@@ -2363,6 +2419,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "D89300E6-1BF8-4467-984A-4287AFF9805B", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -2376,6 +2433,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": false, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -2468,6 +2526,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "64766FAA-0042-4B22-8B0A-D4C9C5711C85", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -2519,8 +2578,9 @@
                 "miterLimit": 10
               }, 
               "dontSynchroniseWithSymbol": false, 
-              "do_objectID": "B8264FCD-D00F-403F-BF3F-E74A3F22363F", 
               "isLocked": false, 
+              "do_objectID": "B8264FCD-D00F-403F-BF3F-E74A3F22363F", 
+              "resizingConstraint": 63, 
               "_class": "text", 
               "lineSpacingBehaviour": 2, 
               "isFlippedHorizontal": false, 
@@ -2563,6 +2623,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "423881F5-7AF8-41C8-9F4F-EA2790C7938D", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -2576,6 +2637,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -2681,6 +2743,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "7B44B1DD-D657-4FFA-AE35-82F61D3B04AD", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -2715,6 +2778,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "85477C71-3C3F-4394-890C-08B46CA9A3FC", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -2728,6 +2792,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -2833,6 +2898,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "9DE9C543-883B-440C-9640-4F591F34B6D6", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -2884,8 +2950,9 @@
                 "miterLimit": 10
               }, 
               "dontSynchroniseWithSymbol": false, 
-              "do_objectID": "A6649198-478F-4D51-A9EB-A904FECE4ED6", 
               "isLocked": false, 
+              "do_objectID": "A6649198-478F-4D51-A9EB-A904FECE4ED6", 
+              "resizingConstraint": 63, 
               "_class": "text", 
               "lineSpacingBehaviour": 2, 
               "isFlippedHorizontal": false, 
@@ -2931,6 +2998,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "C00007C4-99C5-4EBA-A4BC-71B3CAE7A021", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -2954,9 +3022,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "2525B9AA-CDCC-442E-9940-DDB9700A1C05", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -2973,6 +3042,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
+      "changeIdentifier": 0, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Range Slider", 
@@ -3004,6 +3074,7 @@
         "_class": "rect"
       }, 
       "symbolID": "26AD47AE-3671-42F1-BEE5-4D0FA7C5F778", 
+      "resizesContent": false, 
       "includeBackgroundColorInInstance": false, 
       "resizingType": 0, 
       "layers": [
@@ -3026,6 +3097,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "C73752EA-8211-446A-B2D5-6C806A8D0929", 
                   "hasConvertedToNewRoundCorners": true, 
                   "isLocked": false, 
@@ -3040,6 +3112,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -3147,6 +3220,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "B727EC0F-5BC7-4860-A875-6C143DFA95B3", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -3198,8 +3272,9 @@
                 "miterLimit": 10
               }, 
               "dontSynchroniseWithSymbol": false, 
-              "do_objectID": "58C2DB63-BC83-475E-B1FA-8DF48F7DF312", 
               "isLocked": false, 
+              "do_objectID": "58C2DB63-BC83-475E-B1FA-8DF48F7DF312", 
+              "resizingConstraint": 63, 
               "_class": "text", 
               "lineSpacingBehaviour": 2, 
               "isFlippedHorizontal": false, 
@@ -3242,6 +3317,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "B7E0EEFD-DBC7-439F-A5E4-DE358F3DEAC2", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
@@ -3255,6 +3331,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -3351,6 +3428,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "2DA048C1-900C-4408-9333-A8AC8CC7F579", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -3388,6 +3466,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "E544E73F-D25E-4730-9C3C-E4317EB310F7", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -3411,9 +3490,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -3430,6 +3510,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
+      "changeIdentifier": 0, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Dropdown pill menu", 
@@ -3461,6 +3542,7 @@
         "_class": "rect"
       }, 
       "symbolID": "BEEE5E9C-3E4A-4EC6-A57B-7FBCD573B7CB", 
+      "resizesContent": false, 
       "includeBackgroundColorInInstance": false, 
       "resizingType": 0, 
       "layers": [
@@ -3483,6 +3565,7 @@
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
+                  "resizingConstraint": 63, 
                   "do_objectID": "09CDB60A-6D87-422A-AA9A-ED5D2A16F495", 
                   "hasConvertedToNewRoundCorners": true, 
                   "isLocked": false, 
@@ -3497,6 +3580,7 @@
                   "isVisible": true, 
                   "path": {
                     "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
                     "_class": "path", 
                     "points": [
                       {
@@ -3603,6 +3687,7 @@
               }, 
               "clippingMaskMode": 0, 
               "resizingType": 0, 
+              "resizingConstraint": 63, 
               "do_objectID": "17A581B7-27CB-4C5B-8438-3664F4885EF7", 
               "isLocked": false, 
               "shouldBreakMaskChain": false, 
@@ -3654,8 +3739,9 @@
                 "miterLimit": 10
               }, 
               "dontSynchroniseWithSymbol": false, 
-              "do_objectID": "01DDF775-5793-44DC-92DF-8661D69A5822", 
               "isLocked": false, 
+              "do_objectID": "01DDF775-5793-44DC-92DF-8661D69A5822", 
+              "resizingConstraint": 63, 
               "_class": "text", 
               "lineSpacingBehaviour": 2, 
               "isFlippedHorizontal": false, 
@@ -3701,6 +3787,7 @@
             "_class": "rect"
           }, 
           "resizingType": 0, 
+          "resizingConstraint": 63, 
           "do_objectID": "3A038F13-9629-43B9-B685-647140BAFB07", 
           "isLocked": false, 
           "shouldBreakMaskChain": false, 
@@ -3724,9 +3811,10 @@
         "startDecorationType": 0, 
         "miterLimit": 10
       }, 
+      "isLocked": false, 
       "do_objectID": "FF3082AE-80F0-49B3-BB0D-CE3935BCE9F7", 
       "includeBackgroundColorInExport": true, 
-      "isLocked": false, 
+      "resizingConstraint": 63, 
       "hasBackgroundColor": false, 
       "backgroundColor": {
         "blue": 1, 
@@ -3743,6 +3831,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
+      "changeIdentifier": 0, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Button", 
@@ -3793,6 +3882,7 @@
     "_class": "rect"
   }, 
   "resizingType": 0, 
+  "resizingConstraint": 0, 
   "do_objectID": "878A61C6-D485-41ED-A3D8-DBE6A1B467B1", 
   "isLocked": false, 
   "shouldBreakMaskChain": false, 

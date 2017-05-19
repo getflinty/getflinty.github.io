@@ -37,7 +37,7 @@
           "name": "Typography"
         }, 
         "2525B9AA-CDCC-442E-9940-DDB9700A1C05": {
-          "name": "Range Slider"
+          "name": "Dual Range Slider"
         }, 
         "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA": {
           "name": "Logo"
@@ -47,6 +47,9 @@
         }, 
         "2A360726-69B1-4E47-B310-755CA224129E": {
           "name": "tag chip/inactive"
+        }, 
+        "807A8FA0-A4C9-42E7-BE4C-2E45C074E152": {
+          "name": "Single Range Slider"
         }, 
         "2DF50426-6675-47F9-A89E-94D7B8E3B6F7": {
           "name": "Cancel Icon"

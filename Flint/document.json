@@ -333,6 +333,303 @@
           "startDecorationType": 0
         }, 
         "do_objectID": "2749BC1B-6E64-47E9-B4E3-3A0C3101CC4E"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Chart Axis Line", 
+        "value": {
+          "fills": [
+            {
+              "fillType": 0, 
+              "patternTileScale": 1, 
+              "color": {
+                "blue": 0.847, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.847, 
+                "red": 0.847
+              }, 
+              "isEnabled": false, 
+              "noiseIndex": 0, 
+              "patternFillType": 1, 
+              "_class": "fill", 
+              "noiseIntensity": 0
+            }
+          ], 
+          "endDecorationType": 0, 
+          "sharedObjectID": "BF309DC4-5C2B-4FA6-8DCB-09947DC51934", 
+          "miterLimit": 10, 
+          "startDecorationType": 0, 
+          "borders": [
+            {
+              "fillType": 0, 
+              "color": {
+                "blue": 0.4, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.4, 
+                "red": 0.4
+              }, 
+              "isEnabled": true, 
+              "thickness": 2, 
+              "position": 0, 
+              "_class": "border"
+            }
+          ], 
+          "_class": "style", 
+          "borderOptions": {
+            "dashPattern": [], 
+            "isEnabled": false, 
+            "_class": "borderOptions", 
+            "lineJoinStyle": 0, 
+            "lineCapStyle": 2
+          }
+        }, 
+        "do_objectID": "BF309DC4-5C2B-4FA6-8DCB-09947DC51934"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Chart Guide Line", 
+        "value": {
+          "fills": [
+            {
+              "fillType": 0, 
+              "patternTileScale": 1, 
+              "color": {
+                "blue": 0.847, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.847, 
+                "red": 0.847
+              }, 
+              "isEnabled": false, 
+              "noiseIndex": 0, 
+              "patternFillType": 1, 
+              "_class": "fill", 
+              "noiseIntensity": 0
+            }
+          ], 
+          "endDecorationType": 0, 
+          "sharedObjectID": "23A6614A-3D26-462C-A7BA-4FDA07EB6AB0", 
+          "miterLimit": 10, 
+          "startDecorationType": 0, 
+          "borders": [
+            {
+              "fillType": 0, 
+              "color": {
+                "blue": 0.8509803921568627, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.8509803921568627, 
+                "red": 0.8509803921568627
+              }, 
+              "isEnabled": true, 
+              "thickness": 1, 
+              "position": 0, 
+              "_class": "border"
+            }
+          ], 
+          "_class": "style", 
+          "borderOptions": {
+            "dashPattern": [], 
+            "isEnabled": false, 
+            "_class": "borderOptions", 
+            "lineJoinStyle": 0, 
+            "lineCapStyle": 2
+          }
+        }, 
+        "do_objectID": "23A6614A-3D26-462C-A7BA-4FDA07EB6AB0"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Chart Line", 
+        "value": {
+          "fills": [
+            {
+              "fillType": 0, 
+              "patternTileScale": 1, 
+              "color": {
+                "blue": 0.847, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.847, 
+                "red": 0.847
+              }, 
+              "isEnabled": false, 
+              "noiseIndex": 0, 
+              "patternFillType": 1, 
+              "_class": "fill", 
+              "noiseIntensity": 0
+            }
+          ], 
+          "endDecorationType": 0, 
+          "sharedObjectID": "657492E7-DE39-47D4-8094-650462872927", 
+          "miterLimit": 10, 
+          "startDecorationType": 0, 
+          "borders": [
+            {
+              "fillType": 0, 
+              "color": {
+                "blue": 0.1058823529411762, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.003921568627450966, 
+                "red": 0.8156862745098039
+              }, 
+              "isEnabled": true, 
+              "thickness": 4, 
+              "position": 0, 
+              "_class": "border"
+            }
+          ], 
+          "_class": "style", 
+          "borderOptions": {
+            "dashPattern": [], 
+            "isEnabled": false, 
+            "_class": "borderOptions", 
+            "lineJoinStyle": 0, 
+            "lineCapStyle": 2
+          }
+        }, 
+        "do_objectID": "657492E7-DE39-47D4-8094-650462872927"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Chart Point", 
+        "value": {
+          "fills": [
+            {
+              "fillType": 0, 
+              "patternTileScale": 1, 
+              "color": {
+                "blue": 1, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 1, 
+                "red": 1
+              }, 
+              "isEnabled": true, 
+              "noiseIndex": 0, 
+              "patternFillType": 1, 
+              "_class": "fill", 
+              "noiseIntensity": 0
+            }
+          ], 
+          "endDecorationType": 0, 
+          "sharedObjectID": "D568164D-CF0F-4F29-8785-6A12B04374F2", 
+          "miterLimit": 10, 
+          "borders": [
+            {
+              "fillType": 0, 
+              "color": {
+                "blue": 0.1058823529411762, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.003921568627450966, 
+                "red": 0.8156862745098039
+              }, 
+              "isEnabled": true, 
+              "thickness": 4, 
+              "position": 0, 
+              "_class": "border"
+            }
+          ], 
+          "_class": "style", 
+          "startDecorationType": 0
+        }, 
+        "do_objectID": "D568164D-CF0F-4F29-8785-6A12B04374F2"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Selected Option", 
+        "value": {
+          "fills": [
+            {
+              "fillType": 0, 
+              "patternTileScale": 1, 
+              "color": {
+                "blue": 1, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 1, 
+                "red": 1
+              }, 
+              "isEnabled": true, 
+              "noiseIndex": 0, 
+              "patternFillType": 1, 
+              "_class": "fill", 
+              "noiseIntensity": 0
+            }
+          ], 
+          "endDecorationType": 0, 
+          "sharedObjectID": "A2A9FE37-5437-42E7-B467-55FDF26AEAB4", 
+          "miterLimit": 10, 
+          "borders": [
+            {
+              "fillType": 0, 
+              "color": {
+                "blue": 0.1066960170865059, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.007513228338211775, 
+                "red": 0.816203773021698
+              }, 
+              "isEnabled": true, 
+              "thickness": 3, 
+              "position": 0, 
+              "_class": "border"
+            }
+          ], 
+          "_class": "style", 
+          "startDecorationType": 0
+        }, 
+        "do_objectID": "A2A9FE37-5437-42E7-B467-55FDF26AEAB4"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Unselected Option", 
+        "value": {
+          "fills": [
+            {
+              "fillType": 0, 
+              "patternTileScale": 1, 
+              "color": {
+                "blue": 1, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 1, 
+                "red": 1
+              }, 
+              "isEnabled": true, 
+              "noiseIndex": 0, 
+              "patternFillType": 1, 
+              "_class": "fill", 
+              "noiseIntensity": 0
+            }
+          ], 
+          "endDecorationType": 0, 
+          "sharedObjectID": "B81E8286-A9B1-41BE-ADE7-0F5929A56751", 
+          "miterLimit": 10, 
+          "borders": [
+            {
+              "fillType": 0, 
+              "color": {
+                "blue": 0.8, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.8, 
+                "red": 0.8
+              }, 
+              "isEnabled": true, 
+              "thickness": 3, 
+              "position": 0, 
+              "_class": "border"
+            }
+          ], 
+          "_class": "style", 
+          "startDecorationType": 0
+        }, 
+        "do_objectID": "B81E8286-A9B1-41BE-ADE7-0F5929A56751"
       }
     ]
   }, 
@@ -609,10 +906,10 @@
                 "_archive": "YnBsaXN0MDDUAQIDBAUGICFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBIWHFUkbnVsbNUJCgsMDQ4PEA8RWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3OAABABgAKABNITDRQVWk5TLm9iamVjdHOggAPSFxgZGlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGRtYTlNPYmplY3TSFxgdHl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlox0fG18QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRIiNUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAE4AWQBlAHIAlACbAJ0AnwChAKMAqACzALQAtgC7AMYAzwDXANoA4wDoAQIBBgEZASsBLgEzAAAAAAAAAgEAAAAAAAAAJAAAAAAAAAAAAAAAAAAAATU="
               }, 
               "NSColor": {
-                "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTxAnMC41OTIxNTY4NjI3IDAuNTkyMTU2ODYyNyAwLjU5MjE1Njg2MjcAEAGAAoAE0hIMExRUTlNJRBABgAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIaG1xOU0NvbG9yU3BhY2VYTlNPYmplY3TSFhcdHldOU0NvbG9yoh0bXxAPTlNLZXllZEFyY2hpdmVy0SEiVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBMAFIAXwB0AHsApQCnAKkAqwCwALUAtwC5AL4AyQDSAN8A4gDvAPgA/QEFAQgBGgEdASIAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAAAAABJA=="
+                "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTDAuNCAwLjQgMC40ABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIgAigCMAI4AkwCYAJoAnAChAKwAtQDCAMUA0gDbAOAA6ADrAP0BAAEFAAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQc="
               }, 
               "MSAttributedStringFontAttribute": {
-                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJAAAAAAAAFpMYXRvLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
               }
             }
           }, 
@@ -635,10 +932,10 @@
                 "_archive": "YnBsaXN0MDDUAQIDBAUGISJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBESWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3OAABACgAIQAYAE0hQNFRZaTlMub2JqZWN0c6CAA9IYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIaHFhOU09iamVjdNIYGR4fXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjHiAcXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEjJFRyb290gAEACAARABoAIwAtADIANwA9AEMATgBZAGUAcgCUAJsAnQCfAKEAowClAKoAtQC2ALgAvQDIANEA2QDcAOUA6gEEAQgBGwEtATABNQAAAAAAAAIBAAAAAAAAACUAAAAAAAAAAAAAAAAAAAE3"
               }, 
               "NSColor": {
-                "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTxAnMC41OTIxNTY4NjI3IDAuNTkyMTU2ODYyNyAwLjU5MjE1Njg2MjcAEAGAAoAE0hIMExRUTlNJRBABgAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIaG1xOU0NvbG9yU3BhY2VYTlNPYmplY3TSFhcdHldOU0NvbG9yoh0bXxAPTlNLZXllZEFyY2hpdmVy0SEiVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBMAFIAXwB0AHsApQCnAKkAqwCwALUAtwC5AL4AyQDSAN8A4gDvAPgA/QEFAQgBGgEdASIAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAAAAABJA=="
+                "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTDAuNCAwLjQgMC40ABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIgAigCMAI4AkwCYAJoAnAChAKwAtQDCAMUA0gDbAOAA6ADrAP0BAAEFAAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQc="
               }, 
               "MSAttributedStringFontAttribute": {
-                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJAAAAAAAAFpMYXRvLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
               }
             }
           }, 
@@ -779,6 +1076,84 @@
           "startDecorationType": 0
         }, 
         "do_objectID": "A2758D1F-DE1C-4AD1-A0FE-131747EAD890"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Dropdown Menu Text", 
+        "value": {
+          "textStyle": {
+            "_class": "textStyle", 
+            "encodedAttributes": {
+              "NSParagraphStyle": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGFhdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3NaTlNUYWJTdG9wcxABgAKAANIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMSFBVfEBBOU1BhcmFncmFwaFN0eWxlWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RgZVHJvb3SAAQgRGiMtMjc7QUhqcXx+gIKHkpu1uczV5+rvAAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAAAPE="
+              }, 
+              "NSColor": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTDAuNCAwLjQgMC40ABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIgAigCMAI4AkwCYAJoAnAChAKwAtQDCAMUA0gDbAOAA6ADrAP0BAAEFAAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQc="
+              }, 
+              "MSAttributedStringFontAttribute": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+              }
+            }
+          }, 
+          "endDecorationType": 0, 
+          "sharedObjectID": "DE5C52B1-377B-4DB8-93A0-73F41F552B19", 
+          "miterLimit": 10, 
+          "_class": "style", 
+          "startDecorationType": 0
+        }, 
+        "do_objectID": "DE5C52B1-377B-4DB8-93A0-73F41F552B19"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Dropdown Label", 
+        "value": {
+          "textStyle": {
+            "_class": "textStyle", 
+            "encodedAttributes": {
+              "NSParagraphStyle": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGFhdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OWk5TVGFiU3RvcHNWJGNsYXNzW05TQWxpZ25tZW50gACAAhAB0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxIUFV8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGBlUcm9vdIABCBEaIy0yNztBSFNaZmhqbHF8hZ+jtr/R1NkAAAAAAAABAQAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA2w=="
+              }, 
+              "NSColor": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
+              }, 
+              "MSAttributedStringFontAttribute": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAFlMYXRvLUJvbGTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA3QDiAO0A9gEMARABHQEmASsBPgFBAVQBZgFpAW4AAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcA=="
+              }
+            }
+          }, 
+          "endDecorationType": 0, 
+          "sharedObjectID": "E0CC436A-ED17-499C-B12A-C6F270683E4C", 
+          "miterLimit": 10, 
+          "_class": "style", 
+          "startDecorationType": 0
+        }, 
+        "do_objectID": "E0CC436A-ED17-499C-B12A-C6F270683E4C"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Axis Label", 
+        "value": {
+          "textStyle": {
+            "_class": "textStyle", 
+            "encodedAttributes": {
+              "NSParagraphStyle": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGISJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBESWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3OAABACgAIQAYAE0hQNFRZaTlMub2JqZWN0c6CAA9IYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIaHFhOU09iamVjdNIYGR4fXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjHiAcXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEjJFRyb290gAEACAARABoAIwAtADIANwA9AEMATgBZAGUAcgCUAJsAnQCfAKEAowClAKoAtQC2ALgAvQDIANEA2QDcAOUA6gEEAQgBGwEtATABNQAAAAAAAAIBAAAAAAAAACUAAAAAAAAAAAAAAAAAAAE3"
+              }, 
+              "NSColor": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTDAuNCAwLjQgMC40ABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIgAigCMAI4AkwCYAJoAnAChAKwAtQDCAMUA0gDbAOAA6ADrAP0BAAEFAAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQc="
+              }, 
+              "MSAttributedStringFontAttribute": {
+                "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+              }
+            }
+          }, 
+          "endDecorationType": 0, 
+          "sharedObjectID": "F2E5AFCB-AF45-491D-9EC7-603F2E65BE8E", 
+          "miterLimit": 10, 
+          "_class": "style", 
+          "startDecorationType": 0
+        }, 
+        "do_objectID": "F2E5AFCB-AF45-491D-9EC7-603F2E65BE8E"
       }
     ]
   }

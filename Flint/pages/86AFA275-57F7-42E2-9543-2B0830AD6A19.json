@@ -61,10 +61,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -112,10 +112,10 @@
       }, 
       "exportOptions": {
         "includedLayerIds": [], 
-        "exportFormats": [], 
         "shouldTrim": false, 
+        "_class": "exportOptions", 
         "layerOptions": 0, 
-        "_class": "exportOptions"
+        "exportFormats": []
       }, 
       "isVisible": true, 
       "shouldBreakMaskChain": false, 
@@ -154,13 +154,7 @@
               "isFlippedVertical": false, 
               "do_objectID": "8EC9D53B-D916-442C-A946-6894AB56D1B6", 
               "isLocked": false, 
-              "exportOptions": {
-                "includedLayerIds": [], 
-                "exportFormats": [], 
-                "shouldTrim": false, 
-                "layerOptions": 0, 
-                "_class": "exportOptions"
-              }, 
+              "resizingType": 0, 
               "nameIsFixed": false, 
               "isVisible": true, 
               "path": {
@@ -192,7 +186,13 @@
               "rotation": 0, 
               "_class": "shapePath", 
               "shouldBreakMaskChain": false, 
-              "resizingType": 0
+              "exportOptions": {
+                "includedLayerIds": [], 
+                "shouldTrim": false, 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }
             }
           ], 
           "style": {
@@ -261,10 +261,10 @@
           "shouldBreakMaskChain": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isFlippedVertical": false, 
           "clippingMaskMode": 0, 
@@ -293,13 +293,7 @@
               "isFlippedVertical": false, 
               "do_objectID": "255052B6-207B-4873-9B7F-617A3D757FC8", 
               "isLocked": false, 
-              "exportOptions": {
-                "includedLayerIds": [], 
-                "exportFormats": [], 
-                "shouldTrim": false, 
-                "layerOptions": 0, 
-                "_class": "exportOptions"
-              }, 
+              "resizingType": 0, 
               "nameIsFixed": false, 
               "isVisible": true, 
               "path": {
@@ -331,7 +325,13 @@
               "rotation": 0, 
               "_class": "shapePath", 
               "shouldBreakMaskChain": false, 
-              "resizingType": 0
+              "exportOptions": {
+                "includedLayerIds": [], 
+                "shouldTrim": false, 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }
             }
           ], 
           "style": {
@@ -400,10 +400,10 @@
           "shouldBreakMaskChain": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isFlippedVertical": false, 
           "clippingMaskMode": 0, 
@@ -432,13 +432,7 @@
               "isFlippedVertical": false, 
               "do_objectID": "0BDA421F-C3C5-4482-94F9-D5EEC7B3BA06", 
               "isLocked": false, 
-              "exportOptions": {
-                "includedLayerIds": [], 
-                "exportFormats": [], 
-                "shouldTrim": false, 
-                "layerOptions": 0, 
-                "_class": "exportOptions"
-              }, 
+              "resizingType": 0, 
               "nameIsFixed": false, 
               "isVisible": true, 
               "path": {
@@ -470,7 +464,13 @@
               "rotation": 0, 
               "_class": "shapePath", 
               "shouldBreakMaskChain": false, 
-              "resizingType": 0
+              "exportOptions": {
+                "includedLayerIds": [], 
+                "shouldTrim": false, 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }
             }
           ], 
           "style": {
@@ -539,10 +539,10 @@
           "shouldBreakMaskChain": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isFlippedVertical": false, 
           "clippingMaskMode": 0, 
@@ -589,10 +589,10 @@
       }, 
       "exportOptions": {
         "includedLayerIds": [], 
-        "exportFormats": [], 
         "shouldTrim": false, 
+        "_class": "exportOptions", 
         "layerOptions": 0, 
-        "_class": "exportOptions"
+        "exportFormats": []
       }, 
       "isVisible": true, 
       "shouldBreakMaskChain": false, 
@@ -658,10 +658,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -720,10 +720,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -782,10 +782,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -844,10 +844,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -907,10 +907,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -969,10 +969,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -1032,10 +1032,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -1094,10 +1094,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -1156,10 +1156,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -1218,10 +1218,10 @@
           "automaticallyDrawOnUnderlyingPath": false, 
           "exportOptions": {
             "includedLayerIds": [], 
-            "exportFormats": [], 
             "shouldTrim": false, 
+            "_class": "exportOptions", 
             "layerOptions": 0, 
-            "_class": "exportOptions"
+            "exportFormats": []
           }, 
           "isVisible": true, 
           "shouldBreakMaskChain": false, 
@@ -1275,10 +1275,10 @@
       }, 
       "exportOptions": {
         "includedLayerIds": [], 
-        "exportFormats": [], 
         "shouldTrim": false, 
+        "_class": "exportOptions", 
         "layerOptions": 0, 
-        "_class": "exportOptions"
+        "exportFormats": []
       }, 
       "isVisible": true, 
       "shouldBreakMaskChain": false, 
@@ -1309,24 +1309,24 @@
   }, 
   "hasClickThrough": true, 
   "isFlippedVertical": false, 
-  "do_objectID": "86AFA275-57F7-42E2-9543-2B0830AD6A19", 
-  "isLocked": false, 
-  "exportOptions": {
-    "includedLayerIds": [], 
-    "exportFormats": [], 
-    "shouldTrim": false, 
-    "layerOptions": 0, 
-    "_class": "exportOptions"
-  }, 
-  "nameIsFixed": true, 
-  "isVisible": true, 
-  "_class": "page", 
-  "rotation": 0, 
   "verticalRulerData": {
     "_class": "rulerData", 
     "guides": [], 
     "base": -332
   }, 
+  "isLocked": false, 
+  "exportOptions": {
+    "includedLayerIds": [], 
+    "shouldTrim": false, 
+    "_class": "exportOptions", 
+    "layerOptions": 0, 
+    "exportFormats": []
+  }, 
+  "nameIsFixed": true, 
+  "isVisible": true, 
+  "_class": "page", 
+  "rotation": 0, 
+  "do_objectID": "86AFA275-57F7-42E2-9543-2B0830AD6A19", 
   "resizingType": 0, 
   "shouldBreakMaskChain": false, 
   "includeInCloudUpload": true

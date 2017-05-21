@@ -16,8 +16,8 @@
     "scrollOrigin": "{325, 250}"
   }, 
   "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
-    "zoomValue": 5.477462333613046, 
-    "scrollOrigin": "{-18337, 3796}"
+    "zoomValue": 0.6309167229082162, 
+    "scrollOrigin": "{293, -713}"
   }, 
   "2532DD57-81F0-40D5-B5C5-35BFCF4CE46E": {
     "zoomValue": 0.528973462076872, 
@@ -33,6 +33,6 @@
       "E240F603-412F-436A-9282-14F8A233E121", 
       "0E01AF72-63F2-442A-93C0-B4C6B4149DA4"
     ], 
-    "pageListHeight": 109
+    "pageListHeight": 170
   }
 }

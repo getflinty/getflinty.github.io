@@ -70,6 +70,9 @@
         "81F9BA27-98AD-4630-A5B3-8BA704A0FD76": {
           "name": "Marketer Home"
         }, 
+        "64847F15-9B58-4B66-84E1-789C69B84A7B": {
+          "name": "Influencer Spheres Search Results"
+        }, 
         "0C1A4E16-93AA-4DF0-AA3F-835856192775": {
           "name": "New Campaign"
         }, 
@@ -79,8 +82,8 @@
         "AC5DEAAB-415F-455D-A6C4-6FC68AFDB0A9": {
           "name": "Chat screen"
         }, 
-        "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
-          "name": "Campaign Analytics"
+        "1AF3FB62-EFCA-4479-865A-3B4E2E51710B": {
+          "name": "Influencer Smart Search"
         }, 
         "7F5608F3-8D5E-4B64-94CE-3C14A2778C7B": {
           "name": "Influencer Search Results"
@@ -88,11 +91,14 @@
         "E240F603-412F-436A-9282-14F8A233E121": {
           "name": "New Campaign Detail"
         }, 
+        "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
+          "name": "Campaign Analytics"
+        }, 
         "B2716D3C-4A5F-41D4-9A0B-2298059F9652": {
           "name": "Landing page marketer"
         }, 
         "CA086CBC-6223-46F6-9657-FC9AE69D6232": {
-          "name": "Influencer Search Fields"
+          "name": "Influencer Basic Search"
         }, 
         "2FA430A2-7AAB-4329-874F-8BD5E27856C3": {
           "name": "Campaign Detail"

@@ -29,38 +29,32 @@
         "B3141128-4B81-4BC6-93B2-00867FF3C2BE": {
           "name": "tag chip/active"
         }, 
-        "45178107-A7F7-41FE-8D2F-6D6FD5830E9C": {
-          "name": "Drawer Icon"
-        }, 
         "5E9EACE3-4422-4235-86F5-30E73B1226A7": {
           "name": "Chart"
         }, 
         "B9139CE3-85E1-458D-9321-821CB0D472A6": {
           "name": "Typography"
         }, 
-        "2525B9AA-CDCC-442E-9940-DDB9700A1C05": {
-          "name": "Dual Range Slider"
-        }, 
         "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA": {
           "name": "Logo"
-        }, 
-        "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74": {
-          "name": "Dropdown pill menu"
-        }, 
-        "2A360726-69B1-4E47-B310-755CA224129E": {
-          "name": "tag chip/inactive"
         }, 
         "4B37B6F4-1A22-4124-A727-37F04A2BE02D": {
           "name": "Demographic"
         }, 
+        "D672478A-693C-4B7F-A526-5659C400D02B": {
+          "name": "Post/Youtube"
+        }, 
+        "D658FCFB-F604-4B45-B6AD-1FE5077709CF": {
+          "name": "Metric/Insta/Engagement Bar"
+        }, 
+        "2525B9AA-CDCC-442E-9940-DDB9700A1C05": {
+          "name": "Dual Range Slider"
+        }, 
         "DBED81BA-1552-4092-B1CA-B16B3E0D8B06": {
           "name": "Chip"
         }, 
-        "807A8FA0-A4C9-42E7-BE4C-2E45C074E152": {
-          "name": "Single Range Slider"
-        }, 
-        "2DF50426-6675-47F9-A89E-94D7B8E3B6F7": {
-          "name": "Cancel Icon"
+        "EAB05845-A166-4CF9-A999-54F809973C96": {
+          "name": "Insta/Likes"
         }, 
         "FF3082AE-80F0-49B3-BB0D-CE3935BCE9F7": {
           "name": "Button"
@@ -70,6 +64,36 @@
         }, 
         "F81AD353-B064-41E1-B779-22432512DF05": {
           "name": "List Option/Unselected"
+        }, 
+        "45178107-A7F7-41FE-8D2F-6D6FD5830E9C": {
+          "name": "Drawer Icon"
+        }, 
+        "3D051961-8AB1-4320-88B1-16AE10566DE3": {
+          "name": "Post/Insta"
+        }, 
+        "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74": {
+          "name": "Dropdown pill menu"
+        }, 
+        "807A8FA0-A4C9-42E7-BE4C-2E45C074E152": {
+          "name": "Single Range Slider"
+        }, 
+        "A517C6EB-ECD9-436D-B6D3-1741E4683CB0": {
+          "name": "Demographic/Female venus"
+        }, 
+        "56F9B8C0-76D9-4278-8EE8-EBB269E6312F": {
+          "name": "Demographic/Male Mars"
+        }, 
+        "2A360726-69B1-4E47-B310-755CA224129E": {
+          "name": "tag chip/inactive"
+        }, 
+        "E9E8C09E-EF7B-4C16-9D1B-D756BC7C54CE": {
+          "name": "Post image"
+        }, 
+        "58D6B4E3-C4AA-4F5B-B087-F22D3D697BDA": {
+          "name": "Insta/Comments"
+        }, 
+        "2DF50426-6675-47F9-A89E-94D7B8E3B6F7": {
+          "name": "Cancel Icon"
         }
       }, 
       "name": "Symbols"
@@ -85,7 +109,7 @@
         "0C1A4E16-93AA-4DF0-AA3F-835856192775": {
           "name": "New Campaign"
         }, 
-        "64BE1C20-1C03-4BFD-8C3F-9AA73679E8B3": {
+        "34568CF3-0CC2-44DD-83F8-91EA83B8E15C": {
           "name": "Influencer Profile"
         }, 
         "AC5DEAAB-415F-455D-A6C4-6FC68AFDB0A9": {

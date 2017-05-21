@@ -50,6 +50,9 @@
         "2A360726-69B1-4E47-B310-755CA224129E": {
           "name": "tag chip/inactive"
         }, 
+        "4B37B6F4-1A22-4124-A727-37F04A2BE02D": {
+          "name": "Demographic"
+        }, 
         "DBED81BA-1552-4092-B1CA-B16B3E0D8B06": {
           "name": "Chip"
         }, 
@@ -77,7 +80,7 @@
           "name": "Marketer Home"
         }, 
         "64847F15-9B58-4B66-84E1-789C69B84A7B": {
-          "name": "Influencer Spheres Search Results"
+          "name": "Influencer Spheres Search Results Good"
         }, 
         "0C1A4E16-93AA-4DF0-AA3F-835856192775": {
           "name": "New Campaign"
@@ -108,6 +111,9 @@
         }, 
         "CA086CBC-6223-46F6-9657-FC9AE69D6232": {
           "name": "Influencer Basic Search"
+        }, 
+        "CFB5C84C-C019-4B6A-B164-C02091EDA3D5": {
+          "name": "Influencer Spheres Search Results Bad"
         }, 
         "2FA430A2-7AAB-4329-874F-8BD5E27856C3": {
           "name": "Campaign Detail"

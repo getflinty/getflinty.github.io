@@ -630,6 +630,52 @@
           "startDecorationType": 0
         }, 
         "do_objectID": "B81E8286-A9B1-41BE-ADE7-0F5929A56751"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Timeline current dot", 
+        "value": {
+          "fills": [
+            {
+              "fillType": 0, 
+              "patternTileScale": 1, 
+              "color": {
+                "blue": 0.1058823529411762, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.003921568627450966, 
+                "red": 0.8156862745098039
+              }, 
+              "isEnabled": true, 
+              "noiseIndex": 0, 
+              "patternFillType": 1, 
+              "_class": "fill", 
+              "noiseIntensity": 0
+            }
+          ], 
+          "endDecorationType": 0, 
+          "sharedObjectID": "6787F4BC-1DDB-4DAC-880E-8B3EA8082588", 
+          "miterLimit": 10, 
+          "borders": [
+            {
+              "fillType": 0, 
+              "color": {
+                "blue": 0.592, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.592, 
+                "red": 0.592
+              }, 
+              "isEnabled": false, 
+              "thickness": 1, 
+              "position": 0, 
+              "_class": "border"
+            }
+          ], 
+          "_class": "style", 
+          "startDecorationType": 0
+        }, 
+        "do_objectID": "6787F4BC-1DDB-4DAC-880E-8B3EA8082588"
       }
     ]
   }, 

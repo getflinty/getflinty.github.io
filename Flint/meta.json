@@ -15,7 +15,6 @@
     "Lato-Bold", 
     "Raleway-Bold", 
     "Lato-Regular", 
-    "Lato-Light", 
     "Lato-Italic", 
     "Raleway-Regular"
   ], 
@@ -68,8 +67,8 @@
     }, 
     "C437A2EB-9A24-4D0D-B8D0-0C6624F217EC": {
       "artboards": {
-        "803C797D-45DB-4A39-81D4-A499C904FB7C": {
-          "name": "Campaign Detail"
+        "81F9BA27-98AD-4630-A5B3-8BA704A0FD76": {
+          "name": "Marketer Home"
         }, 
         "0C1A4E16-93AA-4DF0-AA3F-835856192775": {
           "name": "New Campaign"
@@ -89,14 +88,14 @@
         "E240F603-412F-436A-9282-14F8A233E121": {
           "name": "New Campaign Detail"
         }, 
-        "E1BB9EEB-F4C0-4B09-BCF5-DD086AC58B3A": {
-          "name": "Marketer Home"
-        }, 
         "B2716D3C-4A5F-41D4-9A0B-2298059F9652": {
           "name": "Landing page marketer"
         }, 
         "CA086CBC-6223-46F6-9657-FC9AE69D6232": {
           "name": "Influencer Search Fields"
+        }, 
+        "2FA430A2-7AAB-4329-874F-8BD5E27856C3": {
+          "name": "Campaign Detail"
         }
       }, 
       "name": "Marketer Flow"

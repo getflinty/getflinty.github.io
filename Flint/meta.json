@@ -61,6 +61,12 @@
         }, 
         "FF3082AE-80F0-49B3-BB0D-CE3935BCE9F7": {
           "name": "Button"
+        }, 
+        "B44999A4-EABF-417F-8469-CA1BC90DD4C8": {
+          "name": "List Option/Selected"
+        }, 
+        "F81AD353-B064-41E1-B779-22432512DF05": {
+          "name": "List Option/Unselected"
         }
       }, 
       "name": "Symbols"

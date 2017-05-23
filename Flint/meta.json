@@ -74,6 +74,9 @@
         "3D051961-8AB1-4320-88B1-16AE10566DE3": {
           "name": "Post/Insta"
         }, 
+        "CBF7CECD-DE1A-4A24-92B3-28C22BDF5BE1": {
+          "name": "Toolbar"
+        }, 
         "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74": {
           "name": "Menu/Dropdown/Placeholder"
         }, 
@@ -85,6 +88,12 @@
         }, 
         "56F9B8C0-76D9-4278-8EE8-EBB269E6312F": {
           "name": "Demographic/Male Mars"
+        }, 
+        "8D647701-4DB3-4F06-92DF-C434A9010AB0": {
+          "name": "Mailbox/Has no notification"
+        }, 
+        "92E0E266-3DED-49F1-A2FD-51DED3C287BE": {
+          "name": "Mailbox/Has notification"
         }, 
         "2A360726-69B1-4E47-B310-755CA224129E": {
           "name": "tag chip/inactive"

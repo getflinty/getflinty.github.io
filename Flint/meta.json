@@ -50,6 +50,9 @@
         "2525B9AA-CDCC-442E-9940-DDB9700A1C05": {
           "name": "Dual Range Slider"
         }, 
+        "3983C808-E4FD-4073-BF9E-32CBE7B0603A": {
+          "name": "Menu/Dropdown/Filled"
+        }, 
         "DBED81BA-1552-4092-B1CA-B16B3E0D8B06": {
           "name": "Chip"
         }, 
@@ -72,7 +75,7 @@
           "name": "Post/Insta"
         }, 
         "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74": {
-          "name": "Dropdown pill menu"
+          "name": "Menu/Dropdown/Placeholder"
         }, 
         "807A8FA0-A4C9-42E7-BE4C-2E45C074E152": {
           "name": "Single Range Slider"
@@ -109,11 +112,11 @@
         "0C1A4E16-93AA-4DF0-AA3F-835856192775": {
           "name": "New Campaign"
         }, 
-        "34568CF3-0CC2-44DD-83F8-91EA83B8E15C": {
-          "name": "Influencer Profile"
-        }, 
         "AC5DEAAB-415F-455D-A6C4-6FC68AFDB0A9": {
           "name": "Chat screen"
+        }, 
+        "7F8EA717-CFD1-479C-964C-31F62E75C65A": {
+          "name": "Influencer Profile"
         }, 
         "1AF3FB62-EFCA-4479-865A-3B4E2E51710B": {
           "name": "Influencer Smart Search"
@@ -127,9 +130,6 @@
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign Analytics"
         }, 
-        "42612B8A-9494-4567-989E-1BB5B0B55D60": {
-          "name": "Offer"
-        }, 
         "B2716D3C-4A5F-41D4-9A0B-2298059F9652": {
           "name": "Landing page marketer"
         }, 
@@ -141,6 +141,9 @@
         }, 
         "2FA430A2-7AAB-4329-874F-8BD5E27856C3": {
           "name": "Campaign Detail"
+        }, 
+        "4CDECA02-E21B-4C23-986D-53D8C3444ABB": {
+          "name": "Offer page"
         }
       }, 
       "name": "Marketer Flow"

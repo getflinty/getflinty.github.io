@@ -1815,7 +1815,7 @@
               "isFlippedHorizontal": false, 
               "name": "Conversations", 
               "hasClickThrough": false, 
-              "layerListExpandedType": 2, 
+              "layerListExpandedType": 1, 
               "frame": {
                 "constrainProportions": false, 
                 "height": 960, 

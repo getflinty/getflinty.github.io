@@ -26,6 +26,9 @@
   "pagesAndArtboards": {
     "878A61C6-D485-41ED-A3D8-DBE6A1B467B1": {
       "artboards": {
+        "D90B6BC7-72BD-4B0E-AE23-11FA10D9B08A": {
+          "name": "Chat/Conversation Item/Selected"
+        }, 
         "B3141128-4B81-4BC6-93B2-00867FF3C2BE": {
           "name": "tag chip/active"
         }, 
@@ -104,11 +107,17 @@
         "A517C6EB-ECD9-436D-B6D3-1741E4683CB0": {
           "name": "Demographic/Female venus"
         }, 
+        "269BA5AA-B7E1-4303-98B1-75E54D84AAD0": {
+          "name": "Chat/Conversation Item/Unselected/Seen"
+        }, 
         "56F9B8C0-76D9-4278-8EE8-EBB269E6312F": {
           "name": "Demographic/Male Mars"
         }, 
         "B44999A4-EABF-417F-8469-CA1BC90DD4C8": {
           "name": "List Option/Selected"
+        }, 
+        "27FEC7BC-1762-4060-B845-C85F87D055C3": {
+          "name": "Chat/Conversation Item/Unselected/Unseen"
         }, 
         "8D647701-4DB3-4F06-92DF-C434A9010AB0": {
           "name": "Mailbox/Has no notification"
@@ -193,7 +202,11 @@
       "name": "Color palette"
     }, 
     "A11FD983-F355-42F2-967E-4823753B5323": {
-      "artboards": {}, 
+      "artboards": {
+        "1294A90F-13BD-4FD7-916F-B9B013B4D28A": {
+          "name": "Chat screen"
+        }
+      }, 
       "name": "Influencer Flow"
     }
   }, 

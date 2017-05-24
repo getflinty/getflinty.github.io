@@ -50,6 +50,9 @@
         "2525B9AA-CDCC-442E-9940-DDB9700A1C05": {
           "name": "Dual Range Slider"
         }, 
+        "D6D8FEEE-61B9-4843-96EF-4F940546E610": {
+          "name": "Dropdown Option/Selected"
+        }, 
         "3983C808-E4FD-4073-BF9E-32CBE7B0603A": {
           "name": "Menu/Dropdown/Filled"
         }, 
@@ -76,6 +79,9 @@
         }, 
         "CBF7CECD-DE1A-4A24-92B3-28C22BDF5BE1": {
           "name": "Toolbar"
+        }, 
+        "69237AAD-7F4E-46DE-AF02-BA63459776E1": {
+          "name": "Dropdown Option/Unselected"
         }, 
         "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74": {
           "name": "Menu/Dropdown/Placeholder"
@@ -121,11 +127,17 @@
         "0C1A4E16-93AA-4DF0-AA3F-835856192775": {
           "name": "New Campaign"
         }, 
+        "89164AC6-84B4-4AC5-B891-02A34C82A513": {
+          "name": "Campaign Analytics Expand Plot"
+        }, 
         "AC5DEAAB-415F-455D-A6C4-6FC68AFDB0A9": {
           "name": "Chat screen"
         }, 
         "7F8EA717-CFD1-479C-964C-31F62E75C65A": {
           "name": "Influencer Profile"
+        }, 
+        "8CC71938-A00A-488A-87E2-C1E8A95FDF23": {
+          "name": "Campaign Analytics"
         }, 
         "1AF3FB62-EFCA-4479-865A-3B4E2E51710B": {
           "name": "Influencer Smart Search"
@@ -135,9 +147,6 @@
         }, 
         "E240F603-412F-436A-9282-14F8A233E121": {
           "name": "New Campaign Detail"
-        }, 
-        "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
-          "name": "Campaign Analytics"
         }, 
         "B2716D3C-4A5F-41D4-9A0B-2298059F9652": {
           "name": "Landing page marketer"

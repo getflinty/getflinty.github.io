@@ -63,7 +63,7 @@
     "objects": []
   }, 
   "do_objectID": "2BE765FA-FD78-4F25-8CF5-98D29A19A527", 
-  "currentPageIndex": 0, 
+  "currentPageIndex": 2, 
   "layerStyles": {
     "_class": "sharedStyleContainer", 
     "objects": [
@@ -676,6 +676,52 @@
           "startDecorationType": 0
         }, 
         "do_objectID": "6787F4BC-1DDB-4DAC-880E-8B3EA8082588"
+      }, 
+      {
+        "_class": "sharedStyle", 
+        "name": "Chart Bar", 
+        "value": {
+          "fills": [
+            {
+              "fillType": 0, 
+              "patternTileScale": 1, 
+              "color": {
+                "blue": 0.1066960170865059, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.007513228338211775, 
+                "red": 0.816203773021698
+              }, 
+              "isEnabled": true, 
+              "noiseIndex": 0, 
+              "patternFillType": 1, 
+              "_class": "fill", 
+              "noiseIntensity": 0
+            }
+          ], 
+          "endDecorationType": 0, 
+          "sharedObjectID": "7668FAEB-FB7C-4F88-81BE-30EE9DADF131", 
+          "miterLimit": 10, 
+          "borders": [
+            {
+              "fillType": 0, 
+              "color": {
+                "blue": 0.592, 
+                "alpha": 1, 
+                "_class": "color", 
+                "green": 0.592, 
+                "red": 0.592
+              }, 
+              "isEnabled": false, 
+              "thickness": 1, 
+              "position": 1, 
+              "_class": "border"
+            }
+          ], 
+          "_class": "style", 
+          "startDecorationType": 0
+        }, 
+        "do_objectID": "7668FAEB-FB7C-4F88-81BE-30EE9DADF131"
       }
     ]
   }, 

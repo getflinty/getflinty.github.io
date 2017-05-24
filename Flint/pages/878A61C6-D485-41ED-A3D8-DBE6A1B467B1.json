@@ -2389,7 +2389,7 @@
       "frame": {
         "constrainProportions": false, 
         "height": 22, 
-        "width": 390, 
+        "width": 420, 
         "y": -150, 
         "x": 1746, 
         "_class": "rect"
@@ -2520,7 +2520,7 @@
                 "height": 2, 
                 "width": 280, 
                 "y": 10, 
-                "x": 36, 
+                "x": 27, 
                 "_class": "rect"
               }, 
               "clippingMaskMode": 0, 
@@ -2547,34 +2547,35 @@
               "layerListExpandedType": 0, 
               "frame": {
                 "constrainProportions": false, 
-                "height": 22, 
-                "width": 14, 
+                "height": 20, 
+                "width": 11, 
                 "y": 0, 
-                "x": 340, 
+                "x": 322, 
                 "_class": "rect"
               }, 
-              "glyphBounds": "{{0, 0}, {12, 16}}", 
+              "glyphBounds": "{{0, 0}, {10, 16}}", 
               "resizingType": 0, 
               "heightIsClipped": false, 
               "style": {
-                "endDecorationType": 0, 
                 "textStyle": {
                   "_class": "textStyle", 
                   "encodedAttributes": {
                     "NSParagraphStyle": {
-                      "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PEFpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgACAAhABgATSEgwTFFpOUy5vYmplY3RzoIAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohgaWE5TT2JqZWN00hYXHB1fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMcHhpfEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SEiVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBMAFcAZACGAI0AjwCRAJMAlQCaAKUApgCoAK0AuADBAMkAzADVANoA9AD4AQsBHQEgASUAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAAAAABJw=="
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAQjQDQAAAAAAACAAIAC0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AYwBvAIEAjACTAKUArgCwALkAuwC9AMIAzQDWAPAA9AEHARABIgElASoAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABLA=="
                     }, 
                     "NSColor": {
-                      "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTDAuNCAwLjQgMC40ABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIgAigCMAI4AkwCYAJoAnAChAKwAtQDCAMUA0gDbAOAA6ADrAP0BAAEFAAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQc="
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
                     }, 
                     "MSAttributedStringFontAttribute": {
-                      "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
                     }
                   }
                 }, 
+                "endDecorationType": 0, 
+                "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67", 
+                "miterLimit": 10, 
                 "_class": "style", 
-                "startDecorationType": 0, 
-                "miterLimit": 10
+                "startDecorationType": 0
               }, 
               "dontSynchroniseWithSymbol": false, 
               "isLocked": false, 
@@ -2600,7 +2601,7 @@
               "shouldBreakMaskChain": false, 
               "attributedString": {
                 "archivedAttributedString": {
-                  "_archive": "YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNTw/QkZKUlNUVVZaXmBVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANhIh7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4APgBdXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUwwLjQgMC40IDAuNAAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHUNjc4Cjk6JDtaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugACADIAO0hIKPT6ggA3SLC1AQVdOU0FycmF5okAx0iwtQ0RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNDRTFfEBBOU1BhcmFncmFwaFN0eWxl0gpHSElfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AWgBDTERIKS05RokxNgBGAEqJPUIATgBSAFV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyAAAAAAAAXExhdG8tUmVndWxhctIsLVdYXxATTlNNdXRhYmxlRGljdGlvbmFyeaNXWTFcTlNEaWN0aW9uYXJ50iwtW1xfEBBOU0ZvbnREZXNjcmlwdG9yol0xXxAQTlNGb250RGVzY3JpcHRvctIsLVlfolkx0iwtYWJfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiYzFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRZmdUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAhgCNAJUAoACkAKYAqACqAK4AsACyALQAtgC+ANEA8wD8AQIBDwEkATEBMwE1ATcBPAFBAUMBRQFKAVUBXgFrAW4BewGEAYkBkQGUAZ0BqAG1AdcB2QHbAd0B4gHjAeUB6gHyAfUB+gIUAhgCKwIwAk0CTwJRAlgCWwJdAl8CYgJkAmYCaAJ+ApQCnQKqAq8CxQLJAtYC2wLuAvEDBAMJAwwDEQMmAykDPgNQA1MDWAAAAAAAAAIBAAAAAAAAAGgAAAAAAAAAAAAAAAAAAANa"
+                  "_archive": "YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs2Oj5GR0hJSk5SVFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA2EiHtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AJgAuAE1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTICEKIiMkVU5TUkdCXE5TQ29sb3JTcGFjZU8QJzAuMjkwMjIxNjMxNSAwLjI5MDE3NTI4ODkgMC4yOTAyMzc0NTY2ABABgAjSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiKCpYTlNPYmplY3TWLC0uLwowMTIzNDUzXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAAAQBCNANAAAAAAAAIAAgArSJic3OF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozc5Kl8QEE5TUGFyYWdyYXBoU3R5bGXSCjs8PV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgo/QkWiQEGADYAOokNEgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABcTGF0by1SZWd1bGFy0iYnS0xfEBNOU011dGFibGVEaWN0aW9uYXJ5o0tNKlxOU0RpY3Rpb25hcnnSJidPUF8QEE5TRm9udERlc2NyaXB0b3KiUSpfEBBOU0ZvbnREZXNjcmlwdG9y0iYnTVOiTSrSJidVVl8QEk5TQXR0cmlidXRlZFN0cmluZ6JXKl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFaW1Ryb290gAEACAARABoAIwAtADIANwBPAFUAXABlAGwAeQB7AH0AfwCCAIkAkQCcAKAAogCkAKYAqgCsAK4AsACyALoAzQDvAPYA/AEJATMBNQE3ATwBRwFQAVgBWwFkAXEBhgGSAaQBrwHBAcoBzAHVAdcB2QHeAfgB/AIPAhQCMQIzAjUCPAI/AkECQwJGAkgCSgJMAmICeAKBAo4CkwKpAq0CugK/AtIC1QLoAu0C8AL1AwoDDQMiAzQDNwM8AAAAAAAAAgEAAAAAAAAAXAAAAAAAAAAAAAAAAAAAAz4="
                 }, 
                 "_class": "MSAttributedString"
               }
@@ -2737,7 +2738,7 @@
                 "height": 16, 
                 "width": 16, 
                 "y": 3, 
-                "x": 308, 
+                "x": 299, 
                 "_class": "rect"
               }, 
               "clippingMaskMode": 0, 
@@ -2892,7 +2893,7 @@
                 "height": 16, 
                 "width": 16, 
                 "y": 3, 
-                "x": 27, 
+                "x": 18, 
                 "_class": "rect"
               }, 
               "clippingMaskMode": 0, 
@@ -2919,34 +2920,35 @@
               "layerListExpandedType": 0, 
               "frame": {
                 "constrainProportions": false, 
-                "height": 22, 
-                "width": 11, 
+                "height": 20, 
+                "width": 9, 
                 "y": 0, 
                 "x": 0, 
                 "_class": "rect"
               }, 
-              "glyphBounds": "{{0, 0}, {10, 19}}", 
+              "glyphBounds": "{{0, 0}, {8, 18}}", 
               "resizingType": 0, 
               "heightIsClipped": false, 
               "style": {
-                "endDecorationType": 0, 
                 "textStyle": {
                   "_class": "textStyle", 
                   "encodedAttributes": {
                     "NSParagraphStyle": {
-                      "_archive": "YnBsaXN0MDDUAQIDBAUGICFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBIWHFUkbnVsbNUJCgsMDQ4PEA8RWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3OAABABgAKABNITDRQVWk5TLm9iamVjdHOggAPSFxgZGlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGRtYTlNPYmplY3TSFxgdHl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlox0fG18QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRIiNUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAE4AWQBlAHIAlACbAJ0AnwChAKMAqACzALQAtgC7AMYAzwDXANoA4wDoAQIBBgEZASsBLgEzAAAAAAAAAgEAAAAAAAAAJAAAAAAAAAAAAAAAAAAAATU="
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAQjQDQAAAAAAACAAIAC0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AYwBvAIEAjACTAKUArgCwALkAuwC9AMIAzQDWAPAA9AEHARABIgElASoAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABLA=="
                     }, 
                     "NSColor": {
-                      "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTDAuNCAwLjQgMC40ABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIgAigCMAI4AkwCYAJoAnAChAKwAtQDCAMUA0gDbAOAA6ADrAP0BAAEFAAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQc="
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
                     }, 
                     "MSAttributedStringFontAttribute": {
-                      "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
                     }
                   }
                 }, 
+                "endDecorationType": 0, 
+                "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67", 
+                "miterLimit": 10, 
                 "_class": "style", 
-                "startDecorationType": 0, 
-                "miterLimit": 10
+                "startDecorationType": 0
               }, 
               "dontSynchroniseWithSymbol": false, 
               "isLocked": false, 
@@ -2972,7 +2974,7 @@
               "shouldBreakMaskChain": false, 
               "attributedString": {
                 "archivedAttributedString": {
-                  "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT1AQ0dLU1RVVldbX2FVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANRMNMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTDAuNCAwLjQgMC40ABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdU2Nzg5CjokOyQ8Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvboAAgAyADtISCj4/oIAN0iwtQUJXTlNBcnJheaJBMdIsLURFXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjREYxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKSElKXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCkxPUqJNToARgBKiUFGAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAFxMYXRvLVJlZ3VsYXLSLC1YWV8QE05TTXV0YWJsZURpY3Rpb25hcnmjWFoxXE5TRGljdGlvbmFyedIsLVxdXxAQTlNGb250RGVzY3JpcHRvcqJeMV8QEE5TRm9udERlc2NyaXB0b3LSLC1aYKJaMdIsLWJjXxASTlNBdHRyaWJ1dGVkU3RyaW5nomQxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WdoVHJvb3SAAQAIABEAGgAjAC0AMgA3AFMAWQBgAGkAcAB9AH8AgQCDAIUAjACUAJ8AowClAKcAqQCtAK8AsQCzALUAvQDQAPIA+wEBAQ4BIwEwATIBNAE2ATsBQAFCAUQBSQFUAV0BagFtAXoBgwGIAZABkwGeAakBtQHCAeQB5gHoAeoB7wHwAfIB9wH/AgICBwIhAiUCOAI9AloCXAJeAmUCaAJqAmwCbwJxAnMCdQKLAqECqgK3ArwC0gLWAuMC6AL7Av4DEQMWAxkDHgMzAzYDSwNdA2ADZQAAAAAAAAIBAAAAAAAAAGkAAAAAAAAAAAAAAAAAAANn"
+                  "_archive": "YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs2Oj5GR0hJSk5SVFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA1Ew0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmAC4ATV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGACNImJygpWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIoKlhOU09iamVjdNYsLS4vCjAxMjM0NTNfEBJOU1BhcmFncmFwaFNwYWNpbmdbTlNBbGlnbm1lbnRfEA9OU01pbkxpbmVIZWlnaHRaTlNUYWJTdG9wc18QD05TTWF4TGluZUhlaWdodCNAJAAAAAAAABAEI0A0AAAAAAAAgACACtImJzc4XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNzkqXxAQTlNQYXJhZ3JhcGhTdHlsZdIKOzw9XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCj9CRaJAQYANgA6iQ0SAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSJidLTF8QE05TTXV0YWJsZURpY3Rpb25hcnmjS00qXE5TRGljdGlvbmFyedImJ09QXxAQTlNGb250RGVzY3JpcHRvcqJRKl8QEE5TRm9udERlc2NyaXB0b3LSJidNU6JNKtImJ1VWXxASTlNBdHRyaWJ1dGVkU3RyaW5nolcqXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0VpbVHJvb3SAAQAIABEAGgAjAC0AMgA3AE8AVQBcAGUAbAB5AHsAfQB/AIEAiACQAJsAnwChAKMApQCpAKsArQCvALEAuQDMAO4A9QD7AQgBMgE0ATYBOwFGAU8BVwFaAWMBcAGFAZEBowGuAcAByQHLAdQB1gHYAd0B9wH7Ag4CEwIwAjICNAI7Aj4CQAJCAkUCRwJJAksCYQJ3AoACjQKSAqgCrAK5Ar4C0QLUAucC7ALvAvQDCQMMAyEDMwM2AzsAAAAAAAACAQAAAAAAAABcAAAAAAAAAAAAAAAAAAADPQ=="
                 }, 
                 "_class": "MSAttributedString"
               }
@@ -2990,10 +2992,10 @@
           "layerListExpandedType": 2, 
           "frame": {
             "constrainProportions": false, 
-            "height": 22, 
-            "width": 354, 
+            "height": 20, 
+            "width": 333, 
             "y": 0, 
-            "x": 18, 
+            "x": 42, 
             "_class": "rect"
           }, 
           "resizingType": 0, 
@@ -3041,10 +3043,10 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
-      "changeIdentifier": 294, 
+      "changeIdentifier": 400, 
       "rotation": 0, 
       "isFlippedVertical": false, 
-      "name": "Dual Range Slider", 
+      "name": "Slider/Dual Range/Annotated", 
       "nameIsFixed": true, 
       "verticalRulerData": {
         "_class": "rulerData", 
@@ -3068,8 +3070,8 @@
         "constrainProportions": false, 
         "height": 22, 
         "width": 280, 
-        "y": -150, 
-        "x": 2798, 
+        "y": -77, 
+        "x": 1742, 
         "_class": "rect"
       }, 
       "symbolID": "378DB08A-6981-40F8-B7CA-3421134AEAE3", 
@@ -3440,10 +3442,934 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
-      "changeIdentifier": 65, 
+      "changeIdentifier": 386, 
       "rotation": 0, 
       "isFlippedVertical": false, 
-      "name": "Single Range Slider", 
+      "name": "Slider/Single Range/Unannotated", 
+      "nameIsFixed": true, 
+      "verticalRulerData": {
+        "_class": "rulerData", 
+        "guides": [], 
+        "base": 0
+      }, 
+      "exportOptions": {
+        "shouldTrim": false, 
+        "includedLayerIds": [], 
+        "_class": "exportOptions", 
+        "layerOptions": 0, 
+        "exportFormats": []
+      }, 
+      "isVisible": true, 
+      "shouldBreakMaskChain": false, 
+      "includeInCloudUpload": true
+    }, 
+    {
+      "layerListExpandedType": 2, 
+      "frame": {
+        "constrainProportions": false, 
+        "height": 22, 
+        "width": 333, 
+        "y": -11, 
+        "x": 1742, 
+        "_class": "rect"
+      }, 
+      "symbolID": "9B7FED2D-F5F9-426C-BF19-1AB1CCF48827", 
+      "resizesContent": false, 
+      "includeBackgroundColorInInstance": false, 
+      "resizingType": 0, 
+      "layers": [
+        {
+          "layers": [
+            {
+              "layers": [
+                {
+                  "edited": true, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 2, 
+                    "width": 280, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "resizingConstraint": 63, 
+                  "do_objectID": "9C82F4BF-E0C8-45D7-9132-A7B6F82B9ABB", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0.0017857142857142872, 0.75}", 
+                        "curveTo": "{0.0017857142857142872, 0.75}", 
+                        "point": "{0, 0.5}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{0.0053571428571428615, 1.25}", 
+                        "curveTo": "{0.0053571428571428615, 1.25}", 
+                        "point": "{1, 0.5}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "shapePath", 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.847, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.847, 
+                      "red": 0.847
+                    }, 
+                    "isEnabled": false, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "startDecorationType": 0, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.7333333333333333, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.7333333333333333, 
+                      "red": 0.7333333333333333
+                    }, 
+                    "isEnabled": true, 
+                    "thickness": 2, 
+                    "position": 0, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "borderOptions": {
+                  "dashPattern": [], 
+                  "isEnabled": false, 
+                  "_class": "borderOptions", 
+                  "lineJoinStyle": 0, 
+                  "lineCapStyle": 2
+                }
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Line", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 2, 
+                "width": 280, 
+                "y": 7, 
+                "x": 0, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "6BD234E9-07D9-4DA6-ADC0-DD603C33C19E", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": false, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "edited": false, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 16, 
+                    "width": 16, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "resizingConstraint": 63, 
+                  "do_objectID": "37EA8DC6-E1D9-4D79-957A-27A5E5C2CC36", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0.77614237490000004, 1}", 
+                        "curveTo": "{0.22385762510000001, 1}", 
+                        "point": "{0.5, 1}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{1, 0.22385762510000001}", 
+                        "curveTo": "{1, 0.77614237490000004}", 
+                        "point": "{1, 0.5}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{0.22385762510000001, 0}", 
+                        "curveTo": "{0.77614237490000004, 0}", 
+                        "point": "{0.5, 0}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{0, 0.77614237490000004}", 
+                        "curveTo": "{0, 0.22385762510000001}", 
+                        "point": "{0, 0.5}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "oval", 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.4, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.4, 
+                      "red": 0.4
+                    }, 
+                    "isEnabled": true, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.592, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.592, 
+                      "red": 0.592
+                    }, 
+                    "isEnabled": false, 
+                    "thickness": 1, 
+                    "position": 0, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "startDecorationType": 0
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Control", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 1, 
+              "frame": {
+                "constrainProportions": true, 
+                "height": 16, 
+                "width": 16, 
+                "y": 0, 
+                "x": 71, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "FDDBBFD5-CF8F-4E66-82B5-C96941AB376B", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }
+          ], 
+          "style": {
+            "endDecorationType": 0, 
+            "_class": "style", 
+            "startDecorationType": 0, 
+            "miterLimit": 10
+          }, 
+          "isFlippedHorizontal": false, 
+          "name": "Single Range Slider", 
+          "hasClickThrough": false, 
+          "layerListExpandedType": 2, 
+          "frame": {
+            "constrainProportions": false, 
+            "height": 16, 
+            "width": 280, 
+            "y": 3, 
+            "x": 0, 
+            "_class": "rect"
+          }, 
+          "resizingType": 0, 
+          "resizingConstraint": 63, 
+          "do_objectID": "DB79DBAE-6B94-465F-8C38-406E60E52216", 
+          "isLocked": false, 
+          "shouldBreakMaskChain": false, 
+          "exportOptions": {
+            "shouldTrim": false, 
+            "includedLayerIds": [], 
+            "_class": "exportOptions", 
+            "layerOptions": 0, 
+            "exportFormats": []
+          }, 
+          "isVisible": true, 
+          "rotation": 0, 
+          "_class": "group", 
+          "nameIsFixed": true, 
+          "isFlippedVertical": false
+        }, 
+        {
+          "layerListExpandedType": 0, 
+          "frame": {
+            "constrainProportions": false, 
+            "height": 20, 
+            "width": 36, 
+            "y": -1, 
+            "x": 290, 
+            "_class": "rect"
+          }, 
+          "glyphBounds": "{{0, 0}, {27, 18}}", 
+          "resizingType": 0, 
+          "heightIsClipped": false, 
+          "style": {
+            "textStyle": {
+              "_class": "textStyle", 
+              "encodedAttributes": {
+                "NSParagraphStyle": {
+                  "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAQjQDQAAAAAAACAAIAC0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AYwBvAIEAjACTAKUArgCwALkAuwC9AMIAzQDWAPAA9AEHARABIgElASoAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABLA=="
+                }, 
+                "NSColor": {
+                  "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
+                }, 
+                "MSAttributedStringFontAttribute": {
+                  "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                }
+              }
+            }, 
+            "endDecorationType": 0, 
+            "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67", 
+            "miterLimit": 10, 
+            "_class": "style", 
+            "startDecorationType": 0
+          }, 
+          "dontSynchroniseWithSymbol": false, 
+          "isLocked": false, 
+          "do_objectID": "C5BCA6B0-D72B-4CBB-AD0C-470A60DE197F", 
+          "resizingConstraint": 47, 
+          "_class": "text", 
+          "lineSpacingBehaviour": 2, 
+          "isFlippedHorizontal": false, 
+          "rotation": 0, 
+          "textBehaviour": 1, 
+          "isFlippedVertical": false, 
+          "name": "Value", 
+          "nameIsFixed": true, 
+          "automaticallyDrawOnUnderlyingPath": false, 
+          "exportOptions": {
+            "shouldTrim": false, 
+            "includedLayerIds": [], 
+            "_class": "exportOptions", 
+            "layerOptions": 0, 
+            "exportFormats": []
+          }, 
+          "isVisible": true, 
+          "shouldBreakMaskChain": false, 
+          "attributedString": {
+            "archivedAttributedString": {
+              "_archive": "YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs2Oj5GR0hJSk5SVFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA1MzNSXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeACYALgBNXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0yAhCiIjJFVOU1JHQlxOU0NvbG9yU3BhY2VPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAI0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoigqWE5TT2JqZWN01iwtLi8KMDEyMzQ1M18QEk5TUGFyYWdyYXBoU3BhY2luZ1tOU0FsaWdubWVudF8QD05TTWluTGluZUhlaWdodFpOU1RhYlN0b3BzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAQjQDQAAAAAAACAAIAK0iYnNzhfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM3OSpfEBBOU1BhcmFncmFwaFN0eWxl0go7PD1fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKP0JFokBBgA2ADqJDRIAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXExhdG8tUmVndWxhctImJ0tMXxATTlNNdXRhYmxlRGljdGlvbmFyeaNLTSpcTlNEaWN0aW9uYXJ50iYnT1BfEBBOU0ZvbnREZXNjcmlwdG9yolEqXxAQTlNGb250RGVzY3JpcHRvctImJ01Tok0q0iYnVVZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiVypfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRWltUcm9vdIABAAgAEQAaACMALQAyADcATwBVAFwAZQBsAHkAewB9AH8AgwCKAJIAnQChAKMApQCnAKsArQCvALEAswC7AM4A8AD3AP0BCgE0ATYBOAE9AUgBUQFZAVwBZQFyAYcBkwGlAbABwgHLAc0B1gHYAdoB3wH5Af0CEAIVAjICNAI2Aj0CQAJCAkQCRwJJAksCTQJjAnkCggKPApQCqgKuArsCwALTAtYC6QLuAvEC9gMLAw4DIwM1AzgDPQAAAAAAAAIBAAAAAAAAAFwAAAAAAAAAAAAAAAAAAAM/"
+            }, 
+            "_class": "MSAttributedString"
+          }
+        }
+      ], 
+      "style": {
+        "endDecorationType": 0, 
+        "_class": "style", 
+        "startDecorationType": 0, 
+        "miterLimit": 10
+      }, 
+      "isLocked": false, 
+      "do_objectID": "AF6CBE1B-0F60-4FCA-B874-12463CBC4A08", 
+      "includeBackgroundColorInExport": true, 
+      "resizingConstraint": 63, 
+      "hasBackgroundColor": false, 
+      "backgroundColor": {
+        "blue": 1, 
+        "alpha": 1, 
+        "_class": "color", 
+        "green": 1, 
+        "red": 1
+      }, 
+      "_class": "symbolMaster", 
+      "isFlippedHorizontal": false, 
+      "horizontalRulerData": {
+        "_class": "rulerData", 
+        "guides": [], 
+        "base": 0
+      }, 
+      "hasClickThrough": true, 
+      "changeIdentifier": 926, 
+      "rotation": 0, 
+      "isFlippedVertical": false, 
+      "name": "Slider/Single Range/Annotated", 
+      "nameIsFixed": true, 
+      "verticalRulerData": {
+        "_class": "rulerData", 
+        "guides": [], 
+        "base": 0
+      }, 
+      "exportOptions": {
+        "shouldTrim": false, 
+        "includedLayerIds": [], 
+        "_class": "exportOptions", 
+        "layerOptions": 0, 
+        "exportFormats": []
+      }, 
+      "isVisible": true, 
+      "shouldBreakMaskChain": false, 
+      "includeInCloudUpload": true
+    }, 
+    {
+      "layerListExpandedType": 2, 
+      "frame": {
+        "constrainProportions": false, 
+        "height": 22, 
+        "width": 333, 
+        "y": 55, 
+        "x": 1742, 
+        "_class": "rect"
+      }, 
+      "symbolID": "82D9B3D2-EEB3-42E0-A43D-495E889A6C23", 
+      "resizesContent": false, 
+      "includeBackgroundColorInInstance": false, 
+      "resizingType": 0, 
+      "layers": [
+        {
+          "layers": [
+            {
+              "layers": [
+                {
+                  "edited": true, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 2, 
+                    "width": 280, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "resizingConstraint": 63, 
+                  "do_objectID": "67ED9903-475F-4573-BEB9-31E52492D87A", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0.0017857142857142872, 0.75}", 
+                        "curveTo": "{0.0017857142857142872, 0.75}", 
+                        "point": "{0, 0.5}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }, 
+                      {
+                        "curveFrom": "{0.0053571428571428615, 1.25}", 
+                        "curveTo": "{0.0053571428571428615, 1.25}", 
+                        "point": "{1, 0.5}", 
+                        "hasCurveTo": false, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": false, 
+                        "_class": "curvePoint", 
+                        "curveMode": 1
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "shapePath", 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.847, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.847, 
+                      "red": 0.847
+                    }, 
+                    "isEnabled": false, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "startDecorationType": 0, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.7333333333333333, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.7333333333333333, 
+                      "red": 0.7333333333333333
+                    }, 
+                    "isEnabled": true, 
+                    "thickness": 2, 
+                    "position": 0, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "borderOptions": {
+                  "dashPattern": [], 
+                  "isEnabled": false, 
+                  "_class": "borderOptions", 
+                  "lineJoinStyle": 0, 
+                  "lineCapStyle": 2
+                }
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Line", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 2, 
+                "width": 280, 
+                "y": 7, 
+                "x": 0, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "0CA6EB83-01E3-4494-814B-040290D6587E", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": false, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "edited": false, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Path", 
+                  "booleanOperation": -1, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 16, 
+                    "width": 16, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "resizingType": 0, 
+                  "resizingConstraint": 63, 
+                  "do_objectID": "49B787FE-9077-4346-B4AA-2B27543FF642", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "path": {
+                    "isClosed": true, 
+                    "pointRadiusBehaviour": 0, 
+                    "_class": "path", 
+                    "points": [
+                      {
+                        "curveFrom": "{0.77614237490000004, 1}", 
+                        "curveTo": "{0.22385762510000001, 1}", 
+                        "point": "{0.5, 1}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{1, 0.22385762510000001}", 
+                        "curveTo": "{1, 0.77614237490000004}", 
+                        "point": "{1, 0.5}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{0.22385762510000001, 0}", 
+                        "curveTo": "{0.77614237490000004, 0}", 
+                        "point": "{0.5, 0}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }, 
+                      {
+                        "curveFrom": "{0, 0.77614237490000004}", 
+                        "curveTo": "{0, 0.22385762510000001}", 
+                        "point": "{0, 0.5}", 
+                        "hasCurveTo": true, 
+                        "cornerRadius": 0, 
+                        "hasCurveFrom": true, 
+                        "_class": "curvePoint", 
+                        "curveMode": 2
+                      }
+                    ]
+                  }, 
+                  "rotation": 0, 
+                  "_class": "oval", 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "fills": [
+                  {
+                    "fillType": 0, 
+                    "patternTileScale": 1, 
+                    "color": {
+                      "blue": 0.4, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.4, 
+                      "red": 0.4
+                    }, 
+                    "isEnabled": true, 
+                    "noiseIndex": 0, 
+                    "patternFillType": 1, 
+                    "_class": "fill", 
+                    "noiseIntensity": 0
+                  }
+                ], 
+                "endDecorationType": 0, 
+                "miterLimit": 10, 
+                "borders": [
+                  {
+                    "fillType": 0, 
+                    "color": {
+                      "blue": 0.592, 
+                      "alpha": 1, 
+                      "_class": "color", 
+                      "green": 0.592, 
+                      "red": 0.592
+                    }, 
+                    "isEnabled": false, 
+                    "thickness": 1, 
+                    "position": 0, 
+                    "_class": "border"
+                  }
+                ], 
+                "_class": "style", 
+                "startDecorationType": 0
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Control", 
+              "hasClippingMask": false, 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 1, 
+              "frame": {
+                "constrainProportions": true, 
+                "height": 16, 
+                "width": 16, 
+                "y": 0, 
+                "x": 71, 
+                "_class": "rect"
+              }, 
+              "clippingMaskMode": 0, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "3394234E-A00C-40B3-B580-624A2F1985E4", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "windingRule": 1, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "shapeGroup", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }
+          ], 
+          "style": {
+            "endDecorationType": 0, 
+            "_class": "style", 
+            "startDecorationType": 0, 
+            "miterLimit": 10
+          }, 
+          "isFlippedHorizontal": false, 
+          "name": "Single Range Slider", 
+          "hasClickThrough": false, 
+          "layerListExpandedType": 2, 
+          "frame": {
+            "constrainProportions": false, 
+            "height": 16, 
+            "width": 280, 
+            "y": 3, 
+            "x": 0, 
+            "_class": "rect"
+          }, 
+          "resizingType": 0, 
+          "resizingConstraint": 63, 
+          "do_objectID": "16419F99-4E8F-4A2B-B126-8625986FBCAB", 
+          "isLocked": false, 
+          "shouldBreakMaskChain": false, 
+          "exportOptions": {
+            "shouldTrim": false, 
+            "includedLayerIds": [], 
+            "_class": "exportOptions", 
+            "layerOptions": 0, 
+            "exportFormats": []
+          }, 
+          "isVisible": true, 
+          "rotation": 0, 
+          "_class": "group", 
+          "nameIsFixed": true, 
+          "isFlippedVertical": false
+        }, 
+        {
+          "layerListExpandedType": 0, 
+          "frame": {
+            "constrainProportions": false, 
+            "height": 20, 
+            "width": 36, 
+            "y": -1, 
+            "x": 290, 
+            "_class": "rect"
+          }, 
+          "glyphBounds": "{{0, 0}, {27, 18}}", 
+          "resizingType": 0, 
+          "heightIsClipped": false, 
+          "style": {
+            "textStyle": {
+              "_class": "textStyle", 
+              "encodedAttributes": {
+                "NSParagraphStyle": {
+                  "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAQjQDQAAAAAAACAAIAC0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AYwBvAIEAjACTAKUArgCwALkAuwC9AMIAzQDWAPAA9AEHARABIgElASoAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABLA=="
+                }, 
+                "NSColor": {
+                  "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
+                }, 
+                "MSAttributedStringFontAttribute": {
+                  "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                }
+              }
+            }, 
+            "endDecorationType": 0, 
+            "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67", 
+            "miterLimit": 10, 
+            "_class": "style", 
+            "startDecorationType": 0
+          }, 
+          "dontSynchroniseWithSymbol": false, 
+          "isLocked": false, 
+          "do_objectID": "64F0B04E-3FCA-479E-AB0B-7A37C416FEB0", 
+          "resizingConstraint": 47, 
+          "_class": "text", 
+          "lineSpacingBehaviour": 2, 
+          "isFlippedHorizontal": false, 
+          "rotation": 0, 
+          "textBehaviour": 1, 
+          "isFlippedVertical": false, 
+          "name": "Value", 
+          "nameIsFixed": true, 
+          "automaticallyDrawOnUnderlyingPath": false, 
+          "exportOptions": {
+            "shouldTrim": false, 
+            "includedLayerIds": [], 
+            "_class": "exportOptions", 
+            "layerOptions": 0, 
+            "exportFormats": []
+          }, 
+          "isVisible": true, 
+          "shouldBreakMaskChain": false, 
+          "attributedString": {
+            "archivedAttributedString": {
+              "_archive": "YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs2Oj5GR0hJSk5SVFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA1MzNSXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeACYALgBNXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0yAhCiIjJFVOU1JHQlxOU0NvbG9yU3BhY2VPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAI0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoigqWE5TT2JqZWN01iwtLi8KMDEyMzQ1M18QEk5TUGFyYWdyYXBoU3BhY2luZ1tOU0FsaWdubWVudF8QD05TTWluTGluZUhlaWdodFpOU1RhYlN0b3BzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAQjQDQAAAAAAACAAIAK0iYnNzhfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM3OSpfEBBOU1BhcmFncmFwaFN0eWxl0go7PD1fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKP0JFokBBgA2ADqJDRIAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXExhdG8tUmVndWxhctImJ0tMXxATTlNNdXRhYmxlRGljdGlvbmFyeaNLTSpcTlNEaWN0aW9uYXJ50iYnT1BfEBBOU0ZvbnREZXNjcmlwdG9yolEqXxAQTlNGb250RGVzY3JpcHRvctImJ01Tok0q0iYnVVZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiVypfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRWltUcm9vdIABAAgAEQAaACMALQAyADcATwBVAFwAZQBsAHkAewB9AH8AgwCKAJIAnQChAKMApQCnAKsArQCvALEAswC7AM4A8AD3AP0BCgE0ATYBOAE9AUgBUQFZAVwBZQFyAYcBkwGlAbABwgHLAc0B1gHYAdoB3wH5Af0CEAIVAjICNAI2Aj0CQAJCAkQCRwJJAksCTQJjAnkCggKPApQCqgKuArsCwALTAtYC6QLuAvEC9gMLAw4DIwM1AzgDPQAAAAAAAAIBAAAAAAAAAFwAAAAAAAAAAAAAAAAAAAM/"
+            }, 
+            "_class": "MSAttributedString"
+          }
+        }
+      ], 
+      "style": {
+        "endDecorationType": 0, 
+        "_class": "style", 
+        "startDecorationType": 0, 
+        "miterLimit": 10
+      }, 
+      "isLocked": false, 
+      "do_objectID": "E82399FE-3CAE-4EA6-B997-AD1E851D1EB8", 
+      "includeBackgroundColorInExport": true, 
+      "resizingConstraint": 63, 
+      "hasBackgroundColor": false, 
+      "backgroundColor": {
+        "blue": 1, 
+        "alpha": 1, 
+        "_class": "color", 
+        "green": 1, 
+        "red": 1
+      }, 
+      "_class": "symbolMaster", 
+      "isFlippedHorizontal": false, 
+      "horizontalRulerData": {
+        "_class": "rulerData", 
+        "guides": [], 
+        "base": 0
+      }, 
+      "hasClickThrough": true, 
+      "changeIdentifier": 1069, 
+      "rotation": 0, 
+      "isFlippedVertical": false, 
+      "name": "Slider/Single Range/Annotated Copy", 
       "nameIsFixed": true, 
       "verticalRulerData": {
         "_class": "rulerData", 
@@ -18583,6 +19509,1462 @@
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Dropdown Option/Selected", 
+      "nameIsFixed": true, 
+      "verticalRulerData": {
+        "_class": "rulerData", 
+        "guides": [], 
+        "base": 0
+      }, 
+      "exportOptions": {
+        "shouldTrim": false, 
+        "includedLayerIds": [], 
+        "_class": "exportOptions", 
+        "layerOptions": 0, 
+        "exportFormats": []
+      }, 
+      "isVisible": true, 
+      "shouldBreakMaskChain": false, 
+      "includeInCloudUpload": true
+    }, 
+    {
+      "layerListExpandedType": 0, 
+      "frame": {
+        "constrainProportions": false, 
+        "height": 22, 
+        "width": 380, 
+        "y": 132, 
+        "x": 1742, 
+        "_class": "rect"
+      }, 
+      "symbolID": "63C779FD-A7F6-41E1-ACCF-427D220542CA", 
+      "resizesContent": false, 
+      "includeBackgroundColorInInstance": false, 
+      "resizingType": 0, 
+      "layers": [
+        {
+          "layers": [
+            {
+              "layers": [
+                {
+                  "layers": [
+                    {
+                      "edited": true, 
+                      "isFlippedHorizontal": false, 
+                      "name": "Path", 
+                      "booleanOperation": -1, 
+                      "layerListExpandedType": 0, 
+                      "frame": {
+                        "constrainProportions": false, 
+                        "height": 2, 
+                        "width": 239.9999999999999, 
+                        "y": -1, 
+                        "x": 0, 
+                        "_class": "rect"
+                      }, 
+                      "resizingType": 0, 
+                      "resizingConstraint": 63, 
+                      "do_objectID": "32E63E6E-2016-4C35-9030-BA940D0C6A75", 
+                      "isLocked": false, 
+                      "shouldBreakMaskChain": false, 
+                      "exportOptions": {
+                        "shouldTrim": false, 
+                        "includedLayerIds": [], 
+                        "_class": "exportOptions", 
+                        "layerOptions": 0, 
+                        "exportFormats": []
+                      }, 
+                      "isVisible": true, 
+                      "path": {
+                        "isClosed": true, 
+                        "pointRadiusBehaviour": 0, 
+                        "_class": "path", 
+                        "points": [
+                          {
+                            "curveFrom": "{0.0017857142857142872, 0.75}", 
+                            "curveTo": "{0.0017857142857142872, 0.75}", 
+                            "point": "{0, 0.5}", 
+                            "hasCurveTo": false, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": false, 
+                            "_class": "curvePoint", 
+                            "curveMode": 1
+                          }, 
+                          {
+                            "curveFrom": "{0.0053571428571428615, 1.25}", 
+                            "curveTo": "{0.0053571428571428615, 1.25}", 
+                            "point": "{1, 0.5}", 
+                            "hasCurveTo": false, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": false, 
+                            "_class": "curvePoint", 
+                            "curveMode": 1
+                          }
+                        ]
+                      }, 
+                      "rotation": 0, 
+                      "_class": "shapePath", 
+                      "nameIsFixed": false, 
+                      "isFlippedVertical": false
+                    }
+                  ], 
+                  "style": {
+                    "fills": [
+                      {
+                        "fillType": 0, 
+                        "patternTileScale": 1, 
+                        "color": {
+                          "blue": 0.847, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.847, 
+                          "red": 0.847
+                        }, 
+                        "isEnabled": false, 
+                        "noiseIndex": 0, 
+                        "patternFillType": 1, 
+                        "_class": "fill", 
+                        "noiseIntensity": 0
+                      }
+                    ], 
+                    "endDecorationType": 0, 
+                    "miterLimit": 10, 
+                    "startDecorationType": 0, 
+                    "borders": [
+                      {
+                        "fillType": 0, 
+                        "color": {
+                          "blue": 0.7333333333333333, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.7333333333333333, 
+                          "red": 0.7333333333333333
+                        }, 
+                        "isEnabled": true, 
+                        "thickness": 2, 
+                        "position": 0, 
+                        "_class": "border"
+                      }
+                    ], 
+                    "_class": "style", 
+                    "borderOptions": {
+                      "dashPattern": [], 
+                      "isEnabled": false, 
+                      "_class": "borderOptions", 
+                      "lineJoinStyle": 0, 
+                      "lineCapStyle": 2
+                    }
+                  }, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Line", 
+                  "hasClippingMask": false, 
+                  "hasClickThrough": false, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 1, 
+                    "width": 240, 
+                    "y": 8, 
+                    "x": 8, 
+                    "_class": "rect"
+                  }, 
+                  "clippingMaskMode": 0, 
+                  "resizingType": 0, 
+                  "resizingConstraint": 63, 
+                  "do_objectID": "8EFC6CAB-0560-4266-BF23-AEF0DE0C06A3", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "windingRule": 1, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "_class": "shapeGroup", 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }, 
+                {
+                  "layers": [
+                    {
+                      "edited": false, 
+                      "isFlippedHorizontal": false, 
+                      "name": "Path", 
+                      "booleanOperation": -1, 
+                      "layerListExpandedType": 0, 
+                      "frame": {
+                        "constrainProportions": false, 
+                        "height": 16, 
+                        "width": 16.08095238095238, 
+                        "y": 0, 
+                        "x": 0, 
+                        "_class": "rect"
+                      }, 
+                      "resizingType": 0, 
+                      "resizingConstraint": 63, 
+                      "do_objectID": "23F7A72D-C047-4BAB-93FA-AD78AD0E39CD", 
+                      "isLocked": false, 
+                      "shouldBreakMaskChain": false, 
+                      "exportOptions": {
+                        "shouldTrim": false, 
+                        "includedLayerIds": [], 
+                        "_class": "exportOptions", 
+                        "layerOptions": 0, 
+                        "exportFormats": []
+                      }, 
+                      "isVisible": true, 
+                      "path": {
+                        "isClosed": true, 
+                        "pointRadiusBehaviour": 0, 
+                        "_class": "path", 
+                        "points": [
+                          {
+                            "curveFrom": "{0.77614237490000004, 1}", 
+                            "curveTo": "{0.22385762510000001, 1}", 
+                            "point": "{0.5, 1}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{1, 0.22385762510000001}", 
+                            "curveTo": "{1, 0.77614237490000004}", 
+                            "point": "{1, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0.22385762510000001, 0}", 
+                            "curveTo": "{0.77614237490000004, 0}", 
+                            "point": "{0.5, 0}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0, 0.77614237490000004}", 
+                            "curveTo": "{0, 0.22385762510000001}", 
+                            "point": "{0, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }
+                        ]
+                      }, 
+                      "rotation": 0, 
+                      "_class": "oval", 
+                      "nameIsFixed": false, 
+                      "isFlippedVertical": false
+                    }
+                  ], 
+                  "style": {
+                    "fills": [
+                      {
+                        "fillType": 0, 
+                        "patternTileScale": 1, 
+                        "color": {
+                          "blue": 0.4, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.4, 
+                          "red": 0.4
+                        }, 
+                        "isEnabled": true, 
+                        "noiseIndex": 0, 
+                        "patternFillType": 1, 
+                        "_class": "fill", 
+                        "noiseIntensity": 0
+                      }
+                    ], 
+                    "endDecorationType": 0, 
+                    "miterLimit": 10, 
+                    "borders": [
+                      {
+                        "fillType": 0, 
+                        "color": {
+                          "blue": 0.592, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.592, 
+                          "red": 0.592
+                        }, 
+                        "isEnabled": false, 
+                        "thickness": 1, 
+                        "position": 0, 
+                        "_class": "border"
+                      }
+                    ], 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Control", 
+                  "hasClippingMask": false, 
+                  "hasClickThrough": false, 
+                  "layerListExpandedType": 1, 
+                  "frame": {
+                    "constrainProportions": true, 
+                    "height": 16, 
+                    "width": 16.0809523809524, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "clippingMaskMode": 0, 
+                  "resizingType": 0, 
+                  "resizingConstraint": 63, 
+                  "do_objectID": "330182A7-2380-434B-92E5-41249FB1F146", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "windingRule": 1, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "_class": "shapeGroup", 
+                  "nameIsFixed": true, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "endDecorationType": 0, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Slider", 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 2, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 16, 
+                "width": 248, 
+                "y": 2, 
+                "x": 63, 
+                "_class": "rect"
+              }, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "1E0C3622-B6D5-4F64-B58C-8B8DD23C6404", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "group", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": true, 
+                    "height": 15, 
+                    "width": 9.6, 
+                    "y": 2, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "symbolID": "9B31C51E-85A0-41B2-A2B5-CCB9BA29060D", 
+                  "verticalSpacing": 0, 
+                  "resizingType": 0, 
+                  "masterInfluenceEdgeMinXPadding": 0, 
+                  "style": {
+                    "endDecorationType": 0, 
+                    "_class": "style", 
+                    "startDecorationType": 0, 
+                    "miterLimit": 10
+                  }, 
+                  "isLocked": false, 
+                  "do_objectID": "AD6472FE-A386-41BB-8E22-334B114290F1", 
+                  "resizingConstraint": 63, 
+                  "_class": "symbolInstance", 
+                  "isFlippedHorizontal": false, 
+                  "horizontalSpacing": 0, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "masterInfluenceEdgeMaxYPadding": 0, 
+                  "isFlippedVertical": false, 
+                  "name": "Demographic/Female venus", 
+                  "masterInfluenceEdgeMinYPadding": 0, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "masterInfluenceEdgeMaxXPadding": 1, 
+                  "nameIsFixed": false, 
+                  "shouldBreakMaskChain": false
+                }, 
+                {
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 20, 
+                    "width": 41, 
+                    "y": 0, 
+                    "x": 14.59999999999991, 
+                    "_class": "rect"
+                  }, 
+                  "glyphBounds": "{{0, 0}, {35, 18}}", 
+                  "resizingType": 0, 
+                  "heightIsClipped": false, 
+                  "style": {
+                    "textStyle": {
+                      "_class": "textStyle", 
+                      "encodedAttributes": {
+                        "NSParagraphStyle": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGGRpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBJVJG51bGzVCQoLDA0ODxAREF8QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0ViRjbGFzc18QD05TTWF4TGluZUhlaWdodCNAJAAAAAAAAIAAI0A0AAAAAAAAgALSExQVFlokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjFRcYXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEbHFRyb290gAEACAARABoAIwAtADIANwA7AEEATABhAGwAfgCFAJcAoACiAKsArQCyAL0AxgDgAOQA9wEAARIBFQEaAAAAAAAAAgEAAAAAAAAAHQAAAAAAAAAAAAAAAAAAARw="
+                        }, 
+                        "NSColor": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
+                        }, 
+                        "MSAttributedStringFontAttribute": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                        }
+                      }
+                    }, 
+                    "endDecorationType": 0, 
+                    "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67", 
+                    "miterLimit": 10, 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "dontSynchroniseWithSymbol": false, 
+                  "isLocked": false, 
+                  "do_objectID": "6590E9DE-E79A-4CA6-BFF1-4ACB2AF49CD9", 
+                  "resizingConstraint": 47, 
+                  "_class": "text", 
+                  "lineSpacingBehaviour": 2, 
+                  "isFlippedHorizontal": false, 
+                  "rotation": 0, 
+                  "textBehaviour": 1, 
+                  "isFlippedVertical": false, 
+                  "name": "End Value", 
+                  "nameIsFixed": true, 
+                  "automaticallyDrawOnUnderlyingPath": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "shouldBreakMaskChain": false, 
+                  "attributedString": {
+                    "archivedAttributedString": {
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGVldYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs0ODxERUZHSExQUlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA1QxMDAl0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmAC4ATV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGACNImJygpWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIoKlhOU09iamVjdNUsLS4KLzAxMjMyXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAACAACNANAAAAAAAAIAK0iYnNTZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM1NypfEBBOU1BhcmFncmFwaFN0eWxl0go5OjtfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKPUBDoj4/gA2ADqJBQoAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXExhdG8tUmVndWxhctImJ0lKXxATTlNNdXRhYmxlRGljdGlvbmFyeaNJSypcTlNEaWN0aW9uYXJ50iYnTU5fEBBOU0ZvbnREZXNjcmlwdG9yok8qXxAQTlNGb250RGVzY3JpcHRvctImJ0tRoksq0iYnU1RfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiVSpfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRWFlUcm9vdIABAAgAEQAaACMALQAyADcATwBVAFwAZQBsAHkAewB9AH8AhACLAJMAngCiAKQApgCoAKwArgCwALIAtAC8AM8A8QD4AP4BCwE1ATcBOQE+AUkBUgFaAV0BZgFxAYYBkQGjAbUBvgHAAckBywHQAeoB7gIBAgYCIwIlAicCLgIxAjMCNQI4AjoCPAI+AlQCagJzAoAChQKbAp8CrAKxAsQCxwLaAt8C4gLnAvwC/wMUAyYDKQMuAAAAAAAAAgEAAAAAAAAAWgAAAAAAAAAAAAAAAAAAAzA="
+                    }, 
+                    "_class": "MSAttributedString"
+                  }
+                }
+              ], 
+              "style": {
+                "endDecorationType": 0, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "End", 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 20, 
+                "width": 56, 
+                "y": 0, 
+                "x": 320, 
+                "_class": "rect"
+              }, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "B0935B66-C3D1-4186-85A2-6C005A4FF957", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "group", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 20, 
+                    "width": 41, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "glyphBounds": "{{0, 0}, {35, 18}}", 
+                  "resizingType": 0, 
+                  "heightIsClipped": false, 
+                  "style": {
+                    "textStyle": {
+                      "_class": "textStyle", 
+                      "encodedAttributes": {
+                        "NSParagraphStyle": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAEjQDQAAAAAAACAAIAC0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AYwBvAIEAjACTAKUArgCwALkAuwC9AMIAzQDWAPAA9AEHARABIgElASoAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABLA=="
+                        }, 
+                        "NSColor": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
+                        }, 
+                        "MSAttributedStringFontAttribute": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                        }
+                      }
+                    }, 
+                    "endDecorationType": 0, 
+                    "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67", 
+                    "miterLimit": 10, 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "dontSynchroniseWithSymbol": false, 
+                  "isLocked": false, 
+                  "do_objectID": "179DD84D-A1FB-4C9C-8E5F-AA790E0A7D1C", 
+                  "resizingConstraint": 47, 
+                  "_class": "text", 
+                  "lineSpacingBehaviour": 2, 
+                  "isFlippedHorizontal": false, 
+                  "rotation": 0, 
+                  "textBehaviour": 1, 
+                  "isFlippedVertical": false, 
+                  "name": "Start Value", 
+                  "nameIsFixed": true, 
+                  "automaticallyDrawOnUnderlyingPath": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "shouldBreakMaskChain": false, 
+                  "attributedString": {
+                    "archivedAttributedString": {
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs1OT1FRkdISU1RU1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA1QxMDAl0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmAC4ATV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGACNImJygpWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIoKlhOU09iamVjdNYsLS4vCjAxIzIzNDJfEBJOU1BhcmFncmFwaFNwYWNpbmdbTlNBbGlnbm1lbnRfEA9OU01pbkxpbmVIZWlnaHRaTlNUYWJTdG9wc18QD05TTWF4TGluZUhlaWdodCNAJAAAAAAAACNANAAAAAAAAIAAgArSJic2N18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozY4Kl8QEE5TUGFyYWdyYXBoU3R5bGXSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgo+QUSiP0CADYAOokJDgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABcTGF0by1SZWd1bGFy0iYnSktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0pMKlxOU0RpY3Rpb25hcnnSJidOT18QEE5TRm9udERlc2NyaXB0b3KiUCpfEBBOU0ZvbnREZXNjcmlwdG9y0iYnTFKiTCrSJidUVV8QEk5TQXR0cmlidXRlZFN0cmluZ6JWKl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFZWlRyb290gAEACAARABoAIwAtADIANwBPAFUAXABlAGwAeQB7AH0AfwCEAIsAkwCeAKIApACmAKgArACuALAAsgC0ALwAzwDxAPgA/gELATUBNwE5AT4BSQFSAVoBXQFmAXMBiAGUAaYBsQHDAcwB1QHXAdkB3gH4AfwCDwIUAjECMwI1AjwCPwJBAkMCRgJIAkoCTAJiAngCgQKOApMCqQKtAroCvwLSAtUC6ALtAvAC9QMKAw0DIgM0AzcDPAAAAAAAAAIBAAAAAAAAAFsAAAAAAAAAAAAAAAAAAAM+"
+                    }, 
+                    "_class": "MSAttributedString"
+                  }
+                }, 
+                {
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 12, 
+                    "width": 12, 
+                    "y": 4, 
+                    "x": 46, 
+                    "_class": "rect"
+                  }, 
+                  "symbolID": "1199BF14-5166-4D14-8077-5E5A136B022A", 
+                  "verticalSpacing": 0, 
+                  "resizingType": 0, 
+                  "masterInfluenceEdgeMinXPadding": 1, 
+                  "style": {
+                    "endDecorationType": 0, 
+                    "_class": "style", 
+                    "startDecorationType": 0, 
+                    "miterLimit": 10
+                  }, 
+                  "isLocked": false, 
+                  "do_objectID": "D77E3259-4AF7-4EB6-9D4C-D5A627682B84", 
+                  "resizingConstraint": 63, 
+                  "_class": "symbolInstance", 
+                  "isFlippedHorizontal": false, 
+                  "horizontalSpacing": 0, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "masterInfluenceEdgeMaxYPadding": 1, 
+                  "isFlippedVertical": false, 
+                  "name": "Demographic/Male Mars", 
+                  "masterInfluenceEdgeMinYPadding": 0, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "masterInfluenceEdgeMaxXPadding": 0, 
+                  "nameIsFixed": false, 
+                  "shouldBreakMaskChain": false
+                }
+              ], 
+              "style": {
+                "endDecorationType": 0, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Start", 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 20, 
+                "width": 58, 
+                "y": 0, 
+                "x": 0, 
+                "_class": "rect"
+              }, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "A7B911F1-70F4-45D3-A210-9CB6D92D658F", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "group", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }
+          ], 
+          "style": {
+            "endDecorationType": 0, 
+            "_class": "style", 
+            "startDecorationType": 0, 
+            "miterLimit": 10
+          }, 
+          "isFlippedHorizontal": false, 
+          "name": "Proportion Slider", 
+          "hasClickThrough": false, 
+          "layerListExpandedType": 2, 
+          "frame": {
+            "constrainProportions": false, 
+            "height": 20, 
+            "width": 376, 
+            "y": 0, 
+            "x": 2, 
+            "_class": "rect"
+          }, 
+          "resizingType": 0, 
+          "resizingConstraint": 63, 
+          "do_objectID": "BCE2E2D4-D04E-4C79-9132-68E4A4C4F60B", 
+          "isLocked": false, 
+          "shouldBreakMaskChain": false, 
+          "exportOptions": {
+            "shouldTrim": false, 
+            "includedLayerIds": [], 
+            "_class": "exportOptions", 
+            "layerOptions": 0, 
+            "exportFormats": []
+          }, 
+          "isVisible": true, 
+          "rotation": 0, 
+          "_class": "group", 
+          "nameIsFixed": true, 
+          "isFlippedVertical": false
+        }
+      ], 
+      "style": {
+        "endDecorationType": 0, 
+        "_class": "style", 
+        "startDecorationType": 0, 
+        "miterLimit": 10
+      }, 
+      "isLocked": false, 
+      "do_objectID": "BDD1ED87-2D53-4F6A-A699-BD944AE456C9", 
+      "includeBackgroundColorInExport": true, 
+      "resizingConstraint": 63, 
+      "hasBackgroundColor": false, 
+      "backgroundColor": {
+        "blue": 1, 
+        "alpha": 1, 
+        "_class": "color", 
+        "green": 1, 
+        "red": 1
+      }, 
+      "_class": "symbolMaster", 
+      "isFlippedHorizontal": false, 
+      "horizontalRulerData": {
+        "_class": "rulerData", 
+        "guides": [], 
+        "base": 0
+      }, 
+      "hasClickThrough": true, 
+      "changeIdentifier": 2158, 
+      "rotation": 0, 
+      "isFlippedVertical": false, 
+      "name": "Slider/Dual Range/Annotated w icons/0%", 
+      "nameIsFixed": true, 
+      "verticalRulerData": {
+        "_class": "rulerData", 
+        "guides": [], 
+        "base": 0
+      }, 
+      "exportOptions": {
+        "shouldTrim": false, 
+        "includedLayerIds": [], 
+        "_class": "exportOptions", 
+        "layerOptions": 0, 
+        "exportFormats": []
+      }, 
+      "isVisible": true, 
+      "shouldBreakMaskChain": false, 
+      "includeInCloudUpload": true
+    }, 
+    {
+      "layerListExpandedType": 0, 
+      "frame": {
+        "constrainProportions": false, 
+        "height": 22, 
+        "width": 380, 
+        "y": 189, 
+        "x": 1742, 
+        "_class": "rect"
+      }, 
+      "symbolID": "8BDEB6D9-F23E-407C-949B-36B769BE9F6E", 
+      "resizesContent": false, 
+      "includeBackgroundColorInInstance": false, 
+      "resizingType": 0, 
+      "layers": [
+        {
+          "layers": [
+            {
+              "layers": [
+                {
+                  "layers": [
+                    {
+                      "edited": true, 
+                      "isFlippedHorizontal": false, 
+                      "name": "Path", 
+                      "booleanOperation": -1, 
+                      "layerListExpandedType": 0, 
+                      "frame": {
+                        "constrainProportions": false, 
+                        "height": 2, 
+                        "width": 239.9999999999999, 
+                        "y": -1, 
+                        "x": 0, 
+                        "_class": "rect"
+                      }, 
+                      "resizingType": 0, 
+                      "resizingConstraint": 63, 
+                      "do_objectID": "D6477BF9-C7CC-4054-97E6-76B2353ADC2D", 
+                      "isLocked": false, 
+                      "shouldBreakMaskChain": false, 
+                      "exportOptions": {
+                        "shouldTrim": false, 
+                        "includedLayerIds": [], 
+                        "_class": "exportOptions", 
+                        "layerOptions": 0, 
+                        "exportFormats": []
+                      }, 
+                      "isVisible": true, 
+                      "path": {
+                        "isClosed": true, 
+                        "pointRadiusBehaviour": 0, 
+                        "_class": "path", 
+                        "points": [
+                          {
+                            "curveFrom": "{0.0017857142857142872, 0.75}", 
+                            "curveTo": "{0.0017857142857142872, 0.75}", 
+                            "point": "{0, 0.5}", 
+                            "hasCurveTo": false, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": false, 
+                            "_class": "curvePoint", 
+                            "curveMode": 1
+                          }, 
+                          {
+                            "curveFrom": "{0.0053571428571428615, 1.25}", 
+                            "curveTo": "{0.0053571428571428615, 1.25}", 
+                            "point": "{1, 0.5}", 
+                            "hasCurveTo": false, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": false, 
+                            "_class": "curvePoint", 
+                            "curveMode": 1
+                          }
+                        ]
+                      }, 
+                      "rotation": 0, 
+                      "_class": "shapePath", 
+                      "nameIsFixed": false, 
+                      "isFlippedVertical": false
+                    }
+                  ], 
+                  "style": {
+                    "fills": [
+                      {
+                        "fillType": 0, 
+                        "patternTileScale": 1, 
+                        "color": {
+                          "blue": 0.847, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.847, 
+                          "red": 0.847
+                        }, 
+                        "isEnabled": false, 
+                        "noiseIndex": 0, 
+                        "patternFillType": 1, 
+                        "_class": "fill", 
+                        "noiseIntensity": 0
+                      }
+                    ], 
+                    "endDecorationType": 0, 
+                    "miterLimit": 10, 
+                    "startDecorationType": 0, 
+                    "borders": [
+                      {
+                        "fillType": 0, 
+                        "color": {
+                          "blue": 0.7333333333333333, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.7333333333333333, 
+                          "red": 0.7333333333333333
+                        }, 
+                        "isEnabled": true, 
+                        "thickness": 2, 
+                        "position": 0, 
+                        "_class": "border"
+                      }
+                    ], 
+                    "_class": "style", 
+                    "borderOptions": {
+                      "dashPattern": [], 
+                      "isEnabled": false, 
+                      "_class": "borderOptions", 
+                      "lineJoinStyle": 0, 
+                      "lineCapStyle": 2
+                    }
+                  }, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Line", 
+                  "hasClippingMask": false, 
+                  "hasClickThrough": false, 
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 1, 
+                    "width": 240, 
+                    "y": 8, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "clippingMaskMode": 0, 
+                  "resizingType": 0, 
+                  "resizingConstraint": 63, 
+                  "do_objectID": "57AEEB8C-21A6-49F9-A1D2-C707F863854F", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "windingRule": 1, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "_class": "shapeGroup", 
+                  "nameIsFixed": false, 
+                  "isFlippedVertical": false
+                }, 
+                {
+                  "layers": [
+                    {
+                      "edited": false, 
+                      "isFlippedHorizontal": false, 
+                      "name": "Path", 
+                      "booleanOperation": -1, 
+                      "layerListExpandedType": 0, 
+                      "frame": {
+                        "constrainProportions": false, 
+                        "height": 16, 
+                        "width": 16.08095238095238, 
+                        "y": 0, 
+                        "x": 0, 
+                        "_class": "rect"
+                      }, 
+                      "resizingType": 0, 
+                      "resizingConstraint": 63, 
+                      "do_objectID": "A7BA2A17-7DA7-4D14-B2D4-E92F04AC6A03", 
+                      "isLocked": false, 
+                      "shouldBreakMaskChain": false, 
+                      "exportOptions": {
+                        "shouldTrim": false, 
+                        "includedLayerIds": [], 
+                        "_class": "exportOptions", 
+                        "layerOptions": 0, 
+                        "exportFormats": []
+                      }, 
+                      "isVisible": true, 
+                      "path": {
+                        "isClosed": true, 
+                        "pointRadiusBehaviour": 0, 
+                        "_class": "path", 
+                        "points": [
+                          {
+                            "curveFrom": "{0.77614237490000004, 1}", 
+                            "curveTo": "{0.22385762510000001, 1}", 
+                            "point": "{0.5, 1}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{1, 0.22385762510000001}", 
+                            "curveTo": "{1, 0.77614237490000004}", 
+                            "point": "{1, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0.22385762510000001, 0}", 
+                            "curveTo": "{0.77614237490000004, 0}", 
+                            "point": "{0.5, 0}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }, 
+                          {
+                            "curveFrom": "{0, 0.77614237490000004}", 
+                            "curveTo": "{0, 0.22385762510000001}", 
+                            "point": "{0, 0.5}", 
+                            "hasCurveTo": true, 
+                            "cornerRadius": 0, 
+                            "hasCurveFrom": true, 
+                            "_class": "curvePoint", 
+                            "curveMode": 2
+                          }
+                        ]
+                      }, 
+                      "rotation": 0, 
+                      "_class": "oval", 
+                      "nameIsFixed": false, 
+                      "isFlippedVertical": false
+                    }
+                  ], 
+                  "style": {
+                    "fills": [
+                      {
+                        "fillType": 0, 
+                        "patternTileScale": 1, 
+                        "color": {
+                          "blue": 0.4, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.4, 
+                          "red": 0.4
+                        }, 
+                        "isEnabled": true, 
+                        "noiseIndex": 0, 
+                        "patternFillType": 1, 
+                        "_class": "fill", 
+                        "noiseIntensity": 0
+                      }
+                    ], 
+                    "endDecorationType": 0, 
+                    "miterLimit": 10, 
+                    "borders": [
+                      {
+                        "fillType": 0, 
+                        "color": {
+                          "blue": 0.592, 
+                          "alpha": 1, 
+                          "_class": "color", 
+                          "green": 0.592, 
+                          "red": 0.592
+                        }, 
+                        "isEnabled": false, 
+                        "thickness": 1, 
+                        "position": 0, 
+                        "_class": "border"
+                      }
+                    ], 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "isFlippedHorizontal": false, 
+                  "name": "Control", 
+                  "hasClippingMask": false, 
+                  "hasClickThrough": false, 
+                  "layerListExpandedType": 1, 
+                  "frame": {
+                    "constrainProportions": true, 
+                    "height": 16, 
+                    "width": 16.0809523809524, 
+                    "y": 0, 
+                    "x": 64, 
+                    "_class": "rect"
+                  }, 
+                  "clippingMaskMode": 0, 
+                  "resizingType": 0, 
+                  "resizingConstraint": 63, 
+                  "do_objectID": "139E29AA-F8F6-4B0A-AEEB-34995A62C6B1", 
+                  "isLocked": false, 
+                  "shouldBreakMaskChain": false, 
+                  "windingRule": 1, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "_class": "shapeGroup", 
+                  "nameIsFixed": true, 
+                  "isFlippedVertical": false
+                }
+              ], 
+              "style": {
+                "endDecorationType": 0, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Slider", 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 2, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 16, 
+                "width": 240, 
+                "y": 2, 
+                "x": 71, 
+                "_class": "rect"
+              }, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "9B87B4D1-B672-4C45-9676-76B857DF2991", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "group", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": true, 
+                    "height": 15, 
+                    "width": 9.6, 
+                    "y": 2, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "symbolID": "9B31C51E-85A0-41B2-A2B5-CCB9BA29060D", 
+                  "verticalSpacing": 0, 
+                  "resizingType": 0, 
+                  "masterInfluenceEdgeMinXPadding": 0, 
+                  "style": {
+                    "endDecorationType": 0, 
+                    "_class": "style", 
+                    "startDecorationType": 0, 
+                    "miterLimit": 10
+                  }, 
+                  "isLocked": false, 
+                  "do_objectID": "12A56222-7992-4EDB-8192-481F2F27F9D9", 
+                  "resizingConstraint": 63, 
+                  "_class": "symbolInstance", 
+                  "isFlippedHorizontal": false, 
+                  "horizontalSpacing": 0, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "masterInfluenceEdgeMaxYPadding": 0, 
+                  "isFlippedVertical": false, 
+                  "name": "Demographic/Female venus", 
+                  "masterInfluenceEdgeMinYPadding": 0, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "masterInfluenceEdgeMaxXPadding": 1, 
+                  "nameIsFixed": false, 
+                  "shouldBreakMaskChain": false
+                }, 
+                {
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 20, 
+                    "width": 41, 
+                    "y": 0, 
+                    "x": 14.59999999999991, 
+                    "_class": "rect"
+                  }, 
+                  "glyphBounds": "{{0, 0}, {35, 18}}", 
+                  "resizingType": 0, 
+                  "heightIsClipped": false, 
+                  "style": {
+                    "textStyle": {
+                      "_class": "textStyle", 
+                      "encodedAttributes": {
+                        "NSParagraphStyle": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGGRpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBJVJG51bGzVCQoLDA0ODxAREF8QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0ViRjbGFzc18QD05TTWF4TGluZUhlaWdodCNAJAAAAAAAAIAAI0A0AAAAAAAAgALSExQVFlokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjFRcYXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEbHFRyb290gAEACAARABoAIwAtADIANwA7AEEATABhAGwAfgCFAJcAoACiAKsArQCyAL0AxgDgAOQA9wEAARIBFQEaAAAAAAAAAgEAAAAAAAAAHQAAAAAAAAAAAAAAAAAAARw="
+                        }, 
+                        "NSColor": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
+                        }, 
+                        "MSAttributedStringFontAttribute": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                        }
+                      }
+                    }, 
+                    "endDecorationType": 0, 
+                    "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67", 
+                    "miterLimit": 10, 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "dontSynchroniseWithSymbol": false, 
+                  "isLocked": false, 
+                  "do_objectID": "BD3B2D27-B96B-4CE2-AB61-0285268F055B", 
+                  "resizingConstraint": 47, 
+                  "_class": "text", 
+                  "lineSpacingBehaviour": 2, 
+                  "isFlippedHorizontal": false, 
+                  "rotation": 0, 
+                  "textBehaviour": 1, 
+                  "isFlippedVertical": false, 
+                  "name": "End Value", 
+                  "nameIsFixed": true, 
+                  "automaticallyDrawOnUnderlyingPath": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "shouldBreakMaskChain": false, 
+                  "attributedString": {
+                    "archivedAttributedString": {
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGVldYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs0ODxERUZHSExQUlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA1QxMDAl0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmAC4ATV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGACNImJygpWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIoKlhOU09iamVjdNUsLS4KLzAxMjMyXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAACAACNANAAAAAAAAIAK0iYnNTZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM1NypfEBBOU1BhcmFncmFwaFN0eWxl0go5OjtfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKPUBDoj4/gA2ADqJBQoAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXExhdG8tUmVndWxhctImJ0lKXxATTlNNdXRhYmxlRGljdGlvbmFyeaNJSypcTlNEaWN0aW9uYXJ50iYnTU5fEBBOU0ZvbnREZXNjcmlwdG9yok8qXxAQTlNGb250RGVzY3JpcHRvctImJ0tRoksq0iYnU1RfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiVSpfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRWFlUcm9vdIABAAgAEQAaACMALQAyADcATwBVAFwAZQBsAHkAewB9AH8AhACLAJMAngCiAKQApgCoAKwArgCwALIAtAC8AM8A8QD4AP4BCwE1ATcBOQE+AUkBUgFaAV0BZgFxAYYBkQGjAbUBvgHAAckBywHQAeoB7gIBAgYCIwIlAicCLgIxAjMCNQI4AjoCPAI+AlQCagJzAoAChQKbAp8CrAKxAsQCxwLaAt8C4gLnAvwC/wMUAyYDKQMuAAAAAAAAAgEAAAAAAAAAWgAAAAAAAAAAAAAAAAAAAzA="
+                    }, 
+                    "_class": "MSAttributedString"
+                  }
+                }
+              ], 
+              "style": {
+                "endDecorationType": 0, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "End", 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 20, 
+                "width": 56, 
+                "y": 0, 
+                "x": 320, 
+                "_class": "rect"
+              }, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "8CD85C9C-6959-4F67-A85F-DB9BB8EF2B63", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "group", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }, 
+            {
+              "layers": [
+                {
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 20, 
+                    "width": 41, 
+                    "y": 0, 
+                    "x": 0, 
+                    "_class": "rect"
+                  }, 
+                  "glyphBounds": "{{0, 0}, {35, 18}}", 
+                  "resizingType": 0, 
+                  "heightIsClipped": false, 
+                  "style": {
+                    "textStyle": {
+                      "_class": "textStyle", 
+                      "encodedAttributes": {
+                        "NSParagraphStyle": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEAEjQDQAAAAAAACAAIAC0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AYwBvAIEAjACTAKUArgCwALkAuwC9AMIAzQDWAPAA9AEHARABIgElASoAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABLA=="
+                        }, 
+                        "NSColor": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
+                        }, 
+                        "MSAttributedStringFontAttribute": {
+                          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+                        }
+                      }
+                    }, 
+                    "endDecorationType": 0, 
+                    "sharedObjectID": "DE7F560C-07DF-4A7C-A810-A51472C0BB67", 
+                    "miterLimit": 10, 
+                    "_class": "style", 
+                    "startDecorationType": 0
+                  }, 
+                  "dontSynchroniseWithSymbol": false, 
+                  "isLocked": false, 
+                  "do_objectID": "39686A27-8617-4D56-AF68-915864B5653E", 
+                  "resizingConstraint": 47, 
+                  "_class": "text", 
+                  "lineSpacingBehaviour": 2, 
+                  "isFlippedHorizontal": false, 
+                  "rotation": 0, 
+                  "textBehaviour": 1, 
+                  "isFlippedVertical": false, 
+                  "name": "Start Value", 
+                  "nameIsFixed": true, 
+                  "automaticallyDrawOnUnderlyingPath": false, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "isVisible": true, 
+                  "shouldBreakMaskChain": false, 
+                  "attributedString": {
+                    "archivedAttributedString": {
+                      "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs1OT1FRkdISU1RU1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA1QxMDAl0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmAC4ATV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGACNImJygpWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIoKlhOU09iamVjdNYsLS4vCjAxIzIzNDJfEBJOU1BhcmFncmFwaFNwYWNpbmdbTlNBbGlnbm1lbnRfEA9OU01pbkxpbmVIZWlnaHRaTlNUYWJTdG9wc18QD05TTWF4TGluZUhlaWdodCNAJAAAAAAAACNANAAAAAAAAIAAgArSJic2N18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozY4Kl8QEE5TUGFyYWdyYXBoU3R5bGXSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgo+QUSiP0CADYAOokJDgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABcTGF0by1SZWd1bGFy0iYnSktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0pMKlxOU0RpY3Rpb25hcnnSJidOT18QEE5TRm9udERlc2NyaXB0b3KiUCpfEBBOU0ZvbnREZXNjcmlwdG9y0iYnTFKiTCrSJidUVV8QEk5TQXR0cmlidXRlZFN0cmluZ6JWKl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFZWlRyb290gAEACAARABoAIwAtADIANwBPAFUAXABlAGwAeQB7AH0AfwCEAIsAkwCeAKIApACmAKgArACuALAAsgC0ALwAzwDxAPgA/gELATUBNwE5AT4BSQFSAVoBXQFmAXMBiAGUAaYBsQHDAcwB1QHXAdkB3gH4AfwCDwIUAjECMwI1AjwCPwJBAkMCRgJIAkoCTAJiAngCgQKOApMCqQKtAroCvwLSAtUC6ALtAvAC9QMKAw0DIgM0AzcDPAAAAAAAAAIBAAAAAAAAAFsAAAAAAAAAAAAAAAAAAAM+"
+                    }, 
+                    "_class": "MSAttributedString"
+                  }
+                }, 
+                {
+                  "layerListExpandedType": 0, 
+                  "frame": {
+                    "constrainProportions": false, 
+                    "height": 12, 
+                    "width": 12, 
+                    "y": 4, 
+                    "x": 46, 
+                    "_class": "rect"
+                  }, 
+                  "symbolID": "1199BF14-5166-4D14-8077-5E5A136B022A", 
+                  "verticalSpacing": 0, 
+                  "resizingType": 0, 
+                  "masterInfluenceEdgeMinXPadding": 1, 
+                  "style": {
+                    "endDecorationType": 0, 
+                    "_class": "style", 
+                    "startDecorationType": 0, 
+                    "miterLimit": 10
+                  }, 
+                  "isLocked": false, 
+                  "do_objectID": "B43AF947-E1B2-4ADE-B20A-C45AB5AE7564", 
+                  "resizingConstraint": 63, 
+                  "_class": "symbolInstance", 
+                  "isFlippedHorizontal": false, 
+                  "horizontalSpacing": 0, 
+                  "isVisible": true, 
+                  "rotation": 0, 
+                  "masterInfluenceEdgeMaxYPadding": 1, 
+                  "isFlippedVertical": false, 
+                  "name": "Demographic/Male Mars", 
+                  "masterInfluenceEdgeMinYPadding": 0, 
+                  "exportOptions": {
+                    "shouldTrim": false, 
+                    "includedLayerIds": [], 
+                    "_class": "exportOptions", 
+                    "layerOptions": 0, 
+                    "exportFormats": []
+                  }, 
+                  "masterInfluenceEdgeMaxXPadding": 0, 
+                  "nameIsFixed": false, 
+                  "shouldBreakMaskChain": false
+                }
+              ], 
+              "style": {
+                "endDecorationType": 0, 
+                "_class": "style", 
+                "startDecorationType": 0, 
+                "miterLimit": 10
+              }, 
+              "isFlippedHorizontal": false, 
+              "name": "Start", 
+              "hasClickThrough": false, 
+              "layerListExpandedType": 0, 
+              "frame": {
+                "constrainProportions": false, 
+                "height": 20, 
+                "width": 58, 
+                "y": 0, 
+                "x": 0, 
+                "_class": "rect"
+              }, 
+              "resizingType": 0, 
+              "resizingConstraint": 63, 
+              "do_objectID": "0E683E59-DBB3-4DF0-B82D-763BCC2FCFC5", 
+              "isLocked": false, 
+              "shouldBreakMaskChain": false, 
+              "exportOptions": {
+                "shouldTrim": false, 
+                "includedLayerIds": [], 
+                "_class": "exportOptions", 
+                "layerOptions": 0, 
+                "exportFormats": []
+              }, 
+              "isVisible": true, 
+              "rotation": 0, 
+              "_class": "group", 
+              "nameIsFixed": true, 
+              "isFlippedVertical": false
+            }
+          ], 
+          "style": {
+            "endDecorationType": 0, 
+            "_class": "style", 
+            "startDecorationType": 0, 
+            "miterLimit": 10
+          }, 
+          "isFlippedHorizontal": false, 
+          "name": "Proportion Slider", 
+          "hasClickThrough": false, 
+          "layerListExpandedType": 2, 
+          "frame": {
+            "constrainProportions": false, 
+            "height": 20, 
+            "width": 376, 
+            "y": 0, 
+            "x": 2, 
+            "_class": "rect"
+          }, 
+          "resizingType": 0, 
+          "resizingConstraint": 63, 
+          "do_objectID": "42AD546A-B569-491F-AD40-CA6CB41D7991", 
+          "isLocked": false, 
+          "shouldBreakMaskChain": false, 
+          "exportOptions": {
+            "shouldTrim": false, 
+            "includedLayerIds": [], 
+            "_class": "exportOptions", 
+            "layerOptions": 0, 
+            "exportFormats": []
+          }, 
+          "isVisible": true, 
+          "rotation": 0, 
+          "_class": "group", 
+          "nameIsFixed": true, 
+          "isFlippedVertical": false
+        }
+      ], 
+      "style": {
+        "endDecorationType": 0, 
+        "_class": "style", 
+        "startDecorationType": 0, 
+        "miterLimit": 10
+      }, 
+      "isLocked": false, 
+      "do_objectID": "E776D137-90E4-4235-9EBE-E14688D84951", 
+      "includeBackgroundColorInExport": true, 
+      "resizingConstraint": 63, 
+      "hasBackgroundColor": false, 
+      "backgroundColor": {
+        "blue": 1, 
+        "alpha": 1, 
+        "_class": "color", 
+        "green": 1, 
+        "red": 1
+      }, 
+      "_class": "symbolMaster", 
+      "isFlippedHorizontal": false, 
+      "horizontalRulerData": {
+        "_class": "rulerData", 
+        "guides": [], 
+        "base": 0
+      }, 
+      "hasClickThrough": true, 
+      "changeIdentifier": 2239, 
+      "rotation": 0, 
+      "isFlippedVertical": false, 
+      "name": "Slider/Dual Range/Annotated w icons/30%", 
       "nameIsFixed": true, 
       "verticalRulerData": {
         "_class": "rulerData", 

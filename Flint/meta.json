@@ -14,6 +14,7 @@
   "fonts": [
     "Lato-Bold", 
     "Raleway-Bold", 
+    "Lato-Black", 
     "Lato-Regular", 
     "Lato-Italic", 
     "Raleway-Regular"
@@ -56,6 +57,9 @@
         "D658FCFB-F604-4B45-B6AD-1FE5077709CF": {
           "name": "Metric/Insta/Engagement Bar"
         }, 
+        "06F98522-54BA-42D9-B085-3842E36BC3E0": {
+          "name": "Button/Small"
+        }, 
         "E776D137-90E4-4235-9EBE-E14688D84951": {
           "name": "Slider/Dual Range/Annotated w icons/30%"
         }, 
@@ -75,7 +79,7 @@
           "name": "Insta/Likes"
         }, 
         "FF3082AE-80F0-49B3-BB0D-CE3935BCE9F7": {
-          "name": "Button"
+          "name": "Button/Large"
         }, 
         "69237AAD-7F4E-46DE-AF02-BA63459776E1": {
           "name": "Dropdown Option/Unselected"
@@ -115,6 +119,9 @@
         }, 
         "B44999A4-EABF-417F-8469-CA1BC90DD4C8": {
           "name": "List Option/Selected"
+        }, 
+        "E2E8A32B-3EAD-4A9F-B01F-67F1216AE533": {
+          "name": "Offer Card"
         }, 
         "27FEC7BC-1762-4060-B845-C85F87D055C3": {
           "name": "Chat/Conversation Item/Unselected/Unseen"

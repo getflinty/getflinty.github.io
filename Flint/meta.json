@@ -39,8 +39,8 @@
         "5E9EACE3-4422-4235-86F5-30E73B1226A7": {
           "name": "Chart"
         }, 
-        "B9139CE3-85E1-458D-9321-821CB0D472A6": {
-          "name": "Typography"
+        "C721290B-D1FE-4070-BD52-DFD3619253EB": {
+          "name": "Profile Picture/Ring"
         }, 
         "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA": {
           "name": "Logo"
@@ -57,6 +57,9 @@
         "D658FCFB-F604-4B45-B6AD-1FE5077709CF": {
           "name": "Metric/Insta/Engagement Bar"
         }, 
+        "DBED81BA-1552-4092-B1CA-B16B3E0D8B06": {
+          "name": "Chip"
+        }, 
         "06F98522-54BA-42D9-B085-3842E36BC3E0": {
           "name": "Button/Small"
         }, 
@@ -72,8 +75,8 @@
         "3983C808-E4FD-4073-BF9E-32CBE7B0603A": {
           "name": "Menu/Dropdown/Filled"
         }, 
-        "DBED81BA-1552-4092-B1CA-B16B3E0D8B06": {
-          "name": "Chip"
+        "B9139CE3-85E1-458D-9321-821CB0D472A6": {
+          "name": "Typography"
         }, 
         "EAB05845-A166-4CF9-A999-54F809973C96": {
           "name": "Insta/Likes"
@@ -125,6 +128,9 @@
         }, 
         "27FEC7BC-1762-4060-B845-C85F87D055C3": {
           "name": "Chat/Conversation Item/Unselected/Unseen"
+        }, 
+        "7A20E82B-CDCE-453B-9596-9A2A8F04FF90": {
+          "name": "Profile Picture/Plain"
         }, 
         "8D647701-4DB3-4F06-92DF-C434A9010AB0": {
           "name": "Mailbox/Has no notification"

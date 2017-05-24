@@ -1748,7 +1748,7 @@
                     "x": 0, 
                     "_class": "rect"
                   }, 
-                  "symbolID": "D46E3AB9-E981-4B2F-AF1A-E9363279F915", 
+                  "symbolID": "ED7914D6-C02E-48E8-AEA9-67A299AD819F", 
                   "verticalSpacing": 0, 
                   "resizingType": 0, 
                   "masterInfluenceEdgeMinXPadding": 1, 
@@ -1771,12 +1771,28 @@
                   "isFlippedVertical": false, 
                   "name": "Chat/Conversation Item", 
                   "overrides": {
+                    "1389EF11-771F-4B1A-A3C7-F5D9C13A05C7": {
+                      "symbolID": "CB78F0D5-A105-4964-8E0F-4A6E04C8D6B5", 
+                      "88D7E089-3BC4-4B75-8BD3-67EB6CDA49B6": {
+                        "_ref_class": "MSImageData", 
+                        "_ref": "images/c52a5342cd9d8bc165ce52341a4cca8355921509", 
+                        "_class": "MSJSONFileReference"
+                      }, 
+                      "F15C31EC-A37E-4BD4-B55A-D86B81BF5621": {
+                        "_ref_class": "MSImageData", 
+                        "_ref": "images/c52a5342cd9d8bc165ce52341a4cca8355921509", 
+                        "_class": "MSJSONFileReference"
+                      }
+                    }, 
+                    "EB6D4B8E-0609-491E-BFFF-EEF2D8C87B83": "Yun Fei Choo", 
+                    "E623AA76-44CD-41D4-9482-98BDD5E718C0": {
+                      "symbolID": "CB78F0D5-A105-4964-8E0F-4A6E04C8D6B5"
+                    }, 
                     "01B7A4A1-BE8C-479F-BCD1-F294072E2AD4": {
                       "_ref_class": "MSImageData", 
                       "_ref": "images/52b0cb3e8a80a4f051b943e9c6fcec8fac827dcc", 
                       "_class": "MSJSONFileReference"
-                    }, 
-                    "628FD720-69AC-4D61-ADC2-A5EF116FDA82": "Yun Fei Choo"
+                    }
                   }, 
                   "exportOptions": {
                     "shouldTrim": false, 
@@ -1799,7 +1815,7 @@
               "isFlippedHorizontal": false, 
               "name": "Conversations", 
               "hasClickThrough": false, 
-              "layerListExpandedType": 1, 
+              "layerListExpandedType": 2, 
               "frame": {
                 "constrainProportions": false, 
                 "height": 960, 

@@ -30,26 +30,32 @@
         "D90B6BC7-72BD-4B0E-AE23-11FA10D9B08A": {
           "name": "Chat/Conversation Item/Selected"
         }, 
-        "B3141128-4B81-4BC6-93B2-00867FF3C2BE": {
-          "name": "tag chip/active"
+        "E568DECA-77DB-4868-8A9F-CC468AF3FBAB": {
+          "name": "Icons/Gender 2/Red"
         }, 
-        "BDD1ED87-2D53-4F6A-A699-BD944AE456C9": {
-          "name": "Slider/Dual Range/Annotated w icons/0%"
+        "8D647701-4DB3-4F06-92DF-C434A9010AB0": {
+          "name": "Mailbox/Has no notification"
         }, 
         "5E9EACE3-4422-4235-86F5-30E73B1226A7": {
           "name": "Chart"
         }, 
-        "C721290B-D1FE-4070-BD52-DFD3619253EB": {
-          "name": "Profile Picture/Ring"
+        "B9139CE3-85E1-458D-9321-821CB0D472A6": {
+          "name": "Typography"
         }, 
         "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA": {
           "name": "Logo"
         }, 
-        "E82399FE-3CAE-4EA6-B997-AD1E851D1EB8": {
-          "name": "Slider/Single Range/Annotated Copy"
+        "B3141128-4B81-4BC6-93B2-00867FF3C2BE": {
+          "name": "tag chip/active"
         }, 
         "4B37B6F4-1A22-4124-A727-37F04A2BE02D": {
           "name": "Demographic"
+        }, 
+        "AEF293B4-E8A2-44F9-9556-A22A94A92873": {
+          "name": "Icons/Dollar/Black"
+        }, 
+        "D1527A60-0689-4A1F-A1BF-A613D1EF85B3": {
+          "name": "Icons/Marker"
         }, 
         "D672478A-693C-4B7F-A526-5659C400D02B": {
           "name": "Post/Youtube"
@@ -57,8 +63,8 @@
         "D658FCFB-F604-4B45-B6AD-1FE5077709CF": {
           "name": "Metric/Insta/Engagement Bar"
         }, 
-        "DBED81BA-1552-4092-B1CA-B16B3E0D8B06": {
-          "name": "Chip"
+        "2DC199D3-4B2D-4AE5-A238-7D8ABA49B11E": {
+          "name": "Icons/Star/Black"
         }, 
         "06F98522-54BA-42D9-B085-3842E36BC3E0": {
           "name": "Button/Small"
@@ -75,8 +81,14 @@
         "3983C808-E4FD-4073-BF9E-32CBE7B0603A": {
           "name": "Menu/Dropdown/Filled"
         }, 
-        "B9139CE3-85E1-458D-9321-821CB0D472A6": {
-          "name": "Typography"
+        "DBED81BA-1552-4092-B1CA-B16B3E0D8B06": {
+          "name": "Chip"
+        }, 
+        "C721290B-D1FE-4070-BD52-DFD3619253EB": {
+          "name": "Profile Picture/Ring"
+        }, 
+        "E678406D-89C9-45F6-BD08-1BB304754144": {
+          "name": "Icons/Dollar/Red"
         }, 
         "EAB05845-A166-4CF9-A999-54F809973C96": {
           "name": "Insta/Likes"
@@ -84,8 +96,11 @@
         "FF3082AE-80F0-49B3-BB0D-CE3935BCE9F7": {
           "name": "Button/Large"
         }, 
-        "69237AAD-7F4E-46DE-AF02-BA63459776E1": {
-          "name": "Dropdown Option/Unselected"
+        "163DF4DD-6BD7-498A-B06D-41AA5E61E224": {
+          "name": "Icons/Gender 2/Black"
+        }, 
+        "B44999A4-EABF-417F-8469-CA1BC90DD4C8": {
+          "name": "List Option/Selected"
         }, 
         "F81AD353-B064-41E1-B779-22432512DF05": {
           "name": "List Option/Unselected"
@@ -99,17 +114,32 @@
         "CBF7CECD-DE1A-4A24-92B3-28C22BDF5BE1": {
           "name": "Toolbar"
         }, 
+        "56F9B8C0-76D9-4278-8EE8-EBB269E6312F": {
+          "name": "Demographic/Male Mars"
+        }, 
         "AF6CBE1B-0F60-4FCA-B874-12463CBC4A08": {
           "name": "Slider/Single Range/Annotated"
         }, 
         "430832D8-E37D-4D19-8B0C-5397BC192DDB": {
           "name": "Input/Toggle/Left Selected"
         }, 
+        "69237AAD-7F4E-46DE-AF02-BA63459776E1": {
+          "name": "Dropdown Option/Unselected"
+        }, 
         "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74": {
           "name": "Menu/Dropdown/Placeholder"
         }, 
+        "E82399FE-3CAE-4EA6-B997-AD1E851D1EB8": {
+          "name": "Slider/Single Range/Annotated Copy"
+        }, 
+        "B2A4ED0C-3C51-4CCE-B70D-2FD73F48CE2D": {
+          "name": "Icons/People"
+        }, 
         "807A8FA0-A4C9-42E7-BE4C-2E45C074E152": {
           "name": "Slider/Single Range/Unannotated"
+        }, 
+        "C1783C66-6CE3-486D-9144-B0DFA8D4799D": {
+          "name": "Icons/Cake"
         }, 
         "A517C6EB-ECD9-436D-B6D3-1741E4683CB0": {
           "name": "Demographic/Female venus"
@@ -117,11 +147,11 @@
         "269BA5AA-B7E1-4303-98B1-75E54D84AAD0": {
           "name": "Chat/Conversation Item/Unselected/Seen"
         }, 
-        "56F9B8C0-76D9-4278-8EE8-EBB269E6312F": {
-          "name": "Demographic/Male Mars"
+        "5EF02683-8D61-4F05-B3FD-545609DC934A": {
+          "name": "Icons/Gender"
         }, 
-        "B44999A4-EABF-417F-8469-CA1BC90DD4C8": {
-          "name": "List Option/Selected"
+        "BF9835A0-D903-4B2F-A251-15589A4392DB": {
+          "name": "Icons/Marker 2/Red"
         }, 
         "E2E8A32B-3EAD-4A9F-B01F-67F1216AE533": {
           "name": "Offer Card"
@@ -132,8 +162,8 @@
         "7A20E82B-CDCE-453B-9596-9A2A8F04FF90": {
           "name": "Profile Picture/Plain"
         }, 
-        "8D647701-4DB3-4F06-92DF-C434A9010AB0": {
-          "name": "Mailbox/Has no notification"
+        "BDD1ED87-2D53-4F6A-A699-BD944AE456C9": {
+          "name": "Slider/Dual Range/Annotated w icons/0%"
         }, 
         "92E0E266-3DED-49F1-A2FD-51DED3C287BE": {
           "name": "Mailbox/Has notification"
@@ -152,6 +182,12 @@
         }, 
         "71A5AF5F-5DEC-4A9C-ACFF-41C6B110EFF9": {
           "name": "Input/Toggle/Right Selected"
+        }, 
+        "2ABE7547-7519-4987-83BE-CE61FE2E399A": {
+          "name": "Icons/Marker 2/Black"
+        }, 
+        "370B8B85-46A5-45A5-832B-DFCABC4A37F0": {
+          "name": "Icons/Star/Red"
         }
       }, 
       "name": "Symbols"
@@ -223,5 +259,5 @@
       "name": "Influencer Flow"
     }
   }, 
-  "autosaved": 1
+  "autosaved": 0
 }

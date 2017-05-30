@@ -1417,7 +1417,7 @@
                             "layerOptions": 0, 
                             "exportFormats": []
                           }, 
-                          "masterInfluenceEdgeMaxXPadding": 377, 
+                          "masterInfluenceEdgeMaxXPadding": 288, 
                           "nameIsFixed": false, 
                           "shouldBreakMaskChain": false
                         }, 
@@ -1775,7 +1775,7 @@
                       "symbolID": "CB78F0D5-A105-4964-8E0F-4A6E04C8D6B5", 
                       "88D7E089-3BC4-4B75-8BD3-67EB6CDA49B6": {
                         "_ref_class": "MSImageData", 
-                        "_ref": "images/c52a5342cd9d8bc165ce52341a4cca8355921509", 
+                        "_ref": "images/1e95568c7308373d839e84b12330b50e8f0fd903", 
                         "_class": "MSJSONFileReference"
                       }, 
                       "F15C31EC-A37E-4BD4-B55A-D86B81BF5621": {
@@ -1815,7 +1815,7 @@
               "isFlippedHorizontal": false, 
               "name": "Conversations", 
               "hasClickThrough": false, 
-              "layerListExpandedType": 1, 
+              "layerListExpandedType": 0, 
               "frame": {
                 "constrainProportions": false, 
                 "height": 960, 
@@ -1963,6 +1963,11 @@
             "A8446A99-893F-4C52-A6C6-1A8F2835705D": {
               "_ref_class": "MSImageData", 
               "_ref": "images/0b8a2e4d7bff8324a477f630f8d3afe4cb8d9dc6", 
+              "_class": "MSJSONFileReference"
+            }, 
+            "B4ED7F9D-BE9C-49A2-B7E8-6CBDA0288F30": {
+              "_ref_class": "MSImageData", 
+              "_ref": "images/35f3ec118d2822071c2915b0e9c660dbc32a093f", 
               "_class": "MSJSONFileReference"
             }
           }, 

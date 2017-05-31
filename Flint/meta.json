@@ -204,7 +204,7 @@
           "name": "New Campaign"
         }, 
         "AC5DEAAB-415F-455D-A6C4-6FC68AFDB0A9": {
-          "name": "Chat screen"
+          "name": "Chat screen marketer"
         }, 
         "7F8EA717-CFD1-479C-964C-31F62E75C65A": {
           "name": "Influencer Profile"
@@ -217,6 +217,9 @@
         }, 
         "E240F603-412F-436A-9282-14F8A233E121": {
           "name": "New Campaign Detail"
+        }, 
+        "5DB1989C-4A46-42DB-8CF5-A3A103269C72": {
+          "name": "Marketer Home Empty"
         }, 
         "0E01AF72-63F2-442A-93C0-B4C6B4149DA4": {
           "name": "Campaign Analytics"
@@ -256,11 +259,11 @@
           "name": "Campaign Search Results"
         }, 
         "1294A90F-13BD-4FD7-916F-B9B013B4D28A": {
-          "name": "Chat screen"
+          "name": "Chat screen influencer"
         }
       }, 
       "name": "Influencer Flow"
     }
   }, 
-  "autosaved": 1
+  "autosaved": 0
 }

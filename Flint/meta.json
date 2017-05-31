@@ -49,7 +49,10 @@
           "name": "tag chip/active"
         }, 
         "4B37B6F4-1A22-4124-A727-37F04A2BE02D": {
-          "name": "Demographic"
+          "name": "Demographic/Card"
+        }, 
+        "EAAD7390-3A9A-445A-8E4B-5EE7A5256201": {
+          "name": "Demographic/Card Background/New"
         }, 
         "AEF293B4-E8A2-44F9-9556-A22A94A92873": {
           "name": "Icons/Dollar/Black"
@@ -62,6 +65,9 @@
         }, 
         "D658FCFB-F604-4B45-B6AD-1FE5077709CF": {
           "name": "Metric/Insta/Engagement Bar"
+        }, 
+        "72C54562-0D51-4A45-AE90-E95BCC11B708": {
+          "name": "Demographic/Card Background/Neutral"
         }, 
         "2DC199D3-4B2D-4AE5-A238-7D8ABA49B11E": {
           "name": "Icons/Star/Black"
@@ -164,6 +170,9 @@
         }, 
         "BDD1ED87-2D53-4F6A-A699-BD944AE456C9": {
           "name": "Slider/Dual Range/Annotated w icons/0%"
+        }, 
+        "DC367BC1-1070-41A5-8C3F-BDB3058A4838": {
+          "name": "Demographic/Card Background/Overlap"
         }, 
         "92E0E266-3DED-49F1-A2FD-51DED3C287BE": {
           "name": "Mailbox/Has notification"

@@ -670,7 +670,7 @@
                     "constrainProportions": false, 
                     "height": 64, 
                     "width": 664, 
-                    "y": 874, 
+                    "y": 267, 
                     "x": 0, 
                     "_class": "rect"
                   }, 
@@ -706,7 +706,7 @@
                               "layerListExpandedType": 0, 
                               "frame": {
                                 "constrainProportions": false, 
-                                "height": 192.0000000000006, 
+                                "height": 109.0000000000002, 
                                 "width": 400.0000000000005, 
                                 "y": 0, 
                                 "x": 0, 
@@ -714,7 +714,7 @@
                               }, 
                               "resizingType": 0, 
                               "resizingConstraint": 63, 
-                              "do_objectID": "7F7C08AE-EB71-40FB-BC62-1375F7F13BD2", 
+                              "do_objectID": "A12F979E-CB86-4148-8974-0B39A2BB13BD", 
                               "hasConvertedToNewRoundCorners": true, 
                               "isLocked": false, 
                               "shouldBreakMaskChain": false, 
@@ -787,15 +787,15 @@
                               "layerListExpandedType": 0, 
                               "frame": {
                                 "constrainProportions": false, 
-                                "height": 95.99999999999974, 
+                                "height": 54.49999999999979, 
                                 "width": 200.0000000000002, 
-                                "y": 95.99999999999974, 
+                                "y": 54.49999999999979, 
                                 "x": 200.0000000000002, 
                                 "_class": "rect"
                               }, 
                               "resizingType": 0, 
                               "resizingConstraint": 63, 
-                              "do_objectID": "B531CE4E-29D7-4F24-A012-7AA473C48BA8", 
+                              "do_objectID": "86461D01-1877-4576-9559-845EB279FAAE", 
                               "hasConvertedToNewRoundCorners": true, 
                               "isLocked": false, 
                               "shouldBreakMaskChain": false, 
@@ -906,10 +906,10 @@
                           "name": "User Speech Bubble", 
                           "hasClippingMask": false, 
                           "hasClickThrough": false, 
-                          "layerListExpandedType": 1, 
+                          "layerListExpandedType": 0, 
                           "frame": {
                             "constrainProportions": false, 
-                            "height": 192, 
+                            "height": 109, 
                             "width": 400, 
                             "y": 0, 
                             "x": 0, 
@@ -918,7 +918,7 @@
                           "clippingMaskMode": 0, 
                           "resizingType": 0, 
                           "resizingConstraint": 63, 
-                          "do_objectID": "C4C60512-88EF-40E1-87FF-EF58B70ADB18", 
+                          "do_objectID": "D4EEFE56-EEBC-4110-8EF2-50D9DF875FD7", 
                           "isLocked": false, 
                           "shouldBreakMaskChain": false, 
                           "windingRule": 1, 
@@ -939,13 +939,13 @@
                           "layerListExpandedType": 0, 
                           "frame": {
                             "constrainProportions": false, 
-                            "height": 150, 
-                            "width": 371, 
+                            "height": 70, 
+                            "width": 366.915, 
                             "y": 21, 
                             "x": 17, 
                             "_class": "rect"
                           }, 
-                          "glyphBounds": "{{0, -5}, {370, 153}}", 
+                          "glyphBounds": "{{0, -5}, {361, 75}}", 
                           "resizingType": 0, 
                           "heightIsClipped": false, 
                           "style": {
@@ -971,15 +971,15 @@
                           }, 
                           "dontSynchroniseWithSymbol": false, 
                           "isLocked": false, 
-                          "do_objectID": "5EBCE052-5A29-49DC-B43F-1586DF5318D3", 
+                          "do_objectID": "35E2B125-992B-46E1-95C4-DFDA93F8C1FE", 
                           "resizingConstraint": 47, 
                           "_class": "text", 
                           "lineSpacingBehaviour": 2, 
                           "isFlippedHorizontal": false, 
                           "rotation": 0, 
-                          "textBehaviour": 0, 
+                          "textBehaviour": 1, 
                           "isFlippedVertical": false, 
-                          "name": "Hi Julia, I came acr", 
+                          "name": "Hi Julia, thank you", 
                           "nameIsFixed": false, 
                           "automaticallyDrawOnUnderlyingPath": false, 
                           "exportOptions": {
@@ -993,7 +993,7 @@
                           "shouldBreakMaskChain": false, 
                           "attributedString": {
                             "archivedAttributedString": {
-                              "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs1OT1FRkdISU1RU1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA18RAZtIaSBKdWxpYSwgSSBjYW1lIGFjcm9zcyBhdCB5b3VyIHByb2ZpbGUgYW5kIEkgc2VlIHRoYXQgeW91IG9mdGVuCnByb21vdGUgaGVhbHRoeSBlYXRpbmcgb24geW91ciBpbnN0YWdyYW0gcGFnZS4gQmVycnlnb29kCmlzIGEgc21hbGwgeW9naHVydCBvdXRsZXQgYW5kIHdlIGFyZSBsb29raW5nIGZvciBpbmZsdWVuY2Vycwp0byBoZWxwIHVzIHByb21vdGUgb3VyIG5ldyB5b2dodXJ0IGZsYXZvdXIuIEluZmx1ZW5jZXJzCndvdWxkIGJlIGdpdmVuIGEgZnJlZSB0YXN0aW5nIHNlc3Npb24gYmVmb3JlIGRlY2lkaW5nIG9uCndoZXRoZXIgdG8gdGFrZSBvbiB0aGUgY2FtcGFpZ24uIE1vbmV0YXJ5IHJlbXVuZXJhdGlvbgp3b3VsZCBiZSBwcm92aWRlZCBmb3IgdGhlIGNhbXBhaWduLiBXb3VsZCB5b3UgYmUKaW50ZXJlc3RlZD/TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeACYALgBNXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0yAhCiIjJFVOU1JHQlxOU0NvbG9yU3BhY2VPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAI0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoigqWE5TT2JqZWN01iwtLi8KMDEyMTM0MV8QEk5TUGFyYWdyYXBoU3BhY2luZ1tOU0FsaWdubWVudF8QD05TTWluTGluZUhlaWdodFpOU1RhYlN0b3BzXxAPTlNNYXhMaW5lSGVpZ2h0I0AkAAAAAAAAEASAAIAK0iYnNjdfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM2OCpfEBBOU1BhcmFncmFwaFN0eWxl0go6OzxfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKPkFEoj9AgA2ADqJCQ4APgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXExhdG8tUmVndWxhctImJ0pLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKTCpcTlNEaWN0aW9uYXJ50iYnTk9fEBBOU0ZvbnREZXNjcmlwdG9yolAqXxAQTlNGb250RGVzY3JpcHRvctImJ0xSokwq0iYnVFVfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiVipfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRWVpUcm9vdIABAAgAEQAaACMALQAyADcATwBVAFwAZQBsAHkAewB9AH8CHgIlAi0COAI8Aj4CQAJCAkYCSAJKAkwCTgJWAmkCiwKSApgCpQLPAtEC0wLYAuMC7AL0AvcDAAMNAyIDLgNAA0sDXQNmA2gDagNsA3EDiwOPA6IDpwPEA8YDyAPPA9ID1APWA9kD2wPdA98D9QQLBBQEIQQmBDwEQARNBFIEZQRoBHsEgASDBIgEnQSgBLUExwTKBM8AAAAAAAACAQAAAAAAAABbAAAAAAAAAAAAAAAAAAAE0Q=="
+                              "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs1OT1FRkdISU1RU1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA18Q1EhpIEp1bGlhLCB0aGFuayB5b3UgZm9yIHJlYWNoaW5nIG91dCEgSSBoYXZlIGEgc3Ryb25nCmludGVyZXN0IGluIHRoaXMgY2FtcGFpZ24gYW5kIHdvdWxkIGRlZmluaXRlbHkgYmUgaW50ZXJlc3RlZCAKaW4gdGhlIHRhc3Rpbmcgc2Vzc2lvbi4gRG8geW91IGhhdmUgbW9yZSBkZXRhaWxzIGFib3V0IHRoZSAKd29yayBsb2FkIHJlcXVpcmVkIGZvciB0aGUgY2FtcGFpZ24/0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmAC4ATV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGACNImJygpWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIoKlhOU09iamVjdNYsLS4vCjAxMjEzNDFfEBJOU1BhcmFncmFwaFNwYWNpbmdbTlNBbGlnbm1lbnRfEA9OU01pbkxpbmVIZWlnaHRaTlNUYWJTdG9wc18QD05TTWF4TGluZUhlaWdodCNAJAAAAAAAABAEgACACtImJzY3XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNjgqXxAQTlNQYXJhZ3JhcGhTdHlsZdIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCj5BRKI/QIANgA6iQkOAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxMYXRvLVJlZ3VsYXLSJidKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSkwqXE5TRGljdGlvbmFyedImJ05PXxAQTlNGb250RGVzY3JpcHRvcqJQKl8QEE5TRm9udERlc2NyaXB0b3LSJidMUqJMKtImJ1RVXxASTlNBdHRyaWJ1dGVkU3RyaW5nolYqXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0VlaVHJvb3SAAQAIABEAGgAjAC0AMgA3AE8AVQBcAGUAbAB5AHsAfQB/AVYBXQFlAXABdAF2AXgBegF+AYABggGEAYYBjgGhAcMBygHQAd0CBwIJAgsCEAIbAiQCLAIvAjgCRQJaAmYCeAKDApUCngKgAqICpAKpAsMCxwLaAt8C/AL+AwADBwMKAwwDDgMRAxMDFQMXAy0DQwNMA1kDXgN0A3gDhQOKA50DoAOzA7gDuwPAA9UD2APtA/8EAgQHAAAAAAAAAgEAAAAAAAAAWwAAAAAAAAAAAAAAAAAABAk="
                             }, 
                             "_class": "MSAttributedString"
                           }
@@ -1008,18 +1008,18 @@
                       "isFlippedHorizontal": false, 
                       "name": "User Message", 
                       "hasClickThrough": false, 
-                      "layerListExpandedType": 0, 
+                      "layerListExpandedType": 2, 
                       "frame": {
                         "constrainProportions": false, 
-                        "height": 192, 
+                        "height": 109, 
                         "width": 400, 
-                        "y": 520, 
-                        "x": 200, 
+                        "y": 0, 
+                        "x": 201, 
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
                       "resizingConstraint": 63, 
-                      "do_objectID": "C2F05D1F-5578-4041-AC3D-D1EA2684CC07", 
+                      "do_objectID": "27640201-EA69-4FFF-BFAC-CC92036ADF4C", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
                       "exportOptions": {
@@ -1048,14 +1048,14 @@
                               "frame": {
                                 "constrainProportions": false, 
                                 "height": 113.9999999999999, 
-                                "width": 400, 
+                                "width": 401, 
                                 "y": 0, 
                                 "x": 0, 
                                 "_class": "rect"
                               }, 
                               "resizingType": 0, 
                               "resizingConstraint": 63, 
-                              "do_objectID": "65CEC099-3D65-4BCD-8AC1-74CB9004902B", 
+                              "do_objectID": "504C0105-012C-4778-96C6-E29285ECBF08", 
                               "hasConvertedToNewRoundCorners": true, 
                               "isLocked": false, 
                               "shouldBreakMaskChain": false, 
@@ -1129,14 +1129,14 @@
                               "frame": {
                                 "constrainProportions": false, 
                                 "height": 56.99999999999996, 
-                                "width": 200, 
+                                "width": 200.5, 
                                 "y": 56.99999999999996, 
                                 "x": 0, 
                                 "_class": "rect"
                               }, 
                               "resizingType": 0, 
                               "resizingConstraint": 63, 
-                              "do_objectID": "A240EA08-DFF2-4406-8385-BC5E8BBF6745", 
+                              "do_objectID": "DEDA779B-4889-4A57-BE63-9A9F8E6D7E21", 
                               "hasConvertedToNewRoundCorners": true, 
                               "isLocked": false, 
                               "shouldBreakMaskChain": false, 
@@ -1251,7 +1251,7 @@
                           "frame": {
                             "constrainProportions": false, 
                             "height": 114, 
-                            "width": 400, 
+                            "width": 401, 
                             "y": 0, 
                             "x": 0, 
                             "_class": "rect"
@@ -1259,7 +1259,7 @@
                           "clippingMaskMode": 0, 
                           "resizingType": 0, 
                           "resizingConstraint": 63, 
-                          "do_objectID": "B857CF4A-E6B4-4954-9196-A52FA13DAF30", 
+                          "do_objectID": "E9BD8E4F-41B3-4820-AA61-DA36E37D6A79", 
                           "isLocked": false, 
                           "shouldBreakMaskChain": false, 
                           "windingRule": 1, 
@@ -1280,13 +1280,13 @@
                           "layerListExpandedType": 0, 
                           "frame": {
                             "constrainProportions": false, 
-                            "height": 70, 
-                            "width": 351, 
-                            "y": 21, 
+                            "height": 30, 
+                            "width": 368, 
+                            "y": 27, 
                             "x": 17, 
                             "_class": "rect"
                           }, 
-                          "glyphBounds": "{{0, -5}, {350, 75}}", 
+                          "glyphBounds": "{{0, -5}, {367, 35}}", 
                           "resizingType": 0, 
                           "heightIsClipped": false, 
                           "style": {
@@ -1312,7 +1312,7 @@
                           }, 
                           "dontSynchroniseWithSymbol": false, 
                           "isLocked": false, 
-                          "do_objectID": "8719F0DF-3F57-4108-A7F4-47F5E5892839", 
+                          "do_objectID": "88C6E3E8-566E-4D56-81DE-83D49033B014", 
                           "resizingConstraint": 47, 
                           "_class": "text", 
                           "lineSpacingBehaviour": 2, 
@@ -1320,7 +1320,7 @@
                           "rotation": 0, 
                           "textBehaviour": 0, 
                           "isFlippedVertical": false, 
-                          "name": "Hi Chloe, thank you", 
+                          "name": "Hi Chloe, I came acr", 
                           "nameIsFixed": false, 
                           "automaticallyDrawOnUnderlyingPath": false, 
                           "exportOptions": {
@@ -1334,7 +1334,7 @@
                           "shouldBreakMaskChain": false, 
                           "attributedString": {
                             "archivedAttributedString": {
-                              "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs1OT1FRkdISU1RU1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA18QyUhpIENobG9lLCB0aGFuayB5b3UgZm9yIHJlYWNoaW5nIG91dCEgSSBoYXZlIGEgc3Ryb25nCmludGVyZXN0IGluIGZvb2QgYW5kIHdvdWxkIGRlZmluaXRlbHkgYmUgaW50ZXJlc3RlZCBpbiB0aGUKdGFzdGluZyBzZXNzaW9uLiBEbyB5b3UgaGF2ZSBtb3JlIGRldGFpbHMgYWJvdXQgdGhlIHdvcmsKbG9hZCByZXF1aXJlZCBmb3IgdGhlIGNhbXBhaWduP9MREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AJgAuAE1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTICEKIiMkVU5TUkdCXE5TQ29sb3JTcGFjZU8QJzAuMjkwMjIxNjMxNSAwLjI5MDE3NTI4ODkgMC4yOTAyMzc0NTY2ABABgAjSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiKCpYTlNPYmplY3TWLC0uLwowMTIxMzQxXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAAAQBIAAgArSJic2N18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozY4Kl8QEE5TUGFyYWdyYXBoU3R5bGXSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgo+QUSiP0CADYAOokJDgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABcTGF0by1SZWd1bGFy0iYnSktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0pMKlxOU0RpY3Rpb25hcnnSJidOT18QEE5TRm9udERlc2NyaXB0b3KiUCpfEBBOU0ZvbnREZXNjcmlwdG9y0iYnTFKiTCrSJidUVV8QEk5TQXR0cmlidXRlZFN0cmluZ6JWKl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFZWlRyb290gAEACAARABoAIwAtADIANwBPAFUAXABlAGwAeQB7AH0AfwFLAVIBWgFlAWkBawFtAW8BcwF1AXcBeQF7AYMBlgG4Ab8BxQHSAfwB/gIAAgUCEAIZAiECJAItAjoCTwJbAm0CeAKKApMClQKXApkCngK4ArwCzwLUAvEC8wL1AvwC/wMBAwMDBgMIAwoDDAMiAzgDQQNOA1MDaQNtA3oDfwOSA5UDqAOtA7ADtQPKA80D4gP0A/cD/AAAAAAAAAIBAAAAAAAAAFsAAAAAAAAAAAAAAAAAAAP+"
+                              "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs1OT1FRkdISU1RU1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA18QckhpIENobG9lLCBJIGNhbWUgYWNyb3NzIGF0IHlvdXIgcHJvZmlsZSBhbmQgSSBhbSBpbnRlcmVzdGVkIGluCmVuZ2FnaW5nIHlvdSBmb3Igb3VyIG5ldyBjYW1wYWlnbiAxMjFDIEFyYyBBaWxlcm9uIdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4AJgAuAE1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTICEKIiMkVU5TUkdCXE5TQ29sb3JTcGFjZU8QJzAuMjkwMjIxNjMxNSAwLjI5MDE3NTI4ODkgMC4yOTAyMzc0NTY2ABABgAjSJicoKVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiKCpYTlNPYmplY3TWLC0uLwowMTIxMzQxXxASTlNQYXJhZ3JhcGhTcGFjaW5nW05TQWxpZ25tZW50XxAPTlNNaW5MaW5lSGVpZ2h0Wk5TVGFiU3RvcHNfEA9OU01heExpbmVIZWlnaHQjQCQAAAAAAAAQBIAAgArSJic2N18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozY4Kl8QEE5TUGFyYWdyYXBoU3R5bGXSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgo+QUSiP0CADYAOokJDgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABcTGF0by1SZWd1bGFy0iYnSktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0pMKlxOU0RpY3Rpb25hcnnSJidOT18QEE5TRm9udERlc2NyaXB0b3KiUCpfEBBOU0ZvbnREZXNjcmlwdG9y0iYnTFKiTCrSJidUVV8QEk5TQXR0cmlidXRlZFN0cmluZ6JWKl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFZWlRyb290gAEACAARABoAIwAtADIANwBPAFUAXABlAGwAeQB7AH0AfwD0APsBAwEOARIBFAEWARgBHAEeASABIgEkASwBPwFhAWgBbgF7AaUBpwGpAa4BuQHCAcoBzQHWAeMB+AIEAhYCIQIzAjwCPgJAAkICRwJhAmUCeAJ9ApoCnAKeAqUCqAKqAqwCrwKxArMCtQLLAuEC6gL3AvwDEgMWAyMDKAM7Az4DUQNWA1kDXgNzA3YDiwOdA6ADpQAAAAAAAAIBAAAAAAAAAFsAAAAAAAAAAAAAAAAAAAOn"
                             }, 
                             "_class": "MSAttributedString"
                           }
@@ -1349,146 +1349,18 @@
                       "isFlippedHorizontal": false, 
                       "name": "Recipient Message", 
                       "hasClickThrough": false, 
-                      "layerListExpandedType": 0, 
+                      "layerListExpandedType": 2, 
                       "frame": {
                         "constrainProportions": false, 
                         "height": 114, 
-                        "width": 400, 
-                        "y": 728, 
+                        "width": 401, 
+                        "y": 129, 
                         "x": 0, 
                         "_class": "rect"
                       }, 
                       "resizingType": 0, 
                       "resizingConstraint": 63, 
-                      "do_objectID": "A06C6D1F-7541-429B-AD7A-D5596175498D", 
-                      "isLocked": false, 
-                      "shouldBreakMaskChain": false, 
-                      "exportOptions": {
-                        "shouldTrim": false, 
-                        "includedLayerIds": [], 
-                        "_class": "exportOptions", 
-                        "layerOptions": 0, 
-                        "exportFormats": []
-                      }, 
-                      "isVisible": true, 
-                      "rotation": 0, 
-                      "_class": "group", 
-                      "nameIsFixed": true, 
-                      "isFlippedVertical": false
-                    }, 
-                    {
-                      "layers": [
-                        {
-                          "layerListExpandedType": 0, 
-                          "frame": {
-                            "constrainProportions": false, 
-                            "height": 103, 
-                            "width": 379, 
-                            "y": 0, 
-                            "x": 0, 
-                            "_class": "rect"
-                          }, 
-                          "symbolID": "6B807D1F-EA9E-4C4F-A17C-4C6AEABD07C4", 
-                          "verticalSpacing": 0, 
-                          "resizingType": 0, 
-                          "masterInfluenceEdgeMinXPadding": 3, 
-                          "style": {
-                            "endDecorationType": 0, 
-                            "_class": "style", 
-                            "startDecorationType": 0, 
-                            "miterLimit": 10
-                          }, 
-                          "isLocked": false, 
-                          "do_objectID": "13A636CD-E129-49CA-83BC-4148E1D81018", 
-                          "resizingConstraint": 63, 
-                          "_class": "symbolInstance", 
-                          "isFlippedHorizontal": false, 
-                          "horizontalSpacing": 0, 
-                          "isVisible": true, 
-                          "rotation": 0, 
-                          "masterInfluenceEdgeMaxYPadding": 5, 
-                          "isFlippedVertical": false, 
-                          "name": "Offer Card", 
-                          "masterInfluenceEdgeMinYPadding": 1, 
-                          "exportOptions": {
-                            "shouldTrim": false, 
-                            "includedLayerIds": [], 
-                            "_class": "exportOptions", 
-                            "layerOptions": 0, 
-                            "exportFormats": []
-                          }, 
-                          "masterInfluenceEdgeMaxXPadding": 288, 
-                          "nameIsFixed": false, 
-                          "shouldBreakMaskChain": false
-                        }, 
-                        {
-                          "layerListExpandedType": 0, 
-                          "frame": {
-                            "constrainProportions": false, 
-                            "height": 34, 
-                            "width": 92, 
-                            "y": 63, 
-                            "x": 144, 
-                            "_class": "rect"
-                          }, 
-                          "symbolID": "1545D796-155E-41F2-B8DD-FA3721E60546", 
-                          "verticalSpacing": 0, 
-                          "resizingType": 0, 
-                          "masterInfluenceEdgeMinXPadding": 0, 
-                          "style": {
-                            "endDecorationType": 0, 
-                            "_class": "style", 
-                            "startDecorationType": 0, 
-                            "miterLimit": 10
-                          }, 
-                          "isLocked": false, 
-                          "do_objectID": "4B14DE29-A493-4374-94A8-C433A7497037", 
-                          "resizingConstraint": 63, 
-                          "_class": "symbolInstance", 
-                          "isFlippedHorizontal": false, 
-                          "horizontalSpacing": 0, 
-                          "isVisible": true, 
-                          "rotation": 0, 
-                          "masterInfluenceEdgeMaxYPadding": 0, 
-                          "masterInfluenceEdgeMinYPadding": 0, 
-                          "isFlippedVertical": false, 
-                          "name": "Button/Small", 
-                          "overrides": {
-                            "A7C6ADD9-BEE9-4F7E-B0AA-9E05D0B3AB1E": "View Offer"
-                          }, 
-                          "exportOptions": {
-                            "shouldTrim": false, 
-                            "includedLayerIds": [], 
-                            "_class": "exportOptions", 
-                            "layerOptions": 0, 
-                            "exportFormats": []
-                          }, 
-                          "masterInfluenceEdgeMaxXPadding": 0, 
-                          "nameIsFixed": false, 
-                          "shouldBreakMaskChain": false
-                        }
-                      ], 
-                      "style": {
-                        "endDecorationType": 0, 
-                        "_class": "style", 
-                        "startDecorationType": 0, 
-                        "miterLimit": 10
-                      }, 
-                      "isFlippedHorizontal": false, 
-                      "name": "Offer", 
-                      "hasClickThrough": false, 
-                      "layerListExpandedType": 1, 
-                      "frame": {
-                        "constrainProportions": false, 
-                        "height": 103, 
-                        "width": 379, 
-                        "y": 0, 
-                        "x": 106, 
-                        "_class": "rect"
-                      }, 
-                      "resizingType": 0, 
-                      "resizingConstraint": 63, 
-                      "do_objectID": "8C5C128B-3A72-483B-A2AE-401D13690423", 
+                      "do_objectID": "DF89AAD6-7149-4177-8B14-0F0F4D463403", 
                       "isLocked": false, 
                       "shouldBreakMaskChain": false, 
                       "exportOptions": {
@@ -1514,18 +1386,18 @@
                   "isFlippedHorizontal": false, 
                   "name": "Conversation", 
                   "hasClickThrough": false, 
-                  "layerListExpandedType": 0, 
+                  "layerListExpandedType": 2, 
                   "frame": {
                     "constrainProportions": false, 
-                    "height": 842, 
-                    "width": 600, 
+                    "height": 243, 
+                    "width": 601, 
                     "y": 0, 
                     "x": 32, 
                     "_class": "rect"
                   }, 
                   "resizingType": 0, 
                   "resizingConstraint": 63, 
-                  "do_objectID": "EA18FB3C-C618-40DC-BC6B-817CDE74F9AC", 
+                  "do_objectID": "66736F56-E72E-4F6D-8EBA-B72B20273AEB", 
                   "isLocked": false, 
                   "shouldBreakMaskChain": false, 
                   "exportOptions": {
@@ -1551,12 +1423,12 @@
               "isFlippedHorizontal": false, 
               "name": "Conversation Panel", 
               "hasClickThrough": false, 
-              "layerListExpandedType": 0, 
+              "layerListExpandedType": 2, 
               "frame": {
                 "constrainProportions": false, 
-                "height": 938, 
+                "height": 331, 
                 "width": 664, 
-                "y": 22, 
+                "y": 629, 
                 "x": 360, 
                 "_class": "rect"
               }, 

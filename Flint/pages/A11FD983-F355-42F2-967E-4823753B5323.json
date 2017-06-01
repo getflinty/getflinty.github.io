@@ -670,7 +670,7 @@
                     "constrainProportions": false, 
                     "height": 64, 
                     "width": 664, 
-                    "y": 267, 
+                    "y": 867, 
                     "x": 0, 
                     "_class": "rect"
                   }, 
@@ -1013,7 +1013,7 @@
                         "constrainProportions": false, 
                         "height": 109, 
                         "width": 400, 
-                        "y": 0, 
+                        "y": 600, 
                         "x": 201, 
                         "_class": "rect"
                       }, 
@@ -1354,7 +1354,7 @@
                         "constrainProportions": false, 
                         "height": 114, 
                         "width": 401, 
-                        "y": 129, 
+                        "y": 729, 
                         "x": 0, 
                         "_class": "rect"
                       }, 
@@ -1375,6 +1375,49 @@
                       "_class": "group", 
                       "nameIsFixed": true, 
                       "isFlippedVertical": false
+                    }, 
+                    {
+                      "layerListExpandedType": 0, 
+                      "frame": {
+                        "constrainProportions": false, 
+                        "height": 103, 
+                        "width": 379, 
+                        "y": 0, 
+                        "x": 107, 
+                        "_class": "rect"
+                      }, 
+                      "symbolID": "6B807D1F-EA9E-4C4F-A17C-4C6AEABD07C4", 
+                      "verticalSpacing": 0, 
+                      "resizingType": 0, 
+                      "masterInfluenceEdgeMinXPadding": 3, 
+                      "style": {
+                        "endDecorationType": 0, 
+                        "_class": "style", 
+                        "startDecorationType": 0, 
+                        "miterLimit": 10
+                      }, 
+                      "isLocked": false, 
+                      "do_objectID": "85887B29-C37C-4B02-8246-C467689E8624", 
+                      "resizingConstraint": 63, 
+                      "_class": "symbolInstance", 
+                      "isFlippedHorizontal": false, 
+                      "horizontalSpacing": 0, 
+                      "isVisible": true, 
+                      "rotation": 0, 
+                      "masterInfluenceEdgeMaxYPadding": 5, 
+                      "isFlippedVertical": false, 
+                      "name": "Offer Card", 
+                      "masterInfluenceEdgeMinYPadding": 1, 
+                      "exportOptions": {
+                        "shouldTrim": false, 
+                        "includedLayerIds": [], 
+                        "_class": "exportOptions", 
+                        "layerOptions": 0, 
+                        "exportFormats": []
+                      }, 
+                      "masterInfluenceEdgeMaxXPadding": 288, 
+                      "nameIsFixed": false, 
+                      "shouldBreakMaskChain": false
                     }
                   ], 
                   "style": {
@@ -1389,7 +1432,7 @@
                   "layerListExpandedType": 2, 
                   "frame": {
                     "constrainProportions": false, 
-                    "height": 243, 
+                    "height": 843, 
                     "width": 601, 
                     "y": 0, 
                     "x": 32, 
@@ -1426,9 +1469,9 @@
               "layerListExpandedType": 2, 
               "frame": {
                 "constrainProportions": false, 
-                "height": 331, 
+                "height": 931, 
                 "width": 664, 
-                "y": 629, 
+                "y": 29, 
                 "x": 360, 
                 "_class": "rect"
               }, 
@@ -1688,7 +1731,7 @@
               "isFlippedHorizontal": false, 
               "name": "Conversations", 
               "hasClickThrough": false, 
-              "layerListExpandedType": 0, 
+              "layerListExpandedType": 1, 
               "frame": {
                 "constrainProportions": false, 
                 "height": 960, 

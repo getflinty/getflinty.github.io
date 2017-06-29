@@ -22253,7 +22253,7 @@
           "frame": {
             "constrainProportions": false, 
             "height": 100, 
-            "width": 360, 
+            "width": 361, 
             "y": 0, 
             "x": 0, 
             "_class": "rect"
@@ -22269,7 +22269,7 @@
               "frame": {
                 "constrainProportions": false, 
                 "height": 100, 
-                "width": 360, 
+                "width": 361, 
                 "y": 0, 
                 "x": 0, 
                 "_class": "rect"
@@ -22395,7 +22395,7 @@
               "kModelPropertiesKey": {
                 "constraints": {
                   "right": {
-                    "constant": 0, 
+                    "constant": -1, 
                     "enabled": 1, 
                     "model_version": 0.1, 
                     "multiplier": 0, 
@@ -22771,7 +22771,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
-      "changeIdentifier": 267, 
+      "changeIdentifier": 269, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Chat/Conversation Item/Unselected/Seen", 
@@ -22814,7 +22814,7 @@
           "frame": {
             "constrainProportions": false, 
             "height": 100, 
-            "width": 360, 
+            "width": 361, 
             "y": 0, 
             "x": 0, 
             "_class": "rect"
@@ -22830,7 +22830,7 @@
               "frame": {
                 "constrainProportions": false, 
                 "height": 100, 
-                "width": 360, 
+                "width": 361, 
                 "y": 0, 
                 "x": 0, 
                 "_class": "rect"
@@ -22956,7 +22956,7 @@
               "kModelPropertiesKey": {
                 "constraints": {
                   "right": {
-                    "constant": 0, 
+                    "constant": -1, 
                     "enabled": 1, 
                     "model_version": 0.1, 
                     "multiplier": 0, 
@@ -23318,7 +23318,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
-      "changeIdentifier": 352, 
+      "changeIdentifier": 354, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Chat/Conversation Item/Unselected/Unseen", 

@@ -1,14 +1,14 @@
 {
   "saveHistory": [
-    "NONAPPSTORE.41455"
+    "NONAPPSTORE.43475"
   ], 
   "created": {
     "app": "com.bohemiancoding.sketch3", 
     "variant": "NONAPPSTORE", 
-    "appVersion": "44.1", 
-    "version": 91, 
-    "build": 41455, 
-    "commit": "10b2b021ddaac63eb3f52ce0b42edfb625ca194b"
+    "appVersion": "45", 
+    "version": 92, 
+    "build": 43475, 
+    "commit": "62a429066b6505d0a6a211f8b74e8c5a38b40e00"
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
@@ -20,10 +20,10 @@
     "Raleway-Regular"
   ], 
   "variant": "NONAPPSTORE", 
-  "appVersion": "44.1", 
-  "version": 91, 
-  "build": 41455, 
-  "commit": "10b2b021ddaac63eb3f52ce0b42edfb625ca194b", 
+  "appVersion": "45", 
+  "version": 92, 
+  "build": 43475, 
+  "commit": "62a429066b6505d0a6a211f8b74e8c5a38b40e00", 
   "pagesAndArtboards": {
     "878A61C6-D485-41ED-A3D8-DBE6A1B467B1": {
       "artboards": {
@@ -41,6 +41,9 @@
         }, 
         "B9139CE3-85E1-458D-9321-821CB0D472A6": {
           "name": "Typography"
+        }, 
+        "9CCFF56B-4096-45E2-84C1-B51A38F9A7FD": {
+          "name": "Menu/Dropdown/Placeholder"
         }, 
         "C80F42A6-A5BD-4BDC-BD6C-94EE99EFBEDA": {
           "name": "Logo"
@@ -65,6 +68,9 @@
         }, 
         "D658FCFB-F604-4B45-B6AD-1FE5077709CF": {
           "name": "Metric/Insta/Engagement Bar"
+        }, 
+        "CBF7CECD-DE1A-4A24-92B3-28C22BDF5BE1": {
+          "name": "Toolbar"
         }, 
         "72C54562-0D51-4A45-AE90-E95BCC11B708": {
           "name": "Demographic/Card Background/Neutral"
@@ -117,8 +123,8 @@
         "3D051961-8AB1-4320-88B1-16AE10566DE3": {
           "name": "Post/Insta"
         }, 
-        "CBF7CECD-DE1A-4A24-92B3-28C22BDF5BE1": {
-          "name": "Toolbar"
+        "1ABC139C-E31C-4EE3-A411-21E13F5A4E92": {
+          "name": "Dropdown pill menu"
         }, 
         "56F9B8C0-76D9-4278-8EE8-EBB269E6312F": {
           "name": "Demographic/Male Mars"
@@ -133,7 +139,7 @@
           "name": "Dropdown Option/Unselected"
         }, 
         "02C1D07C-E6DA-4401-9CA8-252BBB3E0D74": {
-          "name": "Menu/Dropdown/Placeholder"
+          "name": "Dropdown pill menu"
         }, 
         "E82399FE-3CAE-4EA6-B997-AD1E851D1EB8": {
           "name": "Slider/Single Range/Annotated Copy"

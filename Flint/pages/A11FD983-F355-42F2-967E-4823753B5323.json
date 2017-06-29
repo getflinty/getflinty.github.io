@@ -1405,9 +1405,10 @@
                       "isVisible": true, 
                       "rotation": 0, 
                       "masterInfluenceEdgeMaxYPadding": 5, 
+                      "masterInfluenceEdgeMinYPadding": 1, 
                       "isFlippedVertical": false, 
                       "name": "Offer Card", 
-                      "masterInfluenceEdgeMinYPadding": 1, 
+                      "overrides": {}, 
                       "exportOptions": {
                         "shouldTrim": false, 
                         "includedLayerIds": [], 

@@ -1,14 +1,14 @@
 {
   "saveHistory": [
-    "NONAPPSTORE.43475"
+    "NONAPPSTORE.43504"
   ], 
   "created": {
     "app": "com.bohemiancoding.sketch3", 
     "variant": "NONAPPSTORE", 
-    "appVersion": "45", 
+    "appVersion": "45.1", 
     "version": 92, 
-    "build": 43475, 
-    "commit": "62a429066b6505d0a6a211f8b74e8c5a38b40e00"
+    "build": 43504, 
+    "commit": "50f81cddca44938a07151f71e393545983779bf1"
   }, 
   "app": "com.bohemiancoding.sketch3", 
   "fonts": [
@@ -20,10 +20,10 @@
     "Raleway-Regular"
   ], 
   "variant": "NONAPPSTORE", 
-  "appVersion": "45", 
+  "appVersion": "45.1", 
   "version": 92, 
-  "build": 43475, 
-  "commit": "62a429066b6505d0a6a211f8b74e8c5a38b40e00", 
+  "build": 43504, 
+  "commit": "50f81cddca44938a07151f71e393545983779bf1", 
   "pagesAndArtboards": {
     "878A61C6-D485-41ED-A3D8-DBE6A1B467B1": {
       "artboards": {

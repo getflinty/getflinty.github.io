@@ -2408,7 +2408,7 @@
       "frame": {
         "constrainProportions": false, 
         "height": 22, 
-        "width": 420, 
+        "width": 342, 
         "y": -150, 
         "x": 1746, 
         "_class": "rect"
@@ -2426,7 +2426,7 @@
               "frame": {
                 "constrainProportions": false, 
                 "height": 2, 
-                "width": 280, 
+                "width": 230, 
                 "y": 10, 
                 "x": 27, 
                 "_class": "rect"
@@ -2442,7 +2442,7 @@
                   "frame": {
                     "constrainProportions": false, 
                     "height": 2, 
-                    "width": 280, 
+                    "width": 230, 
                     "y": 0, 
                     "x": 0, 
                     "_class": "rect"
@@ -2547,6 +2547,11 @@
               "isFlippedHorizontal": false, 
               "isVisible": true, 
               "hasClickThrough": false, 
+              "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                  "kModelPropertiesKey": {}
+                }
+              }, 
               "rotation": 0, 
               "isFlippedVertical": false, 
               "name": "Line", 
@@ -2570,7 +2575,7 @@
                 "height": 20, 
                 "width": 11, 
                 "y": 0, 
-                "x": 322, 
+                "x": 272, 
                 "_class": "rect"
               }, 
               "glyphBounds": "{{0, 0}, {10, 16}}", 
@@ -2604,6 +2609,13 @@
               "_class": "text", 
               "lineSpacingBehaviour": 2, 
               "isFlippedHorizontal": false, 
+              "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                  "kModelPropertiesKey": {
+                    "isAutoWidth": 1
+                  }
+                }
+              }, 
               "rotation": 0, 
               "textBehaviour": 0, 
               "isFlippedVertical": false, 
@@ -2635,7 +2647,7 @@
                 "height": 16, 
                 "width": 16, 
                 "y": 3, 
-                "x": 299, 
+                "x": 249, 
                 "_class": "rect"
               }, 
               "resizingType": 0, 
@@ -2767,6 +2779,27 @@
               "isFlippedHorizontal": false, 
               "isVisible": true, 
               "hasClickThrough": false, 
+              "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                  "kModelPropertiesKey": {
+                    "constraints": {
+                      "automatic": 1, 
+                      "model_version": 0.1, 
+                      "model_class": "ADModelViewConstraints", 
+                      "aspectRatio": {
+                        "constant": 16, 
+                        "enabled": 1, 
+                        "model_version": 0.1, 
+                        "multiplier": 16, 
+                        "model_class": "ADModelConstraint", 
+                        "modelID": "constraint_794f044f-5edc-47f2-b6e2-f914ad6c165f"
+                      }, 
+                      "scaleFactor": 1, 
+                      "modelID": "viewConstraints_9ecda043-baf2-4278-93bd-d363aca527ea"
+                    }
+                  }
+                }
+              }, 
               "rotation": 0, 
               "isFlippedVertical": false, 
               "name": "End Control", 
@@ -3004,11 +3037,10 @@
               }
             }
           ], 
-          "style": {
-            "endDecorationType": 0, 
-            "_class": "style", 
-            "startDecorationType": 0, 
-            "miterLimit": 10
+          "userInfo": {
+            "com.animaapp.stc-sketch-plugin": {
+              "kModelPropertiesKey": {}
+            }
           }, 
           "isFlippedHorizontal": false, 
           "name": "Dual Range Slider", 
@@ -3017,9 +3049,9 @@
           "frame": {
             "constrainProportions": false, 
             "height": 20, 
-            "width": 333, 
+            "width": 283, 
             "y": 0, 
-            "x": 42, 
+            "x": 30, 
             "_class": "rect"
           }, 
           "resizingType": 0, 
@@ -3038,6 +3070,12 @@
           "originalObjectID": "C00007C4-99C5-4EBA-A4BC-71B3CAE7A021", 
           "rotation": 0, 
           "_class": "group", 
+          "style": {
+            "endDecorationType": 0, 
+            "_class": "style", 
+            "startDecorationType": 0, 
+            "miterLimit": 10
+          }, 
           "nameIsFixed": true, 
           "isFlippedVertical": false
         }
@@ -3067,8 +3105,13 @@
         "guides": [], 
         "base": 0
       }, 
-      "hasClickThrough": true, 
-      "changeIdentifier": 407, 
+      "hasClickThrough": false, 
+      "userInfo": {
+        "com.animaapp.stc-sketch-plugin": {
+          "kModelPropertiesKey": {}
+        }
+      }, 
+      "changeIdentifier": 909, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Slider/Dual Range/Annotated", 

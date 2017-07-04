@@ -17403,6 +17403,11 @@
               "isFlippedHorizontal": false, 
               "isVisible": true, 
               "hasClickThrough": false, 
+              "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                  "kModelPropertiesKey": {}
+                }
+              }, 
               "rotation": 0, 
               "isFlippedVertical": false, 
               "name": "Background", 
@@ -17570,7 +17575,7 @@
                 "height": 25, 
                 "width": 25, 
                 "y": 20, 
-                "x": 765, 
+                "x": 755, 
                 "_class": "rect"
               }, 
               "symbolID": "6CA933AA-4699-4862-8144-798E48D0C516", 
@@ -17591,11 +17596,17 @@
               "isFlippedHorizontal": false, 
               "horizontalSpacing": 0, 
               "isVisible": true, 
+              "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                  "kModelPropertiesKey": {}
+                }
+              }, 
               "rotation": 0, 
               "masterInfluenceEdgeMaxYPadding": 0, 
+              "masterInfluenceEdgeMinYPadding": 0, 
               "isFlippedVertical": false, 
               "name": "Mailbox/Has notification", 
-              "masterInfluenceEdgeMinYPadding": 0, 
+              "nameIsFixed": false, 
               "exportOptions": {
                 "shouldTrim": false, 
                 "includedLayerIds": [], 
@@ -17604,7 +17615,6 @@
                 "exportFormats": []
               }, 
               "masterInfluenceEdgeMaxXPadding": 0, 
-              "nameIsFixed": false, 
               "originalObjectID": "C728F524-E980-4AF7-B1E1-3B0C4C362BDF", 
               "shouldBreakMaskChain": false
             }, 
@@ -18224,11 +18234,10 @@
               "isFlippedVertical": false
             }
           ], 
-          "style": {
-            "endDecorationType": 0, 
-            "_class": "style", 
-            "startDecorationType": 0, 
-            "miterLimit": 10
+          "userInfo": {
+            "com.animaapp.stc-sketch-plugin": {
+              "kModelPropertiesKey": {}
+            }
           }, 
           "isFlippedHorizontal": false, 
           "name": "Toolbar", 
@@ -18268,6 +18277,12 @@
           "originalObjectID": "B02BADC3-F48C-4C41-A29A-4BB50BD5E038", 
           "rotation": 0, 
           "_class": "group", 
+          "style": {
+            "endDecorationType": 0, 
+            "_class": "style", 
+            "startDecorationType": 0, 
+            "miterLimit": 10
+          }, 
           "nameIsFixed": true, 
           "isFlippedVertical": false
         }
@@ -18298,7 +18313,7 @@
         "base": 0
       }, 
       "hasClickThrough": true, 
-      "changeIdentifier": 586, 
+      "changeIdentifier": 599, 
       "rotation": 0, 
       "isFlippedVertical": false, 
       "name": "Toolbar", 
